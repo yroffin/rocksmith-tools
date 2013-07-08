@@ -6,5 +6,13 @@
   <packaging>pom</packaging>
   <modules>
   	<module>rocksmith-tools-model</module>
+  	<module>rocksmith-tools-core</module>
   </modules>
+  <dependencies>
+  	<dependency>
+  		<groupId>junit</groupId>
+  		<artifactId>junit</artifactId>
+  		<version>4.11</version>
+  	</dependency>
+  </dependencies>
 </project>
