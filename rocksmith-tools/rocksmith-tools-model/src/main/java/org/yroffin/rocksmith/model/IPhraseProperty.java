@@ -16,7 +16,7 @@
 package org.yroffin.rocksmith.model;
 
 /**
- * PhraseProperties
+ * PhraseProperty
  * 
  * Uncertain. Possibly a way of altering the way automatic difficulty affects a
  * particular phrase? Some songs have them (e.g. Freebird), some don't (e.g.
@@ -29,6 +29,6 @@ package org.yroffin.rocksmith.model;
  * <phraseProperty difficulty="-1" empty="0" levelJump="0" phraseId="1"
  * redundant="0"/> </phraseProperties> ... </song>
  */
-public interface IPhraseProperties extends IXmlEntity {
+public interface IPhraseProperty extends IXmlEntity {
 
 }

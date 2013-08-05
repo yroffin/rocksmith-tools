@@ -43,4 +43,6 @@ package org.yroffin.rocksmith.model;
  */
 public interface IChordTemplate extends IXmlEntity {
 
+	StringBuilder asXml(StringBuilder xml);
+
 }

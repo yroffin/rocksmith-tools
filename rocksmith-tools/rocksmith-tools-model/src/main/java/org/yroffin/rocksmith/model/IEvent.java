@@ -28,9 +28,6 @@ package org.yroffin.rocksmith.model;
  * <handShapes count="0"/> </level> <level difficulty="1"> ... </level>
  * </levels> </song>
  */
-public interface ILevel extends IXmlEntity {
+public interface IEvent extends IXmlEntity {
 
-	void add(INote note);
-
-	void add(IAnchor anchor);
 }

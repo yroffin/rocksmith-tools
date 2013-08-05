@@ -15,14 +15,24 @@
  */
 package org.yroffin.rocksmith.model.impl;
 
+import java.text.DateFormat;
+import java.text.DecimalFormat;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+import java.util.Locale;
 
-import org.yroffin.rocksmith.model.ILinkedDiffs;
+import org.yroffin.rocksmith.model.IChordTemplate;
+import org.yroffin.rocksmith.model.IEbeat;
+import org.yroffin.rocksmith.model.IEvent;
+import org.yroffin.rocksmith.model.IFretHandMuteTemplate;
+import org.yroffin.rocksmith.model.ILevel;
+import org.yroffin.rocksmith.model.ILinkedDiff;
 import org.yroffin.rocksmith.model.IPhraseEntity;
 import org.yroffin.rocksmith.model.IPhraseIterationEntity;
-import org.yroffin.rocksmith.model.IPhraseProperties;
+import org.yroffin.rocksmith.model.IPhraseProperty;
+import org.yroffin.rocksmith.model.ISection;
 import org.yroffin.rocksmith.model.ISongEntity;
 import org.yroffin.rocksmith.model.IXmlEntity;
 
@@ -47,17 +57,37 @@ public class SongEntity implements ISongEntity {
 	private final List<IXmlEntity> xmlPhraseIterations = new ArrayList<IXmlEntity>();
 	private final List<IXmlEntity> xmlLinkedDiffs = new ArrayList<IXmlEntity>();
 	private final List<IXmlEntity> xmlPhraseProperties = new ArrayList<IXmlEntity>();
+	private final List<IXmlEntity> xmlChordTemplates = new ArrayList<IXmlEntity>();
+	private final List<IXmlEntity> xmlFretHandMuteTemplates = new ArrayList<IXmlEntity>();
+	private final List<IXmlEntity> xmlEbeats = new ArrayList<IXmlEntity>();
+	private final List<IXmlEntity> xmlSections = new ArrayList<IXmlEntity>();
+	private final List<IXmlEntity> xmlEvents = new ArrayList<IXmlEntity>();
+	private final List<IXmlEntity> xmlLevels = new ArrayList<IXmlEntity>();
 
 	private final List<IPhraseEntity> phrases = new ArrayList<IPhraseEntity>();
 	private final List<IPhraseIterationEntity> phraseIterations = new ArrayList<IPhraseIterationEntity>();
-	private final List<ILinkedDiffs> linkedDiffs = new ArrayList<ILinkedDiffs>();
-	private final List<IPhraseProperties> phraseProperties = new ArrayList<IPhraseProperties>();
+	private final List<ILinkedDiff> linkedDiffs = new ArrayList<ILinkedDiff>();
+	private final List<IPhraseProperty> phraseProperties = new ArrayList<IPhraseProperty>();
+	private final List<IChordTemplate> chordTemplates = new ArrayList<IChordTemplate>();
+	private final List<IFretHandMuteTemplate> fretHandMuteTemplates = new ArrayList<IFretHandMuteTemplate>();
+	private final List<IEbeat> ebeats = new ArrayList<IEbeat>();
+	private final List<ISection> sections = new ArrayList<ISection>();
+	private final List<IEvent> events = new ArrayList<IEvent>();
+	private final List<ILevel> levels = new ArrayList<ILevel>();
 
 	public static ISongEntity factory() {
 		return new SongEntity();
 	}
 
+	static DateFormat dateFormat = new SimpleDateFormat("dd-MM-yyyy H:m");
+
 	public StringBuilder asXml(StringBuilder xml) {
+		DecimalFormat df = (DecimalFormat) DecimalFormat
+				.getNumberInstance(Locale.ENGLISH);
+		df.setMaximumFractionDigits(3);
+		df.setMinimumFractionDigits(3);
+		df.setDecimalSeparatorAlwaysShown(true);
+
 		xml.append("<?xml version='1.0' encoding='UTF-8'?>");
 		/**
 		 * dump song level
@@ -85,12 +115,27 @@ public class SongEntity implements ISongEntity {
 		 * part
 		 */
 		if (offset != -1.0) {
-			xml.append("\n<offset>" + offset + "</offset>");
+			xml.append("\n<offset>" + df.format(offset) + "</offset>");
+		}
+		if (songLength != -1.0) {
+			xml.append("\n<songLength>" + df.format(songLength)
+					+ "</songLength>");
+		}
+		if (lastConversionDateTime != null) {
+			xml.append("\n<lastConversionDateTime>"
+					+ dateFormat.format(lastConversionDateTime)
+					+ "</lastConversionDateTime>");
 		}
 		EntitiesAsXml(xml, "phrases", xmlPhrases);
 		EntitiesAsXml(xml, "phraseIterations", xmlPhraseIterations);
 		EntitiesAsXml(xml, "linkedDiffs", xmlLinkedDiffs);
 		EntitiesAsXml(xml, "phraseProperties", xmlPhraseProperties);
+		EntitiesAsXml(xml, "chordTemplates", xmlChordTemplates);
+		EntitiesAsXml(xml, "fretHandMuteTemplates", xmlFretHandMuteTemplates);
+		EntitiesAsXml(xml, "ebeats", xmlEbeats);
+		EntitiesAsXml(xml, "sections", xmlSections);
+		EntitiesAsXml(xml, "events", xmlEvents);
+		EntitiesAsXml(xml, "levels", xmlLevels);
 		xml.append("\n</song>");
 		return xml;
 	}
@@ -119,14 +164,44 @@ public class SongEntity implements ISongEntity {
 		phraseIterations.add(entity);
 	}
 
-	public void add(ILinkedDiffs linkedDiff) {
+	public void add(ILinkedDiff linkedDiff) {
 		xmlLinkedDiffs.add(linkedDiff);
 		linkedDiffs.add(linkedDiff);
 	}
 
-	public void add(IPhraseProperties phraseProperty) {
+	public void add(IPhraseProperty phraseProperty) {
 		xmlPhraseProperties.add(phraseProperty);
 		phraseProperties.add(phraseProperty);
+	}
+
+	public void add(IChordTemplate chordTemplate) {
+		xmlChordTemplates.add(chordTemplate);
+		chordTemplates.add(chordTemplate);
+	}
+
+	public void add(IFretHandMuteTemplate fretHandMuteTemplate) {
+		xmlFretHandMuteTemplates.add(fretHandMuteTemplate);
+		fretHandMuteTemplates.add(fretHandMuteTemplate);
+	}
+
+	public void add(IEbeat ebeat) {
+		xmlEbeats.add(ebeat);
+		ebeats.add(ebeat);
+	}
+
+	public void add(ISection section) {
+		xmlSections.add(section);
+		sections.add(section);
+	}
+
+	public void add(IEvent event) {
+		xmlEvents.add(event);
+		events.add(event);
+	}
+
+	public void add(ILevel level) {
+		xmlLevels.add(level);
+		levels.add(level);
 	}
 
 	public String getTitle() {

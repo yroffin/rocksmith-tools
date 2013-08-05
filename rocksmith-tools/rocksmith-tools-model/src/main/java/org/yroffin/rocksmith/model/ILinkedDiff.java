@@ -30,6 +30,6 @@ package org.yroffin.rocksmith.model;
  * <song> ... </phraseIterations> <linkedDiffs count="1"> <linkedDiff
  * childId="1" parentId="2"/> </linkedDiffs> ... </song>
  */
-public interface ILinkedDiffs extends IXmlEntity {
+public interface ILinkedDiff extends IXmlEntity {
 
 }

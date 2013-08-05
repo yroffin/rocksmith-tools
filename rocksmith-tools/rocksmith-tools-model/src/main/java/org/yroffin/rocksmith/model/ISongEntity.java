@@ -104,11 +104,21 @@ public interface ISongEntity extends IXmlEntity {
 	 */
 	void setLastConversionDateTime(Date date);
 
+	void add(IEbeat phrase);
+
 	void add(IPhraseEntity phrase);
 
 	void add(IPhraseIterationEntity phraseIterationEntity);
 
-	void add(ILinkedDiffs linkedDiffs);
+	void add(ILinkedDiff linkedDiff);
 
-	void add(IPhraseProperties phraseProperties);
+	void add(IPhraseProperty phraseProperty);
+
+	void add(IChordTemplate chordTemplate);
+
+	void add(ISection section);
+
+	void add(IEvent event);
+
+	void add(ILevel level);
 }
