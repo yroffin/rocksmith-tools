@@ -36,4 +36,8 @@ package org.yroffin.rocksmith.model;
  */
 public interface IEbeat extends IXmlEntity {
 
+	int getMeasureId();
+
+	double getTime();
+
 }

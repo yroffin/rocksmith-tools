@@ -39,5 +39,13 @@ package org.yroffin.rocksmith.model;
  * "Sweet Child O mine" for example, has seven notes in one measure)
  */
 public interface INote extends IXmlEntity {
+	public void addSustain(long sustain);
 
+	public long getTime();
+
+	public void setSlideTo(int value);
+
+	public int getFret();
+
+	public boolean isSlide();
 }

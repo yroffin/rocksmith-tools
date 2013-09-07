@@ -1,0 +1,2922 @@
+Measure:1 beat:1/4 div:1/4
+Tick 0 track 2 string 0 fret 4 message F4P68V95D20160
+Tick 0 track 2 string 1 fret 5 message F5P64V95D20160
+Tick 0 track 2 string 2 fret 4 message F4P59V95D20160
+Measure:1 beat:1/4 div:2/4
+Measure:1 beat:1/4 div:3/4
+Measure:1 beat:1/4 div:4/4
+Measure:1 beat:2/4 div:1/4
+Measure:1 beat:2/4 div:2/4
+Measure:1 beat:2/4 div:3/4
+Measure:1 beat:2/4 div:4/4
+Measure:1 beat:3/4 div:1/4
+Tick 20160 track 2 string 0 message TIED20160
+Tick 20160 track 2 string 1 message TIED20160
+Tick 20160 track 2 string 2 message TIED20160
+Measure:1 beat:3/4 div:2/4
+Measure:1 beat:3/4 div:3/4
+Measure:1 beat:3/4 div:4/4
+Measure:1 beat:4/4 div:1/4
+Measure:1 beat:4/4 div:2/4
+Measure:1 beat:4/4 div:3/4
+Measure:1 beat:4/4 div:4/4
+Measure:2 beat:1/4 div:1/4
+Tick 40320 track 2 string 0 message F4P68V95D20160OFF
+Tick 40320 track 2 string 0 fret 3 message F3P67V95D20160
+Tick 40320 track 2 string 1 message F5P64V95D20160OFF
+Tick 40320 track 2 string 1 fret 2 message F2P61V95D20160
+Tick 40320 track 2 string 2 message F4P59V95D20160OFF
+Tick 40320 track 2 string 2 fret 2 message F2P57V95D20160
+Measure:2 beat:1/4 div:2/4
+Measure:2 beat:1/4 div:3/4
+Measure:2 beat:1/4 div:4/4
+Measure:2 beat:2/4 div:1/4
+Measure:2 beat:2/4 div:2/4
+Measure:2 beat:2/4 div:3/4
+Measure:2 beat:2/4 div:4/4
+Measure:2 beat:3/4 div:1/4
+Tick 60480 track 2 string 0 message TIED20160
+Tick 60480 track 2 string 1 message TIED20160
+Tick 60480 track 2 string 2 message TIED20160
+Measure:2 beat:3/4 div:2/4
+Measure:2 beat:3/4 div:3/4
+Measure:2 beat:3/4 div:4/4
+Measure:2 beat:4/4 div:1/4
+Measure:2 beat:4/4 div:2/4
+Measure:2 beat:4/4 div:3/4
+Measure:2 beat:4/4 div:4/4
+Measure:3 beat:1/4 div:1/4
+Tick 80640 track 2 string 0 message F3P67V95D20160OFF
+Tick 80640 track 2 string 0 fret 0 message F0P64V95D20160
+Tick 80640 track 2 string 1 message F2P61V95D20160OFF
+Tick 80640 track 2 string 1 fret 0 message F0P59V95D20160
+Tick 80640 track 2 string 2 message F2P57V95D20160OFF
+Tick 80640 track 2 string 2 fret 2 message F2P57V95D20160
+Measure:3 beat:1/4 div:2/4
+Measure:3 beat:1/4 div:3/4
+Measure:3 beat:1/4 div:4/4
+Measure:3 beat:2/4 div:1/4
+Measure:3 beat:2/4 div:2/4
+Measure:3 beat:2/4 div:3/4
+Measure:3 beat:2/4 div:4/4
+Measure:3 beat:3/4 div:1/4
+Tick 100800 track 2 string 0 message TIED20160
+Tick 100800 track 2 string 1 message TIED20160
+Tick 100800 track 2 string 2 message TIED20160
+Measure:3 beat:3/4 div:2/4
+Measure:3 beat:3/4 div:3/4
+Measure:3 beat:3/4 div:4/4
+Measure:3 beat:4/4 div:1/4
+Measure:3 beat:4/4 div:2/4
+Measure:3 beat:4/4 div:3/4
+Measure:3 beat:4/4 div:4/4
+Measure:4 beat:1/4 div:1/4
+Tick 120960 track 2 string 0 message TIED40320
+Tick 120960 track 2 string 1 message TIED40320
+Tick 120960 track 2 string 2 message TIED40320
+Measure:4 beat:1/4 div:2/4
+Measure:4 beat:1/4 div:3/4
+Measure:4 beat:1/4 div:4/4
+Measure:4 beat:2/4 div:1/4
+Measure:4 beat:2/4 div:2/4
+Measure:4 beat:2/4 div:3/4
+Measure:4 beat:2/4 div:4/4
+Measure:4 beat:3/4 div:1/4
+Measure:4 beat:3/4 div:2/4
+Measure:4 beat:3/4 div:3/4
+Measure:4 beat:3/4 div:4/4
+Measure:4 beat:4/4 div:1/4
+Measure:4 beat:4/4 div:2/4
+Measure:4 beat:4/4 div:3/4
+Measure:4 beat:4/4 div:4/4
+Measure:1 beat:1/4 div:1/4
+Tick 161280 track 2 string 0 message F0P64V95D20160OFF
+Tick 161280 track 2 string 0 fret 4 message F4P68V95D20160
+Tick 161280 track 2 string 1 message F0P59V95D20160OFF
+Tick 161280 track 2 string 1 fret 5 message F5P64V95D20160
+Tick 161280 track 2 string 2 message F2P57V95D20160OFF
+Tick 161280 track 2 string 2 fret 4 message F4P59V95D20160
+Measure:1 beat:1/4 div:2/4
+Measure:1 beat:1/4 div:3/4
+Measure:1 beat:1/4 div:4/4
+Measure:1 beat:2/4 div:1/4
+Measure:1 beat:2/4 div:2/4
+Measure:1 beat:2/4 div:3/4
+Measure:1 beat:2/4 div:4/4
+Measure:1 beat:3/4 div:1/4
+Tick 181440 track 2 string 0 message TIED20160
+Tick 181440 track 2 string 1 message TIED20160
+Tick 181440 track 2 string 2 message TIED20160
+Measure:1 beat:3/4 div:2/4
+Measure:1 beat:3/4 div:3/4
+Measure:1 beat:3/4 div:4/4
+Measure:1 beat:4/4 div:1/4
+Measure:1 beat:4/4 div:2/4
+Measure:1 beat:4/4 div:3/4
+Measure:1 beat:4/4 div:4/4
+Measure:2 beat:1/4 div:1/4
+Tick 201600 track 2 string 0 message F4P68V95D20160OFF
+Tick 201600 track 2 string 0 fret 3 message F3P67V95D20160
+Tick 201600 track 2 string 1 message F5P64V95D20160OFF
+Tick 201600 track 2 string 1 fret 2 message F2P61V95D20160
+Tick 201600 track 2 string 2 message F4P59V95D20160OFF
+Tick 201600 track 2 string 2 fret 2 message F2P57V95D20160
+Measure:2 beat:1/4 div:2/4
+Measure:2 beat:1/4 div:3/4
+Measure:2 beat:1/4 div:4/4
+Measure:2 beat:2/4 div:1/4
+Measure:2 beat:2/4 div:2/4
+Measure:2 beat:2/4 div:3/4
+Measure:2 beat:2/4 div:4/4
+Measure:2 beat:3/4 div:1/4
+Tick 221760 track 2 string 0 message TIED20160
+Tick 221760 track 2 string 1 message TIED20160
+Tick 221760 track 2 string 2 message TIED20160
+Measure:2 beat:3/4 div:2/4
+Measure:2 beat:3/4 div:3/4
+Measure:2 beat:3/4 div:4/4
+Measure:2 beat:4/4 div:1/4
+Measure:2 beat:4/4 div:2/4
+Measure:2 beat:4/4 div:3/4
+Measure:2 beat:4/4 div:4/4
+Measure:3 beat:1/4 div:1/4
+Tick 241920 track 2 string 0 message F3P67V95D20160OFF
+Tick 241920 track 2 string 0 fret 0 message F0P64V95D20160
+Tick 241920 track 2 string 1 message F2P61V95D20160OFF
+Tick 241920 track 2 string 1 fret 0 message F0P59V95D20160
+Tick 241920 track 2 string 2 message F2P57V95D20160OFF
+Tick 241920 track 2 string 2 fret 2 message F2P57V95D20160
+Measure:3 beat:1/4 div:2/4
+Measure:3 beat:1/4 div:3/4
+Measure:3 beat:1/4 div:4/4
+Measure:3 beat:2/4 div:1/4
+Measure:3 beat:2/4 div:2/4
+Measure:3 beat:2/4 div:3/4
+Measure:3 beat:2/4 div:4/4
+Measure:3 beat:3/4 div:1/4
+Tick 262080 track 2 string 0 message TIED20160
+Tick 262080 track 2 string 1 message TIED20160
+Tick 262080 track 2 string 2 message TIED20160
+Measure:3 beat:3/4 div:2/4
+Measure:3 beat:3/4 div:3/4
+Measure:3 beat:3/4 div:4/4
+Measure:3 beat:4/4 div:1/4
+Measure:3 beat:4/4 div:2/4
+Measure:3 beat:4/4 div:3/4
+Measure:3 beat:4/4 div:4/4
+Measure:4 beat:1/4 div:1/4
+Tick 282240 track 2 string 0 message TIED40320
+Tick 282240 track 2 string 1 message TIED40320
+Tick 282240 track 2 string 2 message TIED40320
+Measure:4 beat:1/4 div:2/4
+Measure:4 beat:1/4 div:3/4
+Measure:4 beat:1/4 div:4/4
+Measure:4 beat:2/4 div:1/4
+Measure:4 beat:2/4 div:2/4
+Measure:4 beat:2/4 div:3/4
+Measure:4 beat:2/4 div:4/4
+Measure:4 beat:3/4 div:1/4
+Measure:4 beat:3/4 div:2/4
+Measure:4 beat:3/4 div:3/4
+Measure:4 beat:3/4 div:4/4
+Measure:4 beat:4/4 div:1/4
+Measure:4 beat:4/4 div:2/4
+Measure:4 beat:4/4 div:3/4
+Measure:4 beat:4/4 div:4/4
+Measure:5 beat:1/4 div:1/4
+Tick 322560 track 2 string 0 message F0P64V95D20160OFF
+Tick 322560 track 2 string 0 fret 4 message F4P68V95D20160
+Tick 322560 track 2 string 1 message F0P59V95D20160OFF
+Tick 322560 track 2 string 1 fret 5 message F5P64V95D20160
+Tick 322560 track 2 string 2 message F2P57V95D20160OFF
+Tick 322560 track 2 string 2 fret 4 message F4P59V95D20160
+Tick 322560 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:1/4 div:2/4
+Measure:5 beat:1/4 div:3/4
+Tick 327600 track 3 string 2 message F7P40V95D5040OFF
+Tick 327600 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:1/4 div:4/4
+Measure:5 beat:2/4 div:1/4
+Tick 332640 track 3 string 2 message F7P40V95D5040OFF
+Tick 332640 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:5 beat:2/4 div:2/4
+Measure:5 beat:2/4 div:3/4
+Tick 337680 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 337680 track 3 string 3 message F7P35V95D5040OFF
+Measure:5 beat:2/4 div:4/4
+Measure:5 beat:3/4 div:1/4
+Tick 342720 track 2 string 0 message TIED20160
+Tick 342720 track 2 string 1 message TIED20160
+Tick 342720 track 2 string 2 message TIED20160
+Tick 342720 track 3 string 2 message F5P38V95D5040OFF
+Tick 342720 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:3/4 div:2/4
+Measure:5 beat:3/4 div:3/4
+Tick 347760 track 3 string 2 message F7P40V95D5040OFF
+Tick 347760 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:5 beat:3/4 div:4/4
+Measure:5 beat:4/4 div:1/4
+Tick 352800 track 3 string 2 message F5P38V95D5040OFF
+Tick 352800 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:4/4 div:2/4
+Measure:5 beat:4/4 div:3/4
+Tick 357840 track 3 string 2 message F7P40V95D5040OFF
+Tick 357840 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:5 beat:4/4 div:4/4
+Measure:6 beat:1/4 div:1/4
+Tick 362880 track 2 string 0 message F4P68V95D20160OFF
+Tick 362880 track 2 string 0 fret 3 message F3P67V95D20160
+Tick 362880 track 2 string 1 message F5P64V95D20160OFF
+Tick 362880 track 2 string 1 fret 2 message F2P61V95D20160
+Tick 362880 track 2 string 2 message F4P59V95D20160OFF
+Tick 362880 track 2 string 2 fret 2 message F2P57V95D20160
+Tick 362880 track 3 string 2 message F10P43V95D5040OFF
+Tick 362880 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:1/4 div:2/4
+Measure:6 beat:1/4 div:3/4
+Tick 367920 track 3 string 2 message F7P40V95D5040OFF
+Tick 367920 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:1/4 div:4/4
+Measure:6 beat:2/4 div:1/4
+Tick 372960 track 3 string 2 message F7P40V95D5040OFF
+Tick 372960 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:6 beat:2/4 div:2/4
+Measure:6 beat:2/4 div:3/4
+Tick 378000 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 378000 track 3 string 3 message F7P35V95D5040OFF
+Measure:6 beat:2/4 div:4/4
+Measure:6 beat:3/4 div:1/4
+Tick 383040 track 2 string 0 message TIED20160
+Tick 383040 track 2 string 1 message TIED20160
+Tick 383040 track 2 string 2 message TIED20160
+Tick 383040 track 3 string 2 message F5P38V95D5040OFF
+Tick 383040 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:3/4 div:2/4
+Measure:6 beat:3/4 div:3/4
+Tick 388080 track 3 string 2 message F7P40V95D5040OFF
+Tick 388080 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:6 beat:3/4 div:4/4
+Measure:6 beat:4/4 div:1/4
+Tick 393120 track 3 string 2 message F10P43V95D5040OFF
+Tick 393120 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:4/4 div:2/4
+Measure:6 beat:4/4 div:3/4
+Tick 398160 track 3 string 2 message F7P40V95D5040OFF
+Tick 398160 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:6 beat:4/4 div:4/4
+Measure:7 beat:1/4 div:1/4
+Tick 403200 track 2 string 0 message F3P67V95D20160OFF
+Tick 403200 track 2 string 0 fret 0 message F0P64V95D20160
+Tick 403200 track 2 string 1 message F2P61V95D20160OFF
+Tick 403200 track 2 string 1 fret 0 message F0P59V95D20160
+Tick 403200 track 2 string 2 message F2P57V95D20160OFF
+Tick 403200 track 2 string 2 fret 2 message F2P57V95D20160
+Tick 403200 track 3 string 2 message F5P38V95D5040OFF
+Tick 403200 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:7 beat:1/4 div:2/4
+Measure:7 beat:1/4 div:3/4
+Tick 408240 track 3 string 2 message F0P33V95D5040OFF
+Tick 408240 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:7 beat:1/4 div:4/4
+Measure:7 beat:2/4 div:1/4
+Tick 413280 track 3 string 2 message F0P33V95D5040OFF
+Tick 413280 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:7 beat:2/4 div:2/4
+Measure:7 beat:2/4 div:3/4
+Tick 418320 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 418320 track 3 string 3 message F3P31V95D5040OFF
+Measure:7 beat:2/4 div:4/4
+Measure:7 beat:3/4 div:1/4
+Tick 423360 track 2 string 0 message TIED20160
+Tick 423360 track 2 string 1 message TIED20160
+Tick 423360 track 2 string 2 message TIED20160
+Tick 423360 track 3 string 2 message F0P33V95D5040OFF
+Tick 423360 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:7 beat:3/4 div:2/4
+Measure:7 beat:3/4 div:3/4
+Tick 428400 track 3 string 2 message F2P35V95D5040OFF
+Tick 428400 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:7 beat:3/4 div:4/4
+Measure:7 beat:4/4 div:1/4
+Tick 433440 track 3 string 2 message F5P38V95D5040OFF
+Tick 433440 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:7 beat:4/4 div:2/4
+Measure:7 beat:4/4 div:3/4
+Tick 438480 track 3 string 2 message F2P35V95D5040OFF
+Tick 438480 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:7 beat:4/4 div:4/4
+Measure:8 beat:1/4 div:1/4
+Tick 443520 track 2 string 0 message TIED40320
+Tick 443520 track 2 string 1 message TIED40320
+Tick 443520 track 2 string 2 message TIED40320
+Tick 443520 track 3 string 2 message F0P33V95D5040OFF
+Tick 443520 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:8 beat:1/4 div:2/4
+Measure:8 beat:1/4 div:3/4
+Tick 448560 track 3 string 2 message F0P33V95D5040OFF
+Tick 448560 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:8 beat:1/4 div:4/4
+Measure:8 beat:2/4 div:1/4
+Tick 453600 track 3 string 2 message F0P33V95D5040OFF
+Tick 453600 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:8 beat:2/4 div:2/4
+Measure:8 beat:2/4 div:3/4
+Tick 458640 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 458640 track 3 string 3 message F3P31V95D5040OFF
+Measure:8 beat:2/4 div:4/4
+Measure:8 beat:3/4 div:1/4
+Tick 463680 track 3 string 2 message F0P33V95D5040OFF
+Tick 463680 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:8 beat:3/4 div:2/4
+Measure:8 beat:3/4 div:3/4
+Tick 468720 track 3 string 2 message F2P35V95D5040OFF
+Tick 468720 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:8 beat:3/4 div:4/4
+Measure:8 beat:4/4 div:1/4
+Tick 473760 track 3 string 2 message F5P38V95D5040OFF
+Tick 473760 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:8 beat:4/4 div:2/4
+Measure:8 beat:4/4 div:3/4
+Tick 478800 track 3 string 2 message F2P35V95D5040OFF
+Tick 478800 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:8 beat:4/4 div:4/4
+Measure:5 beat:1/4 div:1/4
+Tick 483840 track 2 string 0 message F0P64V95D20160OFF
+Tick 483840 track 2 string 0 fret 4 message F4P68V95D20160
+Tick 483840 track 2 string 1 message F0P59V95D20160OFF
+Tick 483840 track 2 string 1 fret 5 message F5P64V95D20160
+Tick 483840 track 2 string 2 message F2P57V95D20160OFF
+Tick 483840 track 2 string 2 fret 4 message F4P59V95D20160
+Tick 483840 track 3 string 2 message F5P38V95D5040OFF
+Tick 483840 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:1/4 div:2/4
+Measure:5 beat:1/4 div:3/4
+Tick 488880 track 3 string 2 message F7P40V95D5040OFF
+Tick 488880 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:1/4 div:4/4
+Measure:5 beat:2/4 div:1/4
+Tick 493920 track 3 string 2 message F7P40V95D5040OFF
+Tick 493920 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:5 beat:2/4 div:2/4
+Measure:5 beat:2/4 div:3/4
+Tick 498960 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 498960 track 3 string 3 message F7P35V95D5040OFF
+Measure:5 beat:2/4 div:4/4
+Measure:5 beat:3/4 div:1/4
+Tick 504000 track 2 string 0 message TIED20160
+Tick 504000 track 2 string 1 message TIED20160
+Tick 504000 track 2 string 2 message TIED20160
+Tick 504000 track 3 string 2 message F5P38V95D5040OFF
+Tick 504000 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:3/4 div:2/4
+Measure:5 beat:3/4 div:3/4
+Tick 509040 track 3 string 2 message F7P40V95D5040OFF
+Tick 509040 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:5 beat:3/4 div:4/4
+Measure:5 beat:4/4 div:1/4
+Tick 514080 track 3 string 2 message F5P38V95D5040OFF
+Tick 514080 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:4/4 div:2/4
+Measure:5 beat:4/4 div:3/4
+Tick 519120 track 3 string 2 message F7P40V95D5040OFF
+Tick 519120 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:5 beat:4/4 div:4/4
+Measure:6 beat:1/4 div:1/4
+Tick 524160 track 2 string 0 message F4P68V95D20160OFF
+Tick 524160 track 2 string 0 fret 3 message F3P67V95D20160
+Tick 524160 track 2 string 1 message F5P64V95D20160OFF
+Tick 524160 track 2 string 1 fret 2 message F2P61V95D20160
+Tick 524160 track 2 string 2 message F4P59V95D20160OFF
+Tick 524160 track 2 string 2 fret 2 message F2P57V95D20160
+Tick 524160 track 3 string 2 message F10P43V95D5040OFF
+Tick 524160 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:1/4 div:2/4
+Measure:6 beat:1/4 div:3/4
+Tick 529200 track 3 string 2 message F7P40V95D5040OFF
+Tick 529200 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:1/4 div:4/4
+Measure:6 beat:2/4 div:1/4
+Tick 534240 track 3 string 2 message F7P40V95D5040OFF
+Tick 534240 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:6 beat:2/4 div:2/4
+Measure:6 beat:2/4 div:3/4
+Tick 539280 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 539280 track 3 string 3 message F7P35V95D5040OFF
+Measure:6 beat:2/4 div:4/4
+Measure:6 beat:3/4 div:1/4
+Tick 544320 track 2 string 0 message TIED20160
+Tick 544320 track 2 string 1 message TIED20160
+Tick 544320 track 2 string 2 message TIED20160
+Tick 544320 track 3 string 2 message F5P38V95D5040OFF
+Tick 544320 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:3/4 div:2/4
+Measure:6 beat:3/4 div:3/4
+Tick 549360 track 3 string 2 message F7P40V95D5040OFF
+Tick 549360 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:6 beat:3/4 div:4/4
+Measure:6 beat:4/4 div:1/4
+Tick 554400 track 3 string 2 message F10P43V95D5040OFF
+Tick 554400 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:4/4 div:2/4
+Measure:6 beat:4/4 div:3/4
+Tick 559440 track 3 string 2 message F7P40V95D5040OFF
+Tick 559440 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:6 beat:4/4 div:4/4
+Measure:7 beat:1/4 div:1/4
+Tick 564480 track 2 string 0 message F3P67V95D20160OFF
+Tick 564480 track 2 string 0 fret 0 message F0P64V95D20160
+Tick 564480 track 2 string 1 message F2P61V95D20160OFF
+Tick 564480 track 2 string 1 fret 0 message F0P59V95D20160
+Tick 564480 track 2 string 2 message F2P57V95D20160OFF
+Tick 564480 track 2 string 2 fret 2 message F2P57V95D20160
+Tick 564480 track 3 string 2 message F5P38V95D5040OFF
+Tick 564480 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:7 beat:1/4 div:2/4
+Measure:7 beat:1/4 div:3/4
+Tick 569520 track 3 string 2 message F0P33V95D5040OFF
+Tick 569520 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:7 beat:1/4 div:4/4
+Measure:7 beat:2/4 div:1/4
+Tick 574560 track 3 string 2 message F0P33V95D5040OFF
+Tick 574560 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:7 beat:2/4 div:2/4
+Measure:7 beat:2/4 div:3/4
+Tick 579600 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 579600 track 3 string 3 message F3P31V95D5040OFF
+Measure:7 beat:2/4 div:4/4
+Measure:7 beat:3/4 div:1/4
+Tick 584640 track 2 string 0 message TIED20160
+Tick 584640 track 2 string 1 message TIED20160
+Tick 584640 track 2 string 2 message TIED20160
+Tick 584640 track 3 string 2 message F0P33V95D5040OFF
+Tick 584640 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:7 beat:3/4 div:2/4
+Measure:7 beat:3/4 div:3/4
+Tick 589680 track 3 string 2 message F2P35V95D5040OFF
+Tick 589680 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:7 beat:3/4 div:4/4
+Measure:7 beat:4/4 div:1/4
+Tick 594720 track 3 string 2 message F5P38V95D5040OFF
+Tick 594720 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:7 beat:4/4 div:2/4
+Measure:7 beat:4/4 div:3/4
+Tick 599760 track 3 string 2 message F2P35V95D5040OFF
+Tick 599760 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:7 beat:4/4 div:4/4
+Measure:8 beat:1/4 div:1/4
+Tick 604800 track 2 string 0 message TIED40320
+Tick 604800 track 2 string 1 message TIED40320
+Tick 604800 track 2 string 2 message TIED40320
+Tick 604800 track 3 string 2 message F0P33V95D5040OFF
+Tick 604800 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:8 beat:1/4 div:2/4
+Measure:8 beat:1/4 div:3/4
+Tick 609840 track 3 string 2 message F0P33V95D5040OFF
+Tick 609840 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:8 beat:1/4 div:4/4
+Measure:8 beat:2/4 div:1/4
+Tick 614880 track 3 string 2 message F0P33V95D5040OFF
+Tick 614880 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:8 beat:2/4 div:2/4
+Measure:8 beat:2/4 div:3/4
+Tick 619920 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 619920 track 3 string 3 message F3P31V95D5040OFF
+Measure:8 beat:2/4 div:4/4
+Measure:8 beat:3/4 div:1/4
+Tick 624960 track 3 string 2 message F0P33V95D5040OFF
+Tick 624960 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:8 beat:3/4 div:2/4
+Measure:8 beat:3/4 div:3/4
+Tick 630000 track 3 string 2 message F2P35V95D5040OFF
+Tick 630000 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:8 beat:3/4 div:4/4
+Measure:8 beat:4/4 div:1/4
+Tick 635040 track 3 string 2 message F5P38V95D5040OFF
+Tick 635040 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:8 beat:4/4 div:2/4
+Measure:8 beat:4/4 div:3/4
+Tick 640080 track 3 string 2 message F2P35V95D5040OFF
+Tick 640080 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:8 beat:4/4 div:4/4
+Measure:5 beat:1/4 div:1/4
+Tick 645120 track 2 string 0 message F0P64V95D20160OFF
+Tick 645120 track 2 string 0 fret 4 message F4P68V95D20160
+Tick 645120 track 2 string 1 message F0P59V95D20160OFF
+Tick 645120 track 2 string 1 fret 5 message F5P64V95D20160
+Tick 645120 track 2 string 2 message F2P57V95D20160OFF
+Tick 645120 track 2 string 2 fret 4 message F4P59V95D20160
+Tick 645120 track 3 string 2 message F5P38V95D5040OFF
+Tick 645120 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:1/4 div:2/4
+Measure:5 beat:1/4 div:3/4
+Tick 650160 track 3 string 2 message F7P40V95D5040OFF
+Tick 650160 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:1/4 div:4/4
+Measure:5 beat:2/4 div:1/4
+Tick 655200 track 3 string 2 message F7P40V95D5040OFF
+Tick 655200 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:5 beat:2/4 div:2/4
+Measure:5 beat:2/4 div:3/4
+Tick 660240 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 660240 track 3 string 3 message F7P35V95D5040OFF
+Measure:5 beat:2/4 div:4/4
+Measure:5 beat:3/4 div:1/4
+Tick 665280 track 2 string 0 message TIED20160
+Tick 665280 track 2 string 1 message TIED20160
+Tick 665280 track 2 string 2 message TIED20160
+Tick 665280 track 3 string 2 message F5P38V95D5040OFF
+Tick 665280 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:3/4 div:2/4
+Measure:5 beat:3/4 div:3/4
+Tick 670320 track 3 string 2 message F7P40V95D5040OFF
+Tick 670320 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:5 beat:3/4 div:4/4
+Measure:5 beat:4/4 div:1/4
+Tick 675360 track 3 string 2 message F5P38V95D5040OFF
+Tick 675360 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:4/4 div:2/4
+Measure:5 beat:4/4 div:3/4
+Tick 680400 track 3 string 2 message F7P40V95D5040OFF
+Tick 680400 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:5 beat:4/4 div:4/4
+Measure:6 beat:1/4 div:1/4
+Tick 685440 track 2 string 0 message F4P68V95D20160OFF
+Tick 685440 track 2 string 0 fret 3 message F3P67V95D20160
+Tick 685440 track 2 string 1 message F5P64V95D20160OFF
+Tick 685440 track 2 string 1 fret 2 message F2P61V95D20160
+Tick 685440 track 2 string 2 message F4P59V95D20160OFF
+Tick 685440 track 2 string 2 fret 2 message F2P57V95D20160
+Tick 685440 track 3 string 2 message F10P43V95D5040OFF
+Tick 685440 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:1/4 div:2/4
+Measure:6 beat:1/4 div:3/4
+Tick 690480 track 3 string 2 message F7P40V95D5040OFF
+Tick 690480 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:1/4 div:4/4
+Measure:6 beat:2/4 div:1/4
+Tick 695520 track 3 string 2 message F7P40V95D5040OFF
+Tick 695520 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:6 beat:2/4 div:2/4
+Measure:6 beat:2/4 div:3/4
+Tick 700560 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 700560 track 3 string 3 message F7P35V95D5040OFF
+Measure:6 beat:2/4 div:4/4
+Measure:6 beat:3/4 div:1/4
+Tick 705600 track 2 string 0 message TIED20160
+Tick 705600 track 2 string 1 message TIED20160
+Tick 705600 track 2 string 2 message TIED20160
+Tick 705600 track 3 string 2 message F5P38V95D5040OFF
+Tick 705600 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:3/4 div:2/4
+Measure:6 beat:3/4 div:3/4
+Tick 710640 track 3 string 2 message F7P40V95D5040OFF
+Tick 710640 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:6 beat:3/4 div:4/4
+Measure:6 beat:4/4 div:1/4
+Tick 715680 track 3 string 2 message F10P43V95D5040OFF
+Tick 715680 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:4/4 div:2/4
+Measure:6 beat:4/4 div:3/4
+Tick 720720 track 3 string 2 message F7P40V95D5040OFF
+Tick 720720 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:6 beat:4/4 div:4/4
+Measure:7 beat:1/4 div:1/4
+Tick 725760 track 2 string 0 message F3P67V95D20160OFF
+Tick 725760 track 2 string 0 fret 0 message F0P64V95D20160
+Tick 725760 track 2 string 1 message F2P61V95D20160OFF
+Tick 725760 track 2 string 1 fret 0 message F0P59V95D20160
+Tick 725760 track 2 string 2 message F2P57V95D20160OFF
+Tick 725760 track 2 string 2 fret 2 message F2P57V95D20160
+Tick 725760 track 3 string 2 message F5P38V95D5040OFF
+Tick 725760 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:7 beat:1/4 div:2/4
+Measure:7 beat:1/4 div:3/4
+Tick 730800 track 3 string 2 message F0P33V95D5040OFF
+Tick 730800 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:7 beat:1/4 div:4/4
+Measure:7 beat:2/4 div:1/4
+Tick 735840 track 3 string 2 message F0P33V95D5040OFF
+Tick 735840 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:7 beat:2/4 div:2/4
+Measure:7 beat:2/4 div:3/4
+Tick 740880 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 740880 track 3 string 3 message F3P31V95D5040OFF
+Measure:7 beat:2/4 div:4/4
+Measure:7 beat:3/4 div:1/4
+Tick 745920 track 2 string 0 message TIED20160
+Tick 745920 track 2 string 1 message TIED20160
+Tick 745920 track 2 string 2 message TIED20160
+Tick 745920 track 3 string 2 message F0P33V95D5040OFF
+Tick 745920 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:7 beat:3/4 div:2/4
+Measure:7 beat:3/4 div:3/4
+Tick 750960 track 3 string 2 message F2P35V95D5040OFF
+Tick 750960 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:7 beat:3/4 div:4/4
+Measure:7 beat:4/4 div:1/4
+Tick 756000 track 3 string 2 message F5P38V95D5040OFF
+Tick 756000 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:7 beat:4/4 div:2/4
+Measure:7 beat:4/4 div:3/4
+Tick 761040 track 3 string 2 message F2P35V95D5040OFF
+Tick 761040 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:7 beat:4/4 div:4/4
+Measure:8 beat:1/4 div:1/4
+Tick 766080 track 2 string 0 message TIED40320
+Tick 766080 track 2 string 1 message TIED40320
+Tick 766080 track 2 string 2 message TIED40320
+Tick 766080 track 3 string 2 message F0P33V95D5040OFF
+Tick 766080 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:8 beat:1/4 div:2/4
+Measure:8 beat:1/4 div:3/4
+Tick 771120 track 3 string 2 message F0P33V95D5040OFF
+Tick 771120 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:8 beat:1/4 div:4/4
+Measure:8 beat:2/4 div:1/4
+Tick 776160 track 3 string 2 message F0P33V95D5040OFF
+Tick 776160 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:8 beat:2/4 div:2/4
+Measure:8 beat:2/4 div:3/4
+Tick 781200 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 781200 track 3 string 3 message F3P31V95D5040OFF
+Measure:8 beat:2/4 div:4/4
+Measure:8 beat:3/4 div:1/4
+Tick 786240 track 3 string 2 message F0P33V95D5040OFF
+Tick 786240 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:8 beat:3/4 div:2/4
+Measure:8 beat:3/4 div:3/4
+Tick 791280 track 3 string 2 message F2P35V95D5040OFF
+Tick 791280 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:8 beat:3/4 div:4/4
+Measure:8 beat:4/4 div:1/4
+Tick 796320 track 3 string 2 message F5P38V95D5040OFF
+Tick 796320 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:8 beat:4/4 div:2/4
+Measure:8 beat:4/4 div:3/4
+Tick 801360 track 3 string 2 message F2P35V95D5040OFF
+Tick 801360 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:8 beat:4/4 div:4/4
+Measure:5 beat:1/4 div:1/4
+Tick 806400 track 2 string 0 message F0P64V95D20160OFF
+Tick 806400 track 2 string 0 fret 4 message F4P68V95D20160
+Tick 806400 track 2 string 1 message F0P59V95D20160OFF
+Tick 806400 track 2 string 1 fret 5 message F5P64V95D20160
+Tick 806400 track 2 string 2 message F2P57V95D20160OFF
+Tick 806400 track 2 string 2 fret 4 message F4P59V95D20160
+Tick 806400 track 3 string 2 message F5P38V95D5040OFF
+Tick 806400 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:1/4 div:2/4
+Measure:5 beat:1/4 div:3/4
+Tick 811440 track 3 string 2 message F7P40V95D5040OFF
+Tick 811440 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:1/4 div:4/4
+Measure:5 beat:2/4 div:1/4
+Tick 816480 track 3 string 2 message F7P40V95D5040OFF
+Tick 816480 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:5 beat:2/4 div:2/4
+Measure:5 beat:2/4 div:3/4
+Tick 821520 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 821520 track 3 string 3 message F7P35V95D5040OFF
+Measure:5 beat:2/4 div:4/4
+Measure:5 beat:3/4 div:1/4
+Tick 826560 track 2 string 0 message TIED20160
+Tick 826560 track 2 string 1 message TIED20160
+Tick 826560 track 2 string 2 message TIED20160
+Tick 826560 track 3 string 2 message F5P38V95D5040OFF
+Tick 826560 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:3/4 div:2/4
+Measure:5 beat:3/4 div:3/4
+Tick 831600 track 3 string 2 message F7P40V95D5040OFF
+Tick 831600 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:5 beat:3/4 div:4/4
+Measure:5 beat:4/4 div:1/4
+Tick 836640 track 3 string 2 message F5P38V95D5040OFF
+Tick 836640 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:4/4 div:2/4
+Measure:5 beat:4/4 div:3/4
+Tick 841680 track 3 string 2 message F7P40V95D5040OFF
+Tick 841680 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:5 beat:4/4 div:4/4
+Measure:6 beat:1/4 div:1/4
+Tick 846720 track 2 string 0 message F4P68V95D20160OFF
+Tick 846720 track 2 string 0 fret 3 message F3P67V95D20160
+Tick 846720 track 2 string 1 message F5P64V95D20160OFF
+Tick 846720 track 2 string 1 fret 2 message F2P61V95D20160
+Tick 846720 track 2 string 2 message F4P59V95D20160OFF
+Tick 846720 track 2 string 2 fret 2 message F2P57V95D20160
+Tick 846720 track 3 string 2 message F10P43V95D5040OFF
+Tick 846720 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:1/4 div:2/4
+Measure:6 beat:1/4 div:3/4
+Tick 851760 track 3 string 2 message F7P40V95D5040OFF
+Tick 851760 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:1/4 div:4/4
+Measure:6 beat:2/4 div:1/4
+Tick 856800 track 3 string 2 message F7P40V95D5040OFF
+Tick 856800 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:6 beat:2/4 div:2/4
+Measure:6 beat:2/4 div:3/4
+Tick 861840 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 861840 track 3 string 3 message F7P35V95D5040OFF
+Measure:6 beat:2/4 div:4/4
+Measure:6 beat:3/4 div:1/4
+Tick 866880 track 2 string 0 message TIED20160
+Tick 866880 track 2 string 1 message TIED20160
+Tick 866880 track 2 string 2 message TIED20160
+Tick 866880 track 3 string 2 message F5P38V95D5040OFF
+Tick 866880 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:3/4 div:2/4
+Measure:6 beat:3/4 div:3/4
+Tick 871920 track 3 string 2 message F7P40V95D5040OFF
+Tick 871920 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:6 beat:3/4 div:4/4
+Measure:6 beat:4/4 div:1/4
+Tick 876960 track 3 string 2 message F10P43V95D5040OFF
+Tick 876960 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:4/4 div:2/4
+Measure:6 beat:4/4 div:3/4
+Tick 882000 track 3 string 2 message F7P40V95D5040OFF
+Tick 882000 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:6 beat:4/4 div:4/4
+Measure:7 beat:1/4 div:1/4
+Tick 887040 track 2 string 0 message F3P67V95D20160OFF
+Tick 887040 track 2 string 0 fret 0 message F0P64V95D20160
+Tick 887040 track 2 string 1 message F2P61V95D20160OFF
+Tick 887040 track 2 string 1 fret 0 message F0P59V95D20160
+Tick 887040 track 2 string 2 message F2P57V95D20160OFF
+Tick 887040 track 2 string 2 fret 2 message F2P57V95D20160
+Tick 887040 track 3 string 2 message F5P38V95D5040OFF
+Tick 887040 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:7 beat:1/4 div:2/4
+Measure:7 beat:1/4 div:3/4
+Tick 892080 track 3 string 2 message F0P33V95D5040OFF
+Tick 892080 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:7 beat:1/4 div:4/4
+Measure:7 beat:2/4 div:1/4
+Tick 897120 track 3 string 2 message F0P33V95D5040OFF
+Tick 897120 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:7 beat:2/4 div:2/4
+Measure:7 beat:2/4 div:3/4
+Tick 902160 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 902160 track 3 string 3 message F3P31V95D5040OFF
+Measure:7 beat:2/4 div:4/4
+Measure:7 beat:3/4 div:1/4
+Tick 907200 track 2 string 0 message TIED20160
+Tick 907200 track 2 string 1 message TIED20160
+Tick 907200 track 2 string 2 message TIED20160
+Tick 907200 track 3 string 2 message F0P33V95D5040OFF
+Tick 907200 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:7 beat:3/4 div:2/4
+Measure:7 beat:3/4 div:3/4
+Tick 912240 track 3 string 2 message F2P35V95D5040OFF
+Tick 912240 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:7 beat:3/4 div:4/4
+Measure:7 beat:4/4 div:1/4
+Tick 917280 track 3 string 2 message F5P38V95D5040OFF
+Tick 917280 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:7 beat:4/4 div:2/4
+Measure:7 beat:4/4 div:3/4
+Tick 922320 track 3 string 2 message F2P35V95D5040OFF
+Tick 922320 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:7 beat:4/4 div:4/4
+Measure:8 beat:1/4 div:1/4
+Tick 927360 track 2 string 0 message TIED40320
+Tick 927360 track 2 string 1 message TIED40320
+Tick 927360 track 2 string 2 message TIED40320
+Tick 927360 track 3 string 2 message F0P33V95D5040OFF
+Tick 927360 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:8 beat:1/4 div:2/4
+Measure:8 beat:1/4 div:3/4
+Tick 932400 track 3 string 2 message F0P33V95D5040OFF
+Tick 932400 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:8 beat:1/4 div:4/4
+Measure:8 beat:2/4 div:1/4
+Tick 937440 track 3 string 2 message F0P33V95D5040OFF
+Tick 937440 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:8 beat:2/4 div:2/4
+Measure:8 beat:2/4 div:3/4
+Tick 942480 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 942480 track 3 string 3 message F3P31V95D5040OFF
+Measure:8 beat:2/4 div:4/4
+Measure:8 beat:3/4 div:1/4
+Tick 947520 track 3 string 2 message F0P33V95D5040OFF
+Tick 947520 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:8 beat:3/4 div:2/4
+Measure:8 beat:3/4 div:3/4
+Tick 952560 track 3 string 2 message F2P35V95D5040OFF
+Tick 952560 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:8 beat:3/4 div:4/4
+Measure:8 beat:4/4 div:1/4
+Tick 957600 track 3 string 2 message F5P38V95D5040OFF
+Tick 957600 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:8 beat:4/4 div:2/4
+Measure:8 beat:4/4 div:3/4
+Tick 962640 track 3 string 2 message F2P35V95D5040OFF
+Tick 962640 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:8 beat:4/4 div:4/4
+Measure:5 beat:1/4 div:1/4
+Tick 967680 track 2 string 0 message F0P64V95D20160OFF
+Tick 967680 track 2 string 0 fret 4 message F4P68V95D20160
+Tick 967680 track 2 string 1 message F0P59V95D20160OFF
+Tick 967680 track 2 string 1 fret 5 message F5P64V95D20160
+Tick 967680 track 2 string 2 message F2P57V95D20160OFF
+Tick 967680 track 2 string 2 fret 4 message F4P59V95D20160
+Tick 967680 track 3 string 2 message F5P38V95D5040OFF
+Tick 967680 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:1/4 div:2/4
+Measure:5 beat:1/4 div:3/4
+Tick 972720 track 3 string 2 message F7P40V95D5040OFF
+Tick 972720 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:1/4 div:4/4
+Measure:5 beat:2/4 div:1/4
+Tick 977760 track 3 string 2 message F7P40V95D5040OFF
+Tick 977760 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:5 beat:2/4 div:2/4
+Measure:5 beat:2/4 div:3/4
+Tick 982800 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 982800 track 3 string 3 message F7P35V95D5040OFF
+Measure:5 beat:2/4 div:4/4
+Measure:5 beat:3/4 div:1/4
+Tick 987840 track 2 string 0 message TIED20160
+Tick 987840 track 2 string 1 message TIED20160
+Tick 987840 track 2 string 2 message TIED20160
+Tick 987840 track 3 string 2 message F5P38V95D5040OFF
+Tick 987840 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:3/4 div:2/4
+Measure:5 beat:3/4 div:3/4
+Tick 992880 track 3 string 2 message F7P40V95D5040OFF
+Tick 992880 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:5 beat:3/4 div:4/4
+Measure:5 beat:4/4 div:1/4
+Tick 997920 track 3 string 2 message F5P38V95D5040OFF
+Tick 997920 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:5 beat:4/4 div:2/4
+Measure:5 beat:4/4 div:3/4
+Tick 1002960 track 3 string 2 message F7P40V95D5040OFF
+Tick 1002960 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:5 beat:4/4 div:4/4
+Measure:6 beat:1/4 div:1/4
+Tick 1008000 track 2 string 0 message F4P68V95D20160OFF
+Tick 1008000 track 2 string 0 fret 3 message F3P67V95D20160
+Tick 1008000 track 2 string 1 message F5P64V95D20160OFF
+Tick 1008000 track 2 string 1 fret 2 message F2P61V95D20160
+Tick 1008000 track 2 string 2 message F4P59V95D20160OFF
+Tick 1008000 track 2 string 2 fret 2 message F2P57V95D20160
+Tick 1008000 track 3 string 2 message F10P43V95D5040OFF
+Tick 1008000 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:1/4 div:2/4
+Measure:6 beat:1/4 div:3/4
+Tick 1013040 track 3 string 2 message F7P40V95D5040OFF
+Tick 1013040 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:1/4 div:4/4
+Measure:6 beat:2/4 div:1/4
+Tick 1018080 track 3 string 2 message F7P40V95D5040OFF
+Tick 1018080 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:6 beat:2/4 div:2/4
+Measure:6 beat:2/4 div:3/4
+Tick 1023120 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 1023120 track 3 string 3 message F7P35V95D5040OFF
+Measure:6 beat:2/4 div:4/4
+Measure:6 beat:3/4 div:1/4
+Tick 1028160 track 2 string 0 message TIED20160
+Tick 1028160 track 2 string 1 message TIED20160
+Tick 1028160 track 2 string 2 message TIED20160
+Tick 1028160 track 3 string 2 message F5P38V95D5040OFF
+Tick 1028160 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:3/4 div:2/4
+Measure:6 beat:3/4 div:3/4
+Tick 1033200 track 3 string 2 message F7P40V95D5040OFF
+Tick 1033200 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:6 beat:3/4 div:4/4
+Measure:6 beat:4/4 div:1/4
+Tick 1038240 track 3 string 2 message F10P43V95D5040OFF
+Tick 1038240 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:6 beat:4/4 div:2/4
+Measure:6 beat:4/4 div:3/4
+Tick 1043280 track 3 string 2 message F7P40V95D5040OFF
+Tick 1043280 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:6 beat:4/4 div:4/4
+Measure:7 beat:1/4 div:1/4
+Tick 1048320 track 2 string 0 message F3P67V95D20160OFF
+Tick 1048320 track 2 string 0 fret 0 message F0P64V95D20160
+Tick 1048320 track 2 string 1 message F2P61V95D20160OFF
+Tick 1048320 track 2 string 1 fret 0 message F0P59V95D20160
+Tick 1048320 track 2 string 2 message F2P57V95D20160OFF
+Tick 1048320 track 2 string 2 fret 2 message F2P57V95D20160
+Tick 1048320 track 3 string 2 message F5P38V95D5040OFF
+Tick 1048320 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:7 beat:1/4 div:2/4
+Measure:7 beat:1/4 div:3/4
+Tick 1053360 track 3 string 2 message F0P33V95D5040OFF
+Tick 1053360 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:7 beat:1/4 div:4/4
+Measure:7 beat:2/4 div:1/4
+Tick 1058400 track 3 string 2 message F0P33V95D5040OFF
+Tick 1058400 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:7 beat:2/4 div:2/4
+Measure:7 beat:2/4 div:3/4
+Tick 1063440 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 1063440 track 3 string 3 message F3P31V95D5040OFF
+Measure:7 beat:2/4 div:4/4
+Measure:7 beat:3/4 div:1/4
+Tick 1068480 track 2 string 0 message TIED20160
+Tick 1068480 track 2 string 1 message TIED20160
+Tick 1068480 track 2 string 2 message TIED20160
+Tick 1068480 track 3 string 2 message F0P33V95D5040OFF
+Tick 1068480 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:7 beat:3/4 div:2/4
+Measure:7 beat:3/4 div:3/4
+Tick 1073520 track 3 string 2 message F2P35V95D5040OFF
+Tick 1073520 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:7 beat:3/4 div:4/4
+Measure:7 beat:4/4 div:1/4
+Tick 1078560 track 3 string 2 message F5P38V95D5040OFF
+Tick 1078560 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:7 beat:4/4 div:2/4
+Measure:7 beat:4/4 div:3/4
+Tick 1083600 track 3 string 2 message F2P35V95D5040OFF
+Tick 1083600 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:7 beat:4/4 div:4/4
+Measure:8 beat:1/4 div:1/4
+Tick 1088640 track 2 string 0 message TIED40320
+Tick 1088640 track 2 string 1 message TIED40320
+Tick 1088640 track 2 string 2 message TIED40320
+Tick 1088640 track 3 string 2 message F0P33V95D5040OFF
+Tick 1088640 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:8 beat:1/4 div:2/4
+Measure:8 beat:1/4 div:3/4
+Tick 1093680 track 3 string 2 message F0P33V95D5040OFF
+Tick 1093680 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:8 beat:1/4 div:4/4
+Measure:8 beat:2/4 div:1/4
+Tick 1098720 track 3 string 2 message F0P33V95D5040OFF
+Tick 1098720 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:8 beat:2/4 div:2/4
+Measure:8 beat:2/4 div:3/4
+Tick 1103760 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 1103760 track 3 string 3 message F3P31V95D5040OFF
+Measure:8 beat:2/4 div:4/4
+Measure:8 beat:3/4 div:1/4
+Tick 1108800 track 3 string 2 message F0P33V95D5040OFF
+Tick 1108800 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:8 beat:3/4 div:2/4
+Measure:8 beat:3/4 div:3/4
+Tick 1113840 track 3 string 2 message F2P35V95D5040OFF
+Tick 1113840 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:8 beat:3/4 div:4/4
+Measure:8 beat:4/4 div:1/4
+Tick 1118880 track 3 string 2 message F5P38V95D5040OFF
+Tick 1118880 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:8 beat:4/4 div:2/4
+Measure:8 beat:4/4 div:3/4
+Tick 1123920 track 3 string 2 message F2P35V95D5040OFF
+Tick 1123920 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:8 beat:4/4 div:4/4
+Measure:9 beat:1/4 div:1/4
+Tick 1128960 track 1 string 2 fret 5 message F5P60V95D40320
+Tick 1128960 track 1 string 3 fret 5 message F5P55V95D40320
+Tick 1128960 track 1 string 4 fret 3 message F3P48V95D40320
+Tick 1128960 track 2 string 0 message F0P64V95D20160OFF
+Tick 1128960 track 2 string 1 message F0P59V95D20160OFF
+Tick 1128960 track 2 string 2 message F2P57V95D20160OFF
+Tick 1128960 track 3 string 2 message F5P38V95D5040OFF
+Tick 1128960 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:9 beat:1/4 div:2/4
+Measure:9 beat:1/4 div:3/4
+Tick 1134000 track 3 string 2 message F3P36V95D5040OFF
+Tick 1134000 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:9 beat:1/4 div:4/4
+Measure:9 beat:2/4 div:1/4
+Tick 1139040 track 3 string 2 message F3P36V95D5040OFF
+Tick 1139040 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:9 beat:2/4 div:2/4
+Measure:9 beat:2/4 div:3/4
+Tick 1144080 track 3 string 2 message F3P36V95D5040OFF
+Tick 1144080 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:9 beat:2/4 div:4/4
+Measure:9 beat:3/4 div:1/4
+Tick 1149120 track 3 string 2 message F3P36V95D5040OFF
+Tick 1149120 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:9 beat:3/4 div:2/4
+Measure:9 beat:3/4 div:3/4
+Tick 1154160 track 3 string 2 message F3P36V95D5040OFF
+Tick 1154160 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:9 beat:3/4 div:4/4
+Measure:9 beat:4/4 div:1/4
+Tick 1159200 track 3 string 2 message F3P36V95D5040OFF
+Tick 1159200 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:9 beat:4/4 div:2/4
+Measure:9 beat:4/4 div:3/4
+Tick 1164240 track 3 string 2 message F3P36V95D5040OFF
+Tick 1164240 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:9 beat:4/4 div:4/4
+Measure:10 beat:1/4 div:1/4
+Tick 1169280 track 1 string 2 message TIED40320
+Tick 1169280 track 1 string 3 message TIED40320
+Tick 1169280 track 1 string 4 message TIED40320
+Tick 1169280 track 3 string 2 message F3P36V95D5040OFF
+Tick 1169280 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:10 beat:1/4 div:2/4
+Measure:10 beat:1/4 div:3/4
+Tick 1174320 track 3 string 2 message F3P36V95D5040OFF
+Tick 1174320 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:10 beat:1/4 div:4/4
+Measure:10 beat:2/4 div:1/4
+Tick 1179360 track 3 string 2 message F3P36V95D5040OFF
+Tick 1179360 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:10 beat:2/4 div:2/4
+Measure:10 beat:2/4 div:3/4
+Tick 1184400 track 3 string 2 message F3P36V95D5040OFF
+Tick 1184400 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:10 beat:2/4 div:4/4
+Measure:10 beat:3/4 div:1/4
+Tick 1189440 track 3 string 2 message F3P36V95D5040OFF
+Tick 1189440 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:10 beat:3/4 div:2/4
+Measure:10 beat:3/4 div:3/4
+Tick 1194480 track 3 string 2 message F3P36V95D5040OFF
+Tick 1194480 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:10 beat:3/4 div:4/4
+Measure:10 beat:4/4 div:1/4
+Tick 1199520 track 3 string 2 message F3P36V95D5040OFF
+Tick 1199520 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:10 beat:4/4 div:2/4
+Measure:10 beat:4/4 div:3/4
+Tick 1204560 track 3 string 2 message F3P36V95D5040OFF
+Tick 1204560 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:10 beat:4/4 div:4/4
+Measure:11 beat:1/4 div:1/4
+Tick 1209600 track 1 string 2 message F5P60V95D40320OFF
+Tick 1209600 track 1 string 2 fret 14 message F14P69V95D5040
+Tick 1209600 track 1 string 3 message F5P55V95D40320OFF
+Tick 1209600 track 1 string 4 message F3P48V95D40320OFF
+Tick 1209600 track 3 string 2 message F3P36V95D5040OFF
+Tick 1209600 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:11 beat:1/4 div:2/4
+Measure:11 beat:1/4 div:3/4
+Tick 1214640 track 1 string 2 message F14P69V95D5040OFF
+Tick 1214640 track 1 string 2 fret 13 message F13P68V95D5040
+Tick 1214640 track 3 string 2 message F5P38V95D5040OFF
+Tick 1214640 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:11 beat:1/4 div:4/4
+Measure:11 beat:2/4 div:1/4
+Tick 1219680 track 1 string 2 message F13P68V95D5040OFF
+Tick 1219680 track 1 string 2 fret 14 message F14P69V95D5040
+Tick 1219680 track 3 string 2 message F5P38V95D5040OFF
+Tick 1219680 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:11 beat:2/4 div:2/4
+Measure:11 beat:2/4 div:3/4
+Tick 1224720 track 1 string 2 message F14P69V95D5040OFF
+Tick 1224720 track 1 string 2 fret 13 message F13P68V95D5040
+Tick 1224720 track 3 string 2 message F5P38V95D5040OFF
+Tick 1224720 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:11 beat:2/4 div:4/4
+Measure:11 beat:3/4 div:1/4
+Tick 1229760 track 1 string 2 message F13P68V95D5040OFF
+Tick 1229760 track 1 string 2 fret 11 message F11P66V95D10080
+Tick 1229760 track 3 string 2 message F5P38V95D5040OFF
+Tick 1229760 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:11 beat:3/4 div:2/4
+Measure:11 beat:3/4 div:3/4
+Tick 1234800 track 3 string 3 message F5P33V95D5040OFF
+Tick 1234800 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:11 beat:3/4 div:4/4
+Measure:11 beat:4/4 div:1/4
+Tick 1239840 track 1 string 2 message F11P66V95D10080OFF
+Tick 1239840 track 1 string 3 fret 14 message F14P64V95D5040
+Tick 1239840 track 3 string 3 message F5P33V95D5040OFF
+Tick 1239840 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:11 beat:4/4 div:2/4
+Measure:11 beat:4/4 div:3/4
+Tick 1244880 track 1 string 2 fret 11 message F11P66V95D5040
+Tick 1244880 track 1 string 3 message F14P64V95D5040OFF
+Tick 1244880 track 3 string 3 message F5P33V95D5040OFF
+Tick 1244880 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:11 beat:4/4 div:4/4
+Measure:12 beat:1/4 div:1/4
+Tick 1249920 track 1 string 2 message F11P66V95D5040OFF
+Tick 1249920 track 1 string 2 fret 13 message F13P68V95D5040
+Tick 1249920 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 1249920 track 3 string 3 message F5P33V95D5040OFF
+Measure:12 beat:1/4 div:2/4
+Measure:12 beat:1/4 div:3/4
+Tick 1254960 track 1 string 2 message F13P68V95D5040OFF
+Tick 1254960 track 1 string 2 fret 14 message F14P69V95D5040
+Tick 1254960 track 3 string 2 message F5P38V95D5040OFF
+Tick 1254960 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:12 beat:1/4 div:4/4
+Measure:12 beat:2/4 div:1/4
+Tick 1260000 track 1 string 1 fret 12 message F12P71V95D5040
+Tick 1260000 track 1 string 2 message F14P69V95D5040OFF
+Tick 1260000 track 3 string 2 message F5P38V95D5040OFF
+Tick 1260000 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:12 beat:2/4 div:2/4
+Measure:12 beat:2/4 div:3/4
+Tick 1265040 track 1 string 1 message F12P71V95D5040OFF
+Tick 1265040 track 1 string 1 fret 13 message F13P72V95D5040
+Tick 1265040 track 3 string 2 message F5P38V95D5040OFF
+Tick 1265040 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:12 beat:2/4 div:4/4
+Measure:12 beat:3/4 div:1/4
+Tick 1270080 track 1 string 1 message F13P72V95D5040OFF
+Tick 1270080 track 1 string 1 fret 12 message F12P71V95D5040
+Tick 1270080 track 3 string 2 message F5P38V95D5040OFF
+Tick 1270080 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:12 beat:3/4 div:2/4
+Measure:12 beat:3/4 div:3/4
+Tick 1275120 track 1 string 1 message F12P71V95D5040OFF
+Tick 1275120 track 1 string 1 fret 10 message F10P69V95D5040
+Tick 1275120 track 3 string 3 message F5P33V95D5040OFF
+Tick 1275120 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:12 beat:3/4 div:4/4
+Measure:12 beat:4/4 div:1/4
+Tick 1280160 track 1 string 1 message F10P69V95D5040OFF
+Tick 1280160 track 1 string 1 fret 9 message F9P68V95D5040
+Tick 1280160 track 3 string 3 message F5P33V95D5040OFF
+Tick 1280160 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:12 beat:4/4 div:2/4
+Measure:12 beat:4/4 div:3/4
+Tick 1285200 track 1 string 1 message F9P68V95D5040OFF
+Tick 1285200 track 1 string 2 fret 9 message F9P64V95D5040
+Tick 1285200 track 3 string 3 message F5P33V95D5040OFF
+Tick 1285200 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:12 beat:4/4 div:4/4
+Measure:13 beat:1/4 div:1/4
+Tick 1290240 track 1 string 2 message F9P64V95D5040OFF
+Tick 1290240 track 1 string 2 fret 5 message F5P60V95D40320
+Tick 1290240 track 1 string 3 fret 5 message F5P55V95D40320
+Tick 1290240 track 1 string 4 fret 3 message F3P48V95D40320
+Tick 1290240 track 3 string 2 fret 3 message F3P36V95D5040
+Tick 1290240 track 3 string 3 message F5P33V95D5040OFF
+Measure:13 beat:1/4 div:2/4
+Measure:13 beat:1/4 div:3/4
+Tick 1295280 track 3 string 2 message F3P36V95D5040OFF
+Tick 1295280 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:13 beat:1/4 div:4/4
+Measure:13 beat:2/4 div:1/4
+Tick 1300320 track 3 string 2 message F3P36V95D5040OFF
+Tick 1300320 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:13 beat:2/4 div:2/4
+Measure:13 beat:2/4 div:3/4
+Tick 1305360 track 3 string 2 message F3P36V95D5040OFF
+Tick 1305360 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:13 beat:2/4 div:4/4
+Measure:13 beat:3/4 div:1/4
+Tick 1310400 track 3 string 2 message F3P36V95D5040OFF
+Tick 1310400 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:13 beat:3/4 div:2/4
+Measure:13 beat:3/4 div:3/4
+Tick 1315440 track 3 string 2 message F3P36V95D5040OFF
+Tick 1315440 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:13 beat:3/4 div:4/4
+Measure:13 beat:4/4 div:1/4
+Tick 1320480 track 3 string 2 message F3P36V95D5040OFF
+Tick 1320480 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:13 beat:4/4 div:2/4
+Measure:13 beat:4/4 div:3/4
+Tick 1325520 track 3 string 2 message F3P36V95D5040OFF
+Tick 1325520 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:13 beat:4/4 div:4/4
+Measure:14 beat:1/4 div:1/4
+Tick 1330560 track 1 string 2 message TIED40320
+Tick 1330560 track 1 string 3 message TIED40320
+Tick 1330560 track 1 string 4 message TIED40320
+Tick 1330560 track 3 string 2 message F3P36V95D5040OFF
+Tick 1330560 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:14 beat:1/4 div:2/4
+Measure:14 beat:1/4 div:3/4
+Tick 1335600 track 3 string 2 message F3P36V95D5040OFF
+Tick 1335600 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:14 beat:1/4 div:4/4
+Measure:14 beat:2/4 div:1/4
+Tick 1340640 track 3 string 2 message F3P36V95D5040OFF
+Tick 1340640 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:14 beat:2/4 div:2/4
+Measure:14 beat:2/4 div:3/4
+Tick 1345680 track 3 string 2 message F3P36V95D5040OFF
+Tick 1345680 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:14 beat:2/4 div:4/4
+Measure:14 beat:3/4 div:1/4
+Tick 1350720 track 3 string 2 message F3P36V95D5040OFF
+Tick 1350720 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:14 beat:3/4 div:2/4
+Measure:14 beat:3/4 div:3/4
+Tick 1355760 track 3 string 2 message F3P36V95D5040OFF
+Tick 1355760 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:14 beat:3/4 div:4/4
+Measure:14 beat:4/4 div:1/4
+Tick 1360800 track 3 string 2 message F3P36V95D5040OFF
+Tick 1360800 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:14 beat:4/4 div:2/4
+Measure:14 beat:4/4 div:3/4
+Tick 1365840 track 3 string 2 message F3P36V95D5040OFF
+Tick 1365840 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:14 beat:4/4 div:4/4
+Measure:15 beat:1/4 div:1/4
+Tick 1370880 track 1 string 2 message F5P60V95D40320OFF
+Tick 1370880 track 1 string 2 fret 12 message F12P67V95D5040
+Tick 1370880 track 1 string 3 message F5P55V95D40320OFF
+Tick 1370880 track 1 string 4 message F3P48V95D40320OFF
+Tick 1370880 track 3 string 2 message F3P36V95D5040OFF
+Tick 1370880 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:15 beat:1/4 div:2/4
+Measure:15 beat:1/4 div:3/4
+Tick 1375920 track 1 string 2 message F12P67V95D5040OFF
+Tick 1375920 track 1 string 2 fret 11 message F11P66V95D5040
+Tick 1375920 track 3 string 2 message F5P38V95D5040OFF
+Tick 1375920 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:15 beat:1/4 div:4/4
+Measure:15 beat:2/4 div:1/4
+Tick 1380960 track 1 string 2 message F11P66V95D5040OFF
+Tick 1380960 track 1 string 2 fret 12 message F12P67V95D5040
+Tick 1380960 track 3 string 2 message F5P38V95D5040OFF
+Tick 1380960 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:15 beat:2/4 div:2/4
+Measure:15 beat:2/4 div:3/4
+Tick 1386000 track 1 string 2 message F12P67V95D5040OFF
+Tick 1386000 track 1 string 2 fret 11 message F11P66V95D5040
+Tick 1386000 track 3 string 2 message F5P38V95D5040OFF
+Tick 1386000 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:15 beat:2/4 div:4/4
+Measure:15 beat:3/4 div:1/4
+Tick 1391040 track 1 string 2 message F11P66V95D5040OFF
+Tick 1391040 track 1 string 2 fret 9 message F9P64V95D10080
+Tick 1391040 track 3 string 2 message F5P38V95D5040OFF
+Tick 1391040 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:15 beat:3/4 div:2/4
+Measure:15 beat:3/4 div:3/4
+Tick 1396080 track 3 string 3 message F5P33V95D5040OFF
+Tick 1396080 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:15 beat:3/4 div:4/4
+Measure:15 beat:4/4 div:1/4
+Tick 1401120 track 1 string 2 message F9P64V95D10080OFF
+Tick 1401120 track 1 string 3 fret 12 message F12P62V95D5040
+Tick 1401120 track 3 string 3 message F5P33V95D5040OFF
+Tick 1401120 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:15 beat:4/4 div:2/4
+Measure:15 beat:4/4 div:3/4
+Tick 1406160 track 1 string 2 fret 9 message F9P64V95D5040
+Tick 1406160 track 1 string 3 message F12P62V95D5040OFF
+Tick 1406160 track 3 string 3 message F5P33V95D5040OFF
+Tick 1406160 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:15 beat:4/4 div:4/4
+Measure:16 beat:1/4 div:1/4
+Tick 1411200 track 1 string 2 message F9P64V95D5040OFF
+Tick 1411200 track 1 string 2 fret 11 message F11P66V95D5040
+Tick 1411200 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 1411200 track 3 string 3 message F5P33V95D5040OFF
+Measure:16 beat:1/4 div:2/4
+Measure:16 beat:1/4 div:3/4
+Tick 1416240 track 1 string 2 message F11P66V95D5040OFF
+Tick 1416240 track 1 string 2 fret 12 message F12P67V95D5040
+Tick 1416240 track 3 string 2 message F5P38V95D5040OFF
+Tick 1416240 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:16 beat:1/4 div:4/4
+Measure:16 beat:2/4 div:1/4
+Tick 1421280 track 1 string 1 fret 10 message F10P69V95D5040
+Tick 1421280 track 1 string 2 message F12P67V95D5040OFF
+Tick 1421280 track 3 string 2 message F5P38V95D5040OFF
+Tick 1421280 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:16 beat:2/4 div:2/4
+Measure:16 beat:2/4 div:3/4
+Tick 1426320 track 1 string 1 message F10P69V95D5040OFF
+Tick 1426320 track 1 string 1 fret 11 message F11P70V95D5040
+Tick 1426320 track 3 string 2 message F5P38V95D5040OFF
+Tick 1426320 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:16 beat:2/4 div:4/4
+Measure:16 beat:3/4 div:1/4
+Tick 1431360 track 1 string 1 message F11P70V95D5040OFF
+Tick 1431360 track 1 string 1 fret 10 message F10P69V95D5040
+Tick 1431360 track 3 string 2 message F5P38V95D5040OFF
+Tick 1431360 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:16 beat:3/4 div:2/4
+Measure:16 beat:3/4 div:3/4
+Tick 1436400 track 1 string 1 message F10P69V95D5040OFF
+Tick 1436400 track 1 string 1 fret 8 message F8P67V95D5040
+Tick 1436400 track 3 string 3 message F5P33V95D5040OFF
+Tick 1436400 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:16 beat:3/4 div:4/4
+Measure:16 beat:4/4 div:1/4
+Tick 1441440 track 1 string 1 message F8P67V95D5040OFF
+Tick 1441440 track 1 string 1 fret 7 message F7P66V95D5040
+Tick 1441440 track 3 string 3 message F5P33V95D5040OFF
+Tick 1441440 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:16 beat:4/4 div:2/4
+Measure:16 beat:4/4 div:3/4
+Tick 1446480 track 1 string 1 message F7P66V95D5040OFF
+Tick 1446480 track 1 string 2 fret 7 message F7P62V95D5040
+Tick 1446480 track 3 string 3 message F5P33V95D5040OFF
+Tick 1446480 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:16 beat:4/4 div:4/4
+Measure:17 beat:1/4 div:1/4
+Tick 1451520 track 1 string 2 message F7P62V95D5040OFF
+Tick 1451520 track 3 string 2 fret 7 message F7P40V95D5040
+Tick 1451520 track 3 string 3 message F5P33V95D5040OFF
+Measure:17 beat:1/4 div:2/4
+Measure:17 beat:1/4 div:3/4
+Tick 1456560 track 3 string 2 message F7P40V95D5040OFF
+Tick 1456560 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:17 beat:1/4 div:4/4
+Measure:17 beat:2/4 div:1/4
+Tick 1461600 track 3 string 2 message F7P40V95D5040OFF
+Tick 1461600 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:17 beat:2/4 div:2/4
+Measure:17 beat:2/4 div:3/4
+Tick 1466640 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 1466640 track 3 string 3 message F7P35V95D5040OFF
+Measure:17 beat:2/4 div:4/4
+Measure:17 beat:3/4 div:1/4
+Tick 1471680 track 3 string 2 message F5P38V95D5040OFF
+Tick 1471680 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:17 beat:3/4 div:2/4
+Measure:17 beat:3/4 div:3/4
+Tick 1476720 track 3 string 2 message F7P40V95D5040OFF
+Tick 1476720 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:17 beat:3/4 div:4/4
+Measure:17 beat:4/4 div:1/4
+Tick 1481760 track 3 string 2 message F5P38V95D5040OFF
+Tick 1481760 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:17 beat:4/4 div:2/4
+Measure:17 beat:4/4 div:3/4
+Tick 1486800 track 3 string 2 message F7P40V95D5040OFF
+Tick 1486800 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:17 beat:4/4 div:4/4
+Measure:18 beat:1/4 div:1/4
+Tick 1491840 track 3 string 2 message F10P43V95D5040OFF
+Tick 1491840 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:18 beat:1/4 div:2/4
+Measure:18 beat:1/4 div:3/4
+Tick 1496880 track 3 string 2 message F7P40V95D5040OFF
+Tick 1496880 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:18 beat:1/4 div:4/4
+Measure:18 beat:2/4 div:1/4
+Tick 1501920 track 3 string 2 message F7P40V95D5040OFF
+Tick 1501920 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:18 beat:2/4 div:2/4
+Tick 1504440 track 1 string 4 fret 14 message F14P59V95D15120
+Measure:18 beat:2/4 div:3/4
+Tick 1506960 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 1506960 track 3 string 3 message F7P35V95D5040OFF
+Measure:18 beat:2/4 div:4/4
+Measure:18 beat:3/4 div:1/4
+Tick 1512000 track 3 string 2 message F5P38V95D5040OFF
+Tick 1512000 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:18 beat:3/4 div:2/4
+Measure:18 beat:3/4 div:3/4
+Tick 1517040 track 3 string 2 message F7P40V95D5040OFF
+Tick 1517040 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:18 beat:3/4 div:4/4
+Tick 1519560 track 1 string 3 fret 14 message F14P64V95D10080
+Tick 1519560 track 1 string 4 message F14P59V95D15120OFF
+Measure:18 beat:4/4 div:1/4
+Tick 1522080 track 3 string 2 message F10P43V95D5040OFF
+Tick 1522080 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:18 beat:4/4 div:2/4
+Measure:18 beat:4/4 div:3/4
+Tick 1527120 track 3 string 2 message F7P40V95D5040OFF
+Tick 1527120 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:18 beat:4/4 div:4/4
+Tick 1529640 track 1 string 3 message F14P64V95D10080OFF
+Tick 1529640 track 1 string 3 fret 14 message F14P64V95D2520
+Measure:19 beat:1/4 div:1/4
+Tick 1532160 track 1 string 3 message TIED7560
+Tick 1532160 track 3 string 2 message F5P38V95D5040OFF
+Tick 1532160 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:19 beat:1/4 div:2/4
+Measure:19 beat:1/4 div:3/4
+Tick 1537200 track 3 string 2 message F0P33V95D5040OFF
+Tick 1537200 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:19 beat:1/4 div:4/4
+Tick 1539720 track 1 string 3 message F14P64V95D2520OFF
+Tick 1539720 track 1 string 4 fret 14 message F14P59V95D5040
+Measure:19 beat:2/4 div:1/4
+Tick 1542240 track 3 string 2 message F0P33V95D5040OFF
+Tick 1542240 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:19 beat:2/4 div:2/4
+Tick 1544760 track 1 string 3 fret 14 message F14P64V95D2520
+Tick 1544760 track 1 string 4 message F14P59V95D5040OFF
+Measure:19 beat:2/4 div:3/4
+Tick 1547280 track 1 string 2 fret 12 message F12P67V95D2520
+Tick 1547280 track 1 string 3 message F14P64V95D2520OFF
+Tick 1547280 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 1547280 track 3 string 3 message F3P31V95D5040OFF
+Measure:19 beat:2/4 div:4/4
+Tick 1549800 track 1 string 2 message F12P67V95D2520OFF
+Tick 1549800 track 1 string 3 fret 14 message F14P64V95D7560
+Measure:19 beat:3/4 div:1/4
+Tick 1552320 track 3 string 2 message F0P33V95D5040OFF
+Tick 1552320 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:19 beat:3/4 div:2/4
+Measure:19 beat:3/4 div:3/4
+Tick 1557360 track 1 string 3 message F14P64V95D7560OFF
+Tick 1557360 track 1 string 3 fret 14 message F14P64V95D10080
+Tick 1557360 track 3 string 2 message F2P35V95D5040OFF
+Tick 1557360 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:19 beat:3/4 div:4/4
+Measure:19 beat:4/4 div:1/4
+Tick 1562400 track 3 string 2 message F5P38V95D5040OFF
+Tick 1562400 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:19 beat:4/4 div:2/4
+Measure:19 beat:4/4 div:3/4
+Tick 1567440 track 1 string 2 fret 14 message F14P69V95D5040
+Tick 1567440 track 1 string 3 message F14P64V95D10080OFF
+Tick 1567440 track 3 string 2 message F2P35V95D5040OFF
+Tick 1567440 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:19 beat:4/4 div:4/4
+Measure:20 beat:1/4 div:1/4
+Tick 1572480 track 1 string 0 fret 12 message F12P76V95D10080
+Tick 1572480 track 1 string 2 message F14P69V95D5040OFF
+Tick 1572480 track 3 string 2 message F0P33V95D5040OFF
+Tick 1572480 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:20 beat:1/4 div:2/4
+Measure:20 beat:1/4 div:3/4
+Tick 1577520 track 3 string 2 message F0P33V95D5040OFF
+Tick 1577520 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:20 beat:1/4 div:4/4
+Measure:20 beat:2/4 div:1/4
+Tick 1582560 track 1 string 0 message F12P76V95D10080OFF
+Tick 1582560 track 1 string 2 fret 14 message F14P69V95D5040
+Tick 1582560 track 3 string 2 message F0P33V95D5040OFF
+Tick 1582560 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:20 beat:2/4 div:2/4
+Measure:20 beat:2/4 div:3/4
+Tick 1587600 track 1 string 0 fret 12 message F12P76V95D5040
+Tick 1587600 track 1 string 2 message F14P69V95D5040OFF
+Tick 1587600 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 1587600 track 3 string 3 message F3P31V95D5040OFF
+Measure:20 beat:2/4 div:4/4
+Measure:20 beat:3/4 div:1/4
+Tick 1592640 track 1 string 0 message F12P76V95D5040OFF
+Tick 1592640 track 1 string 2 fret 14 message F14P69V95D5040
+Tick 1592640 track 3 string 2 message F0P33V95D5040OFF
+Tick 1592640 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:20 beat:3/4 div:2/4
+Measure:20 beat:3/4 div:3/4
+Tick 1597680 track 1 string 2 message F14P69V95D5040OFF
+Tick 1597680 track 1 string 2 fret 12 message F12P67V95D10080
+Tick 1597680 track 3 string 2 message F2P35V95D5040OFF
+Tick 1597680 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:20 beat:3/4 div:4/4
+Measure:20 beat:4/4 div:1/4
+Tick 1602720 track 3 string 2 message F5P38V95D5040OFF
+Tick 1602720 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:20 beat:4/4 div:2/4
+Measure:20 beat:4/4 div:3/4
+Tick 1607760 track 1 string 2 message F12P67V95D10080OFF
+Tick 1607760 track 1 string 3 fret 14 message F14P64V95D5040
+Tick 1607760 track 3 string 2 message F2P35V95D5040OFF
+Tick 1607760 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:20 beat:4/4 div:4/4
+Measure:21 beat:1/4 div:1/4
+Tick 1612800 track 1 string 3 message F14P64V95D5040OFF
+Tick 1612800 track 1 string 4 fret 14 message F14P59V95D15120
+Tick 1612800 track 3 string 2 message F5P38V95D5040OFF
+Tick 1612800 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:21 beat:1/4 div:2/4
+Measure:21 beat:1/4 div:3/4
+Tick 1617840 track 3 string 2 message F7P40V95D5040OFF
+Tick 1617840 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:21 beat:1/4 div:4/4
+Measure:21 beat:2/4 div:1/4
+Tick 1622880 track 3 string 2 message F7P40V95D5040OFF
+Tick 1622880 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:21 beat:2/4 div:2/4
+Measure:21 beat:2/4 div:3/4
+Tick 1627920 track 1 string 3 fret 14 message F14P64V95D10080
+Tick 1627920 track 1 string 4 message F14P59V95D15120OFF
+Tick 1627920 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 1627920 track 3 string 3 message F7P35V95D5040OFF
+Measure:21 beat:2/4 div:4/4
+Measure:21 beat:3/4 div:1/4
+Tick 1632960 track 3 string 2 message F5P38V95D5040OFF
+Tick 1632960 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:21 beat:3/4 div:2/4
+Measure:21 beat:3/4 div:3/4
+Tick 1638000 track 1 string 3 message F14P64V95D10080OFF
+Tick 1638000 track 1 string 3 fret 14 message F14P64V95D10080
+Tick 1638000 track 3 string 2 message F7P40V95D5040OFF
+Tick 1638000 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:21 beat:3/4 div:4/4
+Measure:21 beat:4/4 div:1/4
+Tick 1643040 track 3 string 2 message F5P38V95D5040OFF
+Tick 1643040 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:21 beat:4/4 div:2/4
+Measure:21 beat:4/4 div:3/4
+Tick 1648080 track 1 string 3 message F14P64V95D10080OFF
+Tick 1648080 track 1 string 4 fret 14 message F14P59V95D5040
+Tick 1648080 track 3 string 2 message F7P40V95D5040OFF
+Tick 1648080 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:21 beat:4/4 div:4/4
+Measure:22 beat:1/4 div:1/4
+Tick 1653120 track 1 string 3 fret 14 message F14P64V95D2520
+Tick 1653120 track 1 string 4 message F14P59V95D5040OFF
+Tick 1653120 track 3 string 2 message F10P43V95D5040OFF
+Tick 1653120 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:22 beat:1/4 div:2/4
+Tick 1655640 track 1 string 2 fret 12 message F12P67V95D2520
+Tick 1655640 track 1 string 3 message F14P64V95D2520OFF
+Measure:22 beat:1/4 div:3/4
+Tick 1658160 track 1 string 2 message F12P67V95D2520OFF
+Tick 1658160 track 1 string 3 fret 14 message F14P64V95D10080
+Tick 1658160 track 3 string 2 message F7P40V95D5040OFF
+Tick 1658160 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:22 beat:1/4 div:4/4
+Measure:22 beat:2/4 div:1/4
+Tick 1663200 track 3 string 2 message F7P40V95D5040OFF
+Tick 1663200 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:22 beat:2/4 div:2/4
+Measure:22 beat:2/4 div:3/4
+Tick 1668240 track 1 string 3 message F14P64V95D10080OFF
+Tick 1668240 track 1 string 3 fret 14 message F14P64V95D10080
+Tick 1668240 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 1668240 track 3 string 3 message F7P35V95D5040OFF
+Measure:22 beat:2/4 div:4/4
+Measure:22 beat:3/4 div:1/4
+Tick 1673280 track 3 string 2 message F5P38V95D5040OFF
+Tick 1673280 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:22 beat:3/4 div:2/4
+Measure:22 beat:3/4 div:3/4
+Tick 1678320 track 1 string 1 fret 15 message F15P74V95D10080
+Tick 1678320 track 1 string 2 fret 14 message F14P69V95D10080
+Tick 1678320 track 1 string 3 message F14P64V95D10080OFF
+Tick 1678320 track 3 string 2 message F7P40V95D5040OFF
+Tick 1678320 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:22 beat:3/4 div:4/4
+Measure:22 beat:4/4 div:1/4
+Tick 1683360 track 3 string 2 message F10P43V95D5040OFF
+Tick 1683360 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:22 beat:4/4 div:2/4
+Measure:22 beat:4/4 div:3/4
+Tick 1688400 track 1 string 1 message F15P74V95D10080OFF
+Tick 1688400 track 1 string 2 message TIED5040
+Tick 1688400 track 3 string 2 message F7P40V95D5040OFF
+Tick 1688400 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:22 beat:4/4 div:4/4
+Measure:23 beat:1/4 div:1/4
+Tick 1693440 track 1 string 1 fret 15 message F15P74V95D2520
+Tick 1693440 track 1 string 2 message F14P69V95D10080OFF
+Tick 1693440 track 1 string 2 fret 14 message F14P69V95D2520
+Tick 1693440 track 3 string 2 message F5P38V95D5040OFF
+Tick 1693440 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:23 beat:1/4 div:2/4
+Tick 1695960 track 1 string 1 message F15P74V95D2520OFF
+Tick 1695960 track 1 string 1 fret 15 message F15P74V95D2520
+Tick 1695960 track 1 string 2 message F14P69V95D2520OFF
+Tick 1695960 track 1 string 2 fret 14 message F14P69V95D2520
+Measure:23 beat:1/4 div:3/4
+Tick 1698480 track 1 string 1 message F15P74V95D2520OFF
+Tick 1698480 track 1 string 1 fret 15 message F15P74V95D5040
+Tick 1698480 track 1 string 2 message F14P69V95D2520OFF
+Tick 1698480 track 1 string 2 fret 14 message F14P69V95D5040
+Tick 1698480 track 3 string 2 message F0P33V95D5040OFF
+Tick 1698480 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:23 beat:1/4 div:4/4
+Measure:23 beat:2/4 div:1/4
+Tick 1703520 track 1 string 1 message F15P74V95D5040OFF
+Tick 1703520 track 1 string 1 fret 12 message F12P71V95D2520
+Tick 1703520 track 1 string 2 message F14P69V95D5040OFF
+Tick 1703520 track 1 string 2 fret 12 message F12P67V95D2520
+Tick 1703520 track 3 string 2 message F0P33V95D5040OFF
+Tick 1703520 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:23 beat:2/4 div:2/4
+Tick 1706040 track 1 string 1 message F12P71V95D2520OFF
+Tick 1706040 track 1 string 1 fret 12 message F12P71V95D2520
+Tick 1706040 track 1 string 2 message F12P67V95D2520OFF
+Tick 1706040 track 1 string 2 fret 12 message F12P67V95D2520
+Measure:23 beat:2/4 div:3/4
+Tick 1708560 track 1 string 1 message F12P71V95D2520OFF
+Tick 1708560 track 1 string 1 fret 12 message F12P71V95D5040
+Tick 1708560 track 1 string 2 message F12P67V95D2520OFF
+Tick 1708560 track 1 string 2 fret 12 message F12P67V95D5040
+Tick 1708560 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 1708560 track 3 string 3 message F3P31V95D5040OFF
+Measure:23 beat:2/4 div:4/4
+Measure:23 beat:3/4 div:1/4
+Tick 1713600 track 1 string 1 message F12P71V95D5040OFF
+Tick 1713600 track 1 string 2 message F12P67V95D5040OFF
+Tick 1713600 track 3 string 2 message F0P33V95D5040OFF
+Tick 1713600 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:23 beat:3/4 div:2/4
+Measure:23 beat:3/4 div:3/4
+Tick 1718640 track 3 string 2 message F2P35V95D5040OFF
+Tick 1718640 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:23 beat:3/4 div:4/4
+Measure:23 beat:4/4 div:1/4
+Tick 1723680 track 3 string 2 message F5P38V95D5040OFF
+Tick 1723680 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:23 beat:4/4 div:2/4
+Measure:23 beat:4/4 div:3/4
+Tick 1728720 track 3 string 2 message F2P35V95D5040OFF
+Tick 1728720 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:23 beat:4/4 div:4/4
+Measure:24 beat:1/4 div:1/4
+Tick 1733760 track 3 string 2 message F0P33V95D5040OFF
+Tick 1733760 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:24 beat:1/4 div:2/4
+Measure:24 beat:1/4 div:3/4
+Tick 1738800 track 3 string 2 message F0P33V95D5040OFF
+Tick 1738800 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:24 beat:1/4 div:4/4
+Measure:24 beat:2/4 div:1/4
+Tick 1743840 track 3 string 2 message F0P33V95D5040OFF
+Tick 1743840 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:24 beat:2/4 div:2/4
+Measure:24 beat:2/4 div:3/4
+Tick 1748880 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 1748880 track 3 string 3 message F3P31V95D5040OFF
+Measure:24 beat:2/4 div:4/4
+Measure:24 beat:3/4 div:1/4
+Tick 1753920 track 3 string 2 message F0P33V95D5040OFF
+Tick 1753920 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:24 beat:3/4 div:2/4
+Measure:24 beat:3/4 div:3/4
+Tick 1758960 track 3 string 2 message F2P35V95D5040OFF
+Tick 1758960 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:24 beat:3/4 div:4/4
+Measure:24 beat:4/4 div:1/4
+Tick 1764000 track 3 string 2 message F5P38V95D5040OFF
+Tick 1764000 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:24 beat:4/4 div:2/4
+Measure:24 beat:4/4 div:3/4
+Tick 1769040 track 3 string 2 message F2P35V95D5040OFF
+Tick 1769040 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:24 beat:4/4 div:4/4
+Measure:25 beat:1/4 div:1/4
+Tick 1774080 track 3 string 2 message F5P38V95D5040OFF
+Tick 1774080 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:25 beat:1/4 div:2/4
+Measure:25 beat:1/4 div:3/4
+Tick 1779120 track 3 string 2 message F7P40V95D5040OFF
+Tick 1779120 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:25 beat:1/4 div:4/4
+Measure:25 beat:2/4 div:1/4
+Tick 1784160 track 3 string 2 message F7P40V95D5040OFF
+Tick 1784160 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:25 beat:2/4 div:2/4
+Measure:25 beat:2/4 div:3/4
+Tick 1789200 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 1789200 track 3 string 3 message F7P35V95D5040OFF
+Measure:25 beat:2/4 div:4/4
+Measure:25 beat:3/4 div:1/4
+Tick 1794240 track 3 string 2 message F5P38V95D5040OFF
+Tick 1794240 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:25 beat:3/4 div:2/4
+Measure:25 beat:3/4 div:3/4
+Tick 1799280 track 3 string 2 message F7P40V95D5040OFF
+Tick 1799280 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:25 beat:3/4 div:4/4
+Measure:25 beat:4/4 div:1/4
+Tick 1804320 track 3 string 2 message F5P38V95D5040OFF
+Tick 1804320 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:25 beat:4/4 div:2/4
+Measure:25 beat:4/4 div:3/4
+Tick 1809360 track 3 string 2 message F7P40V95D5040OFF
+Tick 1809360 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:25 beat:4/4 div:4/4
+Measure:26 beat:1/4 div:1/4
+Tick 1814400 track 3 string 2 message F10P43V95D5040OFF
+Tick 1814400 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:26 beat:1/4 div:2/4
+Measure:26 beat:1/4 div:3/4
+Tick 1819440 track 3 string 2 message F7P40V95D5040OFF
+Tick 1819440 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:26 beat:1/4 div:4/4
+Measure:26 beat:2/4 div:1/4
+Tick 1824480 track 3 string 2 message F7P40V95D5040OFF
+Tick 1824480 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:26 beat:2/4 div:2/4
+Measure:26 beat:2/4 div:3/4
+Tick 1829520 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 1829520 track 3 string 3 message F7P35V95D5040OFF
+Measure:26 beat:2/4 div:4/4
+Measure:26 beat:3/4 div:1/4
+Tick 1834560 track 3 string 2 message F5P38V95D5040OFF
+Tick 1834560 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:26 beat:3/4 div:2/4
+Measure:26 beat:3/4 div:3/4
+Tick 1839600 track 3 string 2 message F7P40V95D5040OFF
+Tick 1839600 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:26 beat:3/4 div:4/4
+Measure:26 beat:4/4 div:1/4
+Tick 1844640 track 3 string 2 message F10P43V95D5040OFF
+Tick 1844640 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:26 beat:4/4 div:2/4
+Measure:26 beat:4/4 div:3/4
+Tick 1849680 track 3 string 2 message F7P40V95D5040OFF
+Tick 1849680 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:26 beat:4/4 div:4/4
+Measure:27 beat:1/4 div:1/4
+Tick 1854720 track 3 string 2 message F5P38V95D5040OFF
+Tick 1854720 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:27 beat:1/4 div:2/4
+Measure:27 beat:1/4 div:3/4
+Tick 1859760 track 3 string 2 message F0P33V95D5040OFF
+Tick 1859760 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:27 beat:1/4 div:4/4
+Measure:27 beat:2/4 div:1/4
+Tick 1864800 track 3 string 2 message F0P33V95D5040OFF
+Tick 1864800 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:27 beat:2/4 div:2/4
+Measure:27 beat:2/4 div:3/4
+Tick 1869840 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 1869840 track 3 string 3 message F3P31V95D5040OFF
+Measure:27 beat:2/4 div:4/4
+Measure:27 beat:3/4 div:1/4
+Tick 1874880 track 3 string 2 message F0P33V95D5040OFF
+Tick 1874880 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:27 beat:3/4 div:2/4
+Measure:27 beat:3/4 div:3/4
+Tick 1879920 track 3 string 2 message F2P35V95D5040OFF
+Tick 1879920 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:27 beat:3/4 div:4/4
+Measure:27 beat:4/4 div:1/4
+Tick 1884960 track 3 string 2 message F5P38V95D5040OFF
+Tick 1884960 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:27 beat:4/4 div:2/4
+Measure:27 beat:4/4 div:3/4
+Tick 1890000 track 3 string 2 message F2P35V95D5040OFF
+Tick 1890000 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:27 beat:4/4 div:4/4
+Measure:28 beat:1/4 div:1/4
+Tick 1895040 track 3 string 2 message F0P33V95D5040OFF
+Tick 1895040 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:28 beat:1/4 div:2/4
+Measure:28 beat:1/4 div:3/4
+Tick 1900080 track 3 string 2 message F0P33V95D5040OFF
+Tick 1900080 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:28 beat:1/4 div:4/4
+Measure:28 beat:2/4 div:1/4
+Tick 1905120 track 3 string 2 message F0P33V95D5040OFF
+Tick 1905120 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:28 beat:2/4 div:2/4
+Measure:28 beat:2/4 div:3/4
+Tick 1910160 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 1910160 track 3 string 3 message F3P31V95D5040OFF
+Measure:28 beat:2/4 div:4/4
+Measure:28 beat:3/4 div:1/4
+Tick 1915200 track 3 string 2 message F0P33V95D5040OFF
+Tick 1915200 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:28 beat:3/4 div:2/4
+Measure:28 beat:3/4 div:3/4
+Tick 1920240 track 3 string 2 message F2P35V95D5040OFF
+Tick 1920240 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:28 beat:3/4 div:4/4
+Measure:28 beat:4/4 div:1/4
+Tick 1925280 track 3 string 2 message F5P38V95D5040OFF
+Tick 1925280 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:28 beat:4/4 div:2/4
+Measure:28 beat:4/4 div:3/4
+Tick 1930320 track 3 string 2 message F2P35V95D5040OFF
+Tick 1930320 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:28 beat:4/4 div:4/4
+Measure:29 beat:1/4 div:1/4
+Tick 1935360 track 3 string 2 message F5P38V95D5040OFF
+Tick 1935360 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:29 beat:1/4 div:2/4
+Measure:29 beat:1/4 div:3/4
+Tick 1940400 track 3 string 2 message F7P40V95D5040OFF
+Tick 1940400 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:29 beat:1/4 div:4/4
+Measure:29 beat:2/4 div:1/4
+Tick 1945440 track 3 string 2 message F7P40V95D5040OFF
+Tick 1945440 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:29 beat:2/4 div:2/4
+Measure:29 beat:2/4 div:3/4
+Tick 1950480 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 1950480 track 3 string 3 message F7P35V95D5040OFF
+Measure:29 beat:2/4 div:4/4
+Measure:29 beat:3/4 div:1/4
+Tick 1955520 track 3 string 2 message F5P38V95D5040OFF
+Tick 1955520 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:29 beat:3/4 div:2/4
+Measure:29 beat:3/4 div:3/4
+Tick 1960560 track 3 string 2 message F7P40V95D5040OFF
+Tick 1960560 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:29 beat:3/4 div:4/4
+Measure:29 beat:4/4 div:1/4
+Tick 1965600 track 3 string 2 message F5P38V95D5040OFF
+Tick 1965600 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:29 beat:4/4 div:2/4
+Measure:29 beat:4/4 div:3/4
+Tick 1970640 track 3 string 2 message F7P40V95D5040OFF
+Tick 1970640 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:29 beat:4/4 div:4/4
+Measure:30 beat:1/4 div:1/4
+Tick 1975680 track 3 string 2 message F10P43V95D5040OFF
+Tick 1975680 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:30 beat:1/4 div:2/4
+Measure:30 beat:1/4 div:3/4
+Tick 1980720 track 3 string 2 message F7P40V95D5040OFF
+Tick 1980720 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:30 beat:1/4 div:4/4
+Measure:30 beat:2/4 div:1/4
+Tick 1985760 track 3 string 2 message F7P40V95D5040OFF
+Tick 1985760 track 3 string 3 fret 7 message F7P35V95D5040
+Measure:30 beat:2/4 div:2/4
+Measure:30 beat:2/4 div:3/4
+Tick 1990800 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 1990800 track 3 string 3 message F7P35V95D5040OFF
+Measure:30 beat:2/4 div:4/4
+Measure:30 beat:3/4 div:1/4
+Tick 1995840 track 3 string 2 message F5P38V95D5040OFF
+Tick 1995840 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:30 beat:3/4 div:2/4
+Measure:30 beat:3/4 div:3/4
+Tick 2000880 track 3 string 2 message F7P40V95D5040OFF
+Tick 2000880 track 3 string 2 fret 10 message F10P43V95D5040
+Measure:30 beat:3/4 div:4/4
+Measure:30 beat:4/4 div:1/4
+Tick 2005920 track 3 string 2 message F10P43V95D5040OFF
+Tick 2005920 track 3 string 2 fret 7 message F7P40V95D5040
+Measure:30 beat:4/4 div:2/4
+Measure:30 beat:4/4 div:3/4
+Tick 2010960 track 3 string 2 message F7P40V95D5040OFF
+Tick 2010960 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:30 beat:4/4 div:4/4
+Measure:31 beat:1/4 div:1/4
+Tick 2016000 track 3 string 2 message F5P38V95D5040OFF
+Tick 2016000 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:31 beat:1/4 div:2/4
+Measure:31 beat:1/4 div:3/4
+Tick 2021040 track 3 string 2 message F0P33V95D5040OFF
+Tick 2021040 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:31 beat:1/4 div:4/4
+Measure:31 beat:2/4 div:1/4
+Tick 2026080 track 3 string 2 message F0P33V95D5040OFF
+Tick 2026080 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:31 beat:2/4 div:2/4
+Measure:31 beat:2/4 div:3/4
+Tick 2031120 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 2031120 track 3 string 3 message F3P31V95D5040OFF
+Measure:31 beat:2/4 div:4/4
+Measure:31 beat:3/4 div:1/4
+Tick 2036160 track 3 string 2 message F0P33V95D5040OFF
+Tick 2036160 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:31 beat:3/4 div:2/4
+Measure:31 beat:3/4 div:3/4
+Tick 2041200 track 3 string 2 message F2P35V95D5040OFF
+Tick 2041200 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:31 beat:3/4 div:4/4
+Measure:31 beat:4/4 div:1/4
+Tick 2046240 track 3 string 2 message F5P38V95D5040OFF
+Tick 2046240 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:31 beat:4/4 div:2/4
+Measure:31 beat:4/4 div:3/4
+Tick 2051280 track 3 string 2 message F2P35V95D5040OFF
+Tick 2051280 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:31 beat:4/4 div:4/4
+Measure:32 beat:1/4 div:1/4
+Tick 2056320 track 3 string 2 message F0P33V95D5040OFF
+Tick 2056320 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:32 beat:1/4 div:2/4
+Measure:32 beat:1/4 div:3/4
+Tick 2061360 track 3 string 2 message F0P33V95D5040OFF
+Tick 2061360 track 3 string 2 fret 0 message F0P33V95D5040
+Measure:32 beat:1/4 div:4/4
+Measure:32 beat:2/4 div:1/4
+Tick 2066400 track 3 string 2 message F0P33V95D5040OFF
+Tick 2066400 track 3 string 3 fret 3 message F3P31V95D5040
+Measure:32 beat:2/4 div:2/4
+Measure:32 beat:2/4 div:3/4
+Tick 2071440 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 2071440 track 3 string 3 message F3P31V95D5040OFF
+Measure:32 beat:2/4 div:4/4
+Measure:32 beat:3/4 div:1/4
+Tick 2076480 track 3 string 2 message F0P33V95D5040OFF
+Tick 2076480 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:32 beat:3/4 div:2/4
+Measure:32 beat:3/4 div:3/4
+Tick 2081520 track 3 string 2 message F2P35V95D5040OFF
+Tick 2081520 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:32 beat:3/4 div:4/4
+Measure:32 beat:4/4 div:1/4
+Tick 2086560 track 3 string 2 message F5P38V95D5040OFF
+Tick 2086560 track 3 string 2 fret 2 message F2P35V95D5040
+Measure:32 beat:4/4 div:2/4
+Measure:32 beat:4/4 div:3/4
+Tick 2091600 track 3 string 2 message F2P35V95D5040OFF
+Tick 2091600 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:32 beat:4/4 div:4/4
+Measure:33 beat:1/4 div:1/4
+Tick 2096640 track 1 string 2 fret 5 message F5P60V95D40320
+Tick 2096640 track 1 string 3 fret 5 message F5P55V95D40320
+Tick 2096640 track 1 string 4 fret 3 message F3P48V95D40320
+Tick 2096640 track 3 string 2 message F5P38V95D5040OFF
+Tick 2096640 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:33 beat:1/4 div:2/4
+Measure:33 beat:1/4 div:3/4
+Tick 2101680 track 3 string 2 message F3P36V95D5040OFF
+Tick 2101680 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:33 beat:1/4 div:4/4
+Measure:33 beat:2/4 div:1/4
+Tick 2106720 track 3 string 2 message F3P36V95D5040OFF
+Tick 2106720 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:33 beat:2/4 div:2/4
+Measure:33 beat:2/4 div:3/4
+Tick 2111760 track 3 string 2 message F3P36V95D5040OFF
+Tick 2111760 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:33 beat:2/4 div:4/4
+Measure:33 beat:3/4 div:1/4
+Tick 2116800 track 3 string 2 message F3P36V95D5040OFF
+Tick 2116800 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:33 beat:3/4 div:2/4
+Measure:33 beat:3/4 div:3/4
+Tick 2121840 track 3 string 2 message F3P36V95D5040OFF
+Tick 2121840 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:33 beat:3/4 div:4/4
+Measure:33 beat:4/4 div:1/4
+Tick 2126880 track 3 string 2 message F3P36V95D5040OFF
+Tick 2126880 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:33 beat:4/4 div:2/4
+Measure:33 beat:4/4 div:3/4
+Tick 2131920 track 3 string 2 message F3P36V95D5040OFF
+Tick 2131920 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:33 beat:4/4 div:4/4
+Measure:34 beat:1/4 div:1/4
+Tick 2136960 track 1 string 2 message TIED40320
+Tick 2136960 track 1 string 3 message TIED40320
+Tick 2136960 track 1 string 4 message TIED40320
+Tick 2136960 track 3 string 2 message F3P36V95D5040OFF
+Tick 2136960 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:34 beat:1/4 div:2/4
+Measure:34 beat:1/4 div:3/4
+Tick 2142000 track 3 string 2 message F3P36V95D5040OFF
+Tick 2142000 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:34 beat:1/4 div:4/4
+Measure:34 beat:2/4 div:1/4
+Tick 2147040 track 3 string 2 message F3P36V95D5040OFF
+Tick 2147040 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:34 beat:2/4 div:2/4
+Measure:34 beat:2/4 div:3/4
+Tick 2152080 track 3 string 2 message F3P36V95D5040OFF
+Tick 2152080 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:34 beat:2/4 div:4/4
+Measure:34 beat:3/4 div:1/4
+Tick 2157120 track 3 string 2 message F3P36V95D5040OFF
+Tick 2157120 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:34 beat:3/4 div:2/4
+Measure:34 beat:3/4 div:3/4
+Tick 2162160 track 3 string 2 message F3P36V95D5040OFF
+Tick 2162160 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:34 beat:3/4 div:4/4
+Measure:34 beat:4/4 div:1/4
+Tick 2167200 track 3 string 2 message F3P36V95D5040OFF
+Tick 2167200 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:34 beat:4/4 div:2/4
+Measure:34 beat:4/4 div:3/4
+Tick 2172240 track 3 string 2 message F3P36V95D5040OFF
+Tick 2172240 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:34 beat:4/4 div:4/4
+Measure:35 beat:1/4 div:1/4
+Tick 2177280 track 1 string 2 message F5P60V95D40320OFF
+Tick 2177280 track 1 string 2 fret 14 message F14P69V95D5040
+Tick 2177280 track 1 string 3 message F5P55V95D40320OFF
+Tick 2177280 track 1 string 4 message F3P48V95D40320OFF
+Tick 2177280 track 3 string 2 message F3P36V95D5040OFF
+Tick 2177280 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:35 beat:1/4 div:2/4
+Measure:35 beat:1/4 div:3/4
+Tick 2182320 track 1 string 2 message F14P69V95D5040OFF
+Tick 2182320 track 1 string 2 fret 13 message F13P68V95D5040
+Tick 2182320 track 3 string 2 message F5P38V95D5040OFF
+Tick 2182320 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:35 beat:1/4 div:4/4
+Measure:35 beat:2/4 div:1/4
+Tick 2187360 track 1 string 2 message F13P68V95D5040OFF
+Tick 2187360 track 1 string 2 fret 14 message F14P69V95D5040
+Tick 2187360 track 3 string 2 message F5P38V95D5040OFF
+Tick 2187360 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:35 beat:2/4 div:2/4
+Measure:35 beat:2/4 div:3/4
+Tick 2192400 track 1 string 2 message F14P69V95D5040OFF
+Tick 2192400 track 1 string 2 fret 13 message F13P68V95D5040
+Tick 2192400 track 3 string 2 message F5P38V95D5040OFF
+Tick 2192400 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:35 beat:2/4 div:4/4
+Measure:35 beat:3/4 div:1/4
+Tick 2197440 track 1 string 2 message F13P68V95D5040OFF
+Tick 2197440 track 1 string 2 fret 11 message F11P66V95D10080
+Tick 2197440 track 3 string 2 message F5P38V95D5040OFF
+Tick 2197440 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:35 beat:3/4 div:2/4
+Measure:35 beat:3/4 div:3/4
+Tick 2202480 track 3 string 3 message F5P33V95D5040OFF
+Tick 2202480 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:35 beat:3/4 div:4/4
+Measure:35 beat:4/4 div:1/4
+Tick 2207520 track 1 string 2 message F11P66V95D10080OFF
+Tick 2207520 track 1 string 3 fret 14 message F14P64V95D5040
+Tick 2207520 track 3 string 3 message F5P33V95D5040OFF
+Tick 2207520 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:35 beat:4/4 div:2/4
+Measure:35 beat:4/4 div:3/4
+Tick 2212560 track 1 string 2 fret 11 message F11P66V95D5040
+Tick 2212560 track 1 string 3 message F14P64V95D5040OFF
+Tick 2212560 track 3 string 3 message F5P33V95D5040OFF
+Tick 2212560 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:35 beat:4/4 div:4/4
+Measure:36 beat:1/4 div:1/4
+Tick 2217600 track 1 string 2 message F11P66V95D5040OFF
+Tick 2217600 track 1 string 2 fret 13 message F13P68V95D5040
+Tick 2217600 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 2217600 track 3 string 3 message F5P33V95D5040OFF
+Measure:36 beat:1/4 div:2/4
+Measure:36 beat:1/4 div:3/4
+Tick 2222640 track 1 string 2 message F13P68V95D5040OFF
+Tick 2222640 track 1 string 2 fret 14 message F14P69V95D5040
+Tick 2222640 track 3 string 2 message F5P38V95D5040OFF
+Tick 2222640 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:36 beat:1/4 div:4/4
+Measure:36 beat:2/4 div:1/4
+Tick 2227680 track 1 string 1 fret 12 message F12P71V95D5040
+Tick 2227680 track 1 string 2 message F14P69V95D5040OFF
+Tick 2227680 track 3 string 2 message F5P38V95D5040OFF
+Tick 2227680 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:36 beat:2/4 div:2/4
+Measure:36 beat:2/4 div:3/4
+Tick 2232720 track 1 string 1 message F12P71V95D5040OFF
+Tick 2232720 track 1 string 1 fret 13 message F13P72V95D5040
+Tick 2232720 track 3 string 2 message F5P38V95D5040OFF
+Tick 2232720 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:36 beat:2/4 div:4/4
+Measure:36 beat:3/4 div:1/4
+Tick 2237760 track 1 string 1 message F13P72V95D5040OFF
+Tick 2237760 track 1 string 1 fret 12 message F12P71V95D5040
+Tick 2237760 track 3 string 2 message F5P38V95D5040OFF
+Tick 2237760 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:36 beat:3/4 div:2/4
+Measure:36 beat:3/4 div:3/4
+Tick 2242800 track 1 string 1 message F12P71V95D5040OFF
+Tick 2242800 track 1 string 1 fret 10 message F10P69V95D5040
+Tick 2242800 track 3 string 3 message F5P33V95D5040OFF
+Tick 2242800 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:36 beat:3/4 div:4/4
+Measure:36 beat:4/4 div:1/4
+Tick 2247840 track 1 string 1 message F10P69V95D5040OFF
+Tick 2247840 track 1 string 1 fret 9 message F9P68V95D5040
+Tick 2247840 track 3 string 3 message F5P33V95D5040OFF
+Tick 2247840 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:36 beat:4/4 div:2/4
+Measure:36 beat:4/4 div:3/4
+Tick 2252880 track 1 string 1 message F9P68V95D5040OFF
+Tick 2252880 track 1 string 2 fret 9 message F9P64V95D5040
+Tick 2252880 track 3 string 3 message F5P33V95D5040OFF
+Tick 2252880 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:36 beat:4/4 div:4/4
+Measure:37 beat:1/4 div:1/4
+Tick 2257920 track 1 string 2 message F9P64V95D5040OFF
+Tick 2257920 track 1 string 2 fret 5 message F5P60V95D40320
+Tick 2257920 track 1 string 3 fret 5 message F5P55V95D40320
+Tick 2257920 track 1 string 4 fret 3 message F3P48V95D40320
+Tick 2257920 track 3 string 2 fret 3 message F3P36V95D5040
+Tick 2257920 track 3 string 3 message F5P33V95D5040OFF
+Measure:37 beat:1/4 div:2/4
+Measure:37 beat:1/4 div:3/4
+Tick 2262960 track 3 string 2 message F3P36V95D5040OFF
+Tick 2262960 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:37 beat:1/4 div:4/4
+Measure:37 beat:2/4 div:1/4
+Tick 2268000 track 3 string 2 message F3P36V95D5040OFF
+Tick 2268000 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:37 beat:2/4 div:2/4
+Measure:37 beat:2/4 div:3/4
+Tick 2273040 track 3 string 2 message F3P36V95D5040OFF
+Tick 2273040 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:37 beat:2/4 div:4/4
+Measure:37 beat:3/4 div:1/4
+Tick 2278080 track 3 string 2 message F3P36V95D5040OFF
+Tick 2278080 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:37 beat:3/4 div:2/4
+Measure:37 beat:3/4 div:3/4
+Tick 2283120 track 3 string 2 message F3P36V95D5040OFF
+Tick 2283120 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:37 beat:3/4 div:4/4
+Measure:37 beat:4/4 div:1/4
+Tick 2288160 track 3 string 2 message F3P36V95D5040OFF
+Tick 2288160 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:37 beat:4/4 div:2/4
+Measure:37 beat:4/4 div:3/4
+Tick 2293200 track 3 string 2 message F3P36V95D5040OFF
+Tick 2293200 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:37 beat:4/4 div:4/4
+Measure:38 beat:1/4 div:1/4
+Tick 2298240 track 1 string 2 message TIED40320
+Tick 2298240 track 1 string 3 message TIED40320
+Tick 2298240 track 1 string 4 message TIED40320
+Tick 2298240 track 3 string 2 message F3P36V95D5040OFF
+Tick 2298240 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:38 beat:1/4 div:2/4
+Measure:38 beat:1/4 div:3/4
+Tick 2303280 track 3 string 2 message F3P36V95D5040OFF
+Tick 2303280 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:38 beat:1/4 div:4/4
+Measure:38 beat:2/4 div:1/4
+Tick 2308320 track 3 string 2 message F3P36V95D5040OFF
+Tick 2308320 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:38 beat:2/4 div:2/4
+Measure:38 beat:2/4 div:3/4
+Tick 2313360 track 3 string 2 message F3P36V95D5040OFF
+Tick 2313360 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:38 beat:2/4 div:4/4
+Measure:38 beat:3/4 div:1/4
+Tick 2318400 track 3 string 2 message F3P36V95D5040OFF
+Tick 2318400 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:38 beat:3/4 div:2/4
+Measure:38 beat:3/4 div:3/4
+Tick 2323440 track 3 string 2 message F3P36V95D5040OFF
+Tick 2323440 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:38 beat:3/4 div:4/4
+Measure:38 beat:4/4 div:1/4
+Tick 2328480 track 3 string 2 message F3P36V95D5040OFF
+Tick 2328480 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:38 beat:4/4 div:2/4
+Measure:38 beat:4/4 div:3/4
+Tick 2333520 track 3 string 2 message F3P36V95D5040OFF
+Tick 2333520 track 3 string 2 fret 3 message F3P36V95D5040
+Measure:38 beat:4/4 div:4/4
+Measure:39 beat:1/4 div:1/4
+Tick 2338560 track 1 string 2 message F5P60V95D40320OFF
+Tick 2338560 track 1 string 2 fret 12 message F12P67V95D5040
+Tick 2338560 track 1 string 3 message F5P55V95D40320OFF
+Tick 2338560 track 1 string 4 message F3P48V95D40320OFF
+Tick 2338560 track 3 string 2 message F3P36V95D5040OFF
+Tick 2338560 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:39 beat:1/4 div:2/4
+Measure:39 beat:1/4 div:3/4
+Tick 2343600 track 1 string 2 message F12P67V95D5040OFF
+Tick 2343600 track 1 string 2 fret 11 message F11P66V95D5040
+Tick 2343600 track 3 string 2 message F5P38V95D5040OFF
+Tick 2343600 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:39 beat:1/4 div:4/4
+Measure:39 beat:2/4 div:1/4
+Tick 2348640 track 1 string 2 message F11P66V95D5040OFF
+Tick 2348640 track 1 string 2 fret 12 message F12P67V95D5040
+Tick 2348640 track 3 string 2 message F5P38V95D5040OFF
+Tick 2348640 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:39 beat:2/4 div:2/4
+Measure:39 beat:2/4 div:3/4
+Tick 2353680 track 1 string 2 message F12P67V95D5040OFF
+Tick 2353680 track 1 string 2 fret 11 message F11P66V95D5040
+Tick 2353680 track 3 string 2 message F5P38V95D5040OFF
+Tick 2353680 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:39 beat:2/4 div:4/4
+Measure:39 beat:3/4 div:1/4
+Tick 2358720 track 1 string 2 message F11P66V95D5040OFF
+Tick 2358720 track 1 string 2 fret 9 message F9P64V95D10080
+Tick 2358720 track 3 string 2 message F5P38V95D5040OFF
+Tick 2358720 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:39 beat:3/4 div:2/4
+Measure:39 beat:3/4 div:3/4
+Tick 2363760 track 3 string 3 message F5P33V95D5040OFF
+Tick 2363760 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:39 beat:3/4 div:4/4
+Measure:39 beat:4/4 div:1/4
+Tick 2368800 track 1 string 2 message F9P64V95D10080OFF
+Tick 2368800 track 1 string 3 fret 12 message F12P62V95D5040
+Tick 2368800 track 3 string 3 message F5P33V95D5040OFF
+Tick 2368800 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:39 beat:4/4 div:2/4
+Measure:39 beat:4/4 div:3/4
+Tick 2373840 track 1 string 2 fret 9 message F9P64V95D5040
+Tick 2373840 track 1 string 3 message F12P62V95D5040OFF
+Tick 2373840 track 3 string 3 message F5P33V95D5040OFF
+Tick 2373840 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:39 beat:4/4 div:4/4
+Measure:40 beat:1/4 div:1/4
+Tick 2378880 track 1 string 2 message F9P64V95D5040OFF
+Tick 2378880 track 1 string 2 fret 11 message F11P66V95D5040
+Tick 2378880 track 3 string 2 fret 5 message F5P38V95D5040
+Tick 2378880 track 3 string 3 message F5P33V95D5040OFF
+Measure:40 beat:1/4 div:2/4
+Measure:40 beat:1/4 div:3/4
+Tick 2383920 track 1 string 2 message F11P66V95D5040OFF
+Tick 2383920 track 1 string 2 fret 12 message F12P67V95D5040
+Tick 2383920 track 3 string 2 message F5P38V95D5040OFF
+Tick 2383920 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:40 beat:1/4 div:4/4
+Measure:40 beat:2/4 div:1/4
+Tick 2388960 track 1 string 1 fret 10 message F10P69V95D5040
+Tick 2388960 track 1 string 2 message F12P67V95D5040OFF
+Tick 2388960 track 3 string 2 message F5P38V95D5040OFF
+Tick 2388960 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:40 beat:2/4 div:2/4
+Measure:40 beat:2/4 div:3/4
+Tick 2394000 track 1 string 1 message F10P69V95D5040OFF
+Tick 2394000 track 1 string 1 fret 11 message F11P70V95D5040
+Tick 2394000 track 3 string 2 message F5P38V95D5040OFF
+Tick 2394000 track 3 string 2 fret 5 message F5P38V95D5040
+Measure:40 beat:2/4 div:4/4
+Measure:40 beat:3/4 div:1/4
+Tick 2399040 track 1 string 1 message F11P70V95D5040OFF
+Tick 2399040 track 1 string 1 fret 10 message F10P69V95D5040
+Tick 2399040 track 3 string 2 message F5P38V95D5040OFF
+Tick 2399040 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:40 beat:3/4 div:2/4
+Measure:40 beat:3/4 div:3/4
+Tick 2404080 track 1 string 1 message F10P69V95D5040OFF
+Tick 2404080 track 1 string 1 fret 8 message F8P67V95D5040
+Tick 2404080 track 3 string 3 message F5P33V95D5040OFF
+Tick 2404080 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:40 beat:3/4 div:4/4
+Measure:40 beat:4/4 div:1/4
+Tick 2409120 track 1 string 1 message F8P67V95D5040OFF
+Tick 2409120 track 1 string 1 fret 7 message F7P66V95D5040
+Tick 2409120 track 3 string 3 message F5P33V95D5040OFF
+Tick 2409120 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:40 beat:4/4 div:2/4
+Measure:40 beat:4/4 div:3/4
+Tick 2414160 track 1 string 1 message F7P66V95D5040OFF
+Tick 2414160 track 1 string 2 fret 7 message F7P62V95D5040
+Tick 2414160 track 3 string 3 message F5P33V95D5040OFF
+Tick 2414160 track 3 string 3 fret 5 message F5P33V95D5040
+Measure:40 beat:4/4 div:4/4
+Measure:41 beat:1/4 div:1/4
+Tick 2419200 track 1 string 2 message F7P62V95D5040OFF
+Tick 2419200 track 3 string 3 message F5P33V95D5040OFF
+Tick 2419200 track 3 string 3 fret 0 message F0P28V95D5040
+Tick 2419200 track 4 string 2 fret 1 message F1P56V95D5040
+Tick 2419200 track 4 string 3 fret 2 message F2P52V95D5040
+Tick 2419200 track 4 string 4 fret 2 message F2P47V95D5040
+Tick 2419200 track 4 string 5 fret 0 message F0P40V95D5040
+Tick 2419200 track 5 string 2 fret 1 message F1P56V95D5040
+Tick 2419200 track 5 string 3 fret 2 message F2P52V95D5040
+Tick 2419200 track 5 string 4 fret 2 message F2P47V95D5040
+Tick 2419200 track 5 string 5 fret 0 message F0P40V95D5040
+Measure:41 beat:1/4 div:2/4
+Measure:41 beat:1/4 div:3/4
+Tick 2424240 track 3 string 3 message F0P28V95D5040OFF
+Tick 2424240 track 3 string 3 fret 0 message F0P28V95D5040
+Tick 2424240 track 4 string 2 message F1P56V95D5040OFF
+Tick 2424240 track 4 string 3 message F2P52V95D5040OFF
+Tick 2424240 track 4 string 3 fret 2 message F2P52V95D5040
+Tick 2424240 track 4 string 4 message F2P47V95D5040OFF
+Tick 2424240 track 4 string 4 fret 2 message F2P47V95D5040
+Tick 2424240 track 4 string 5 message F0P40V95D5040OFF
+Tick 2424240 track 5 string 2 message F1P56V95D5040OFF
+Tick 2424240 track 5 string 3 message F2P52V95D5040OFF
+Tick 2424240 track 5 string 3 fret 2 message F2P52V95D5040
+Tick 2424240 track 5 string 4 message F2P47V95D5040OFF
+Tick 2424240 track 5 string 4 fret 2 message F2P47V95D5040
+Tick 2424240 track 5 string 5 message F0P40V95D5040OFF
+Measure:41 beat:1/4 div:4/4
+Measure:41 beat:2/4 div:1/4
+Tick 2429280 track 3 string 3 message F0P28V95D5040OFF
+Tick 2429280 track 3 string 3 fret 0 message F0P28V95D5040
+Tick 2429280 track 4 string 0 fret 0 message F0P64V95D5040
+Tick 2429280 track 4 string 1 fret 0 message F0P59V95D5040
+Tick 2429280 track 4 string 2 fret 1 message F1P56V95D5040
+Tick 2429280 track 4 string 3 message F2P52V95D5040OFF
+Tick 2429280 track 4 string 4 message F2P47V95D5040OFF
+Tick 2429280 track 5 string 0 fret 0 message F0P64V95D5040
+Tick 2429280 track 5 string 1 fret 0 message F0P59V95D5040
+Tick 2429280 track 5 string 2 fret 1 message F1P56V95D5040
+Tick 2429280 track 5 string 3 message F2P52V95D5040OFF
+Tick 2429280 track 5 string 4 message F2P47V95D5040OFF
+Measure:41 beat:2/4 div:2/4
+Measure:41 beat:2/4 div:3/4
+Tick 2434320 track 3 string 3 message F0P28V95D5040OFF
+Tick 2434320 track 3 string 3 fret 0 message F0P28V95D5040
+Tick 2434320 track 4 string 0 message F0P64V95D5040OFF
+Tick 2434320 track 4 string 1 message F0P59V95D5040OFF
+Tick 2434320 track 4 string 2 message F1P56V95D5040OFF
+Tick 2434320 track 4 string 3 fret 0 message F0P50V95D2520
+Tick 2434320 track 4 string 4 fret 0 message F0P45V95D2520
+Tick 2434320 track 4 string 5 fret 0 message F0P40V95D2520
+Tick 2434320 track 5 string 0 message F0P64V95D5040OFF
+Tick 2434320 track 5 string 1 message F0P59V95D5040OFF
+Tick 2434320 track 5 string 2 message F1P56V95D5040OFF
+Tick 2434320 track 5 string 3 fret 0 message F0P50V95D2520
+Tick 2434320 track 5 string 4 fret 0 message F0P45V95D2520
+Tick 2434320 track 5 string 5 fret 0 message F0P40V95D2520
+Measure:41 beat:2/4 div:4/4
+Tick 2436840 track 4 string 3 message F0P50V95D2520OFF
+Tick 2436840 track 4 string 3 fret 0 message F0P50V95D2520
+Tick 2436840 track 4 string 4 message F0P45V95D2520OFF
+Tick 2436840 track 4 string 4 fret 0 message F0P45V95D2520
+Tick 2436840 track 4 string 5 message F0P40V95D2520OFF
+Tick 2436840 track 4 string 5 fret 0 message F0P40V95D2520
+Tick 2436840 track 5 string 3 message F0P50V95D2520OFF
+Tick 2436840 track 5 string 3 fret 0 message F0P50V95D2520
+Tick 2436840 track 5 string 4 message F0P45V95D2520OFF
+Tick 2436840 track 5 string 4 fret 0 message F0P45V95D2520
+Tick 2436840 track 5 string 5 message F0P40V95D2520OFF
+Tick 2436840 track 5 string 5 fret 0 message F0P40V95D2520
+Measure:41 beat:3/4 div:1/4
+Tick 2439360 track 3 string 3 message F0P28V95D5040OFF
+Tick 2439360 track 3 string 3 fret 3 message F3P31V95D5040
+Tick 2439360 track 4 string 3 message F0P50V95D2520OFF
+Tick 2439360 track 4 string 3 fret 0 message F0P50V95D5040
+Tick 2439360 track 4 string 4 message F0P45V95D2520OFF
+Tick 2439360 track 4 string 4 fret 2 message F2P47V95D5040
+Tick 2439360 track 4 string 5 message F0P40V95D2520OFF
+Tick 2439360 track 4 string 5 fret 3 message F3P43V95D5040
+Tick 2439360 track 5 string 3 message F0P50V95D2520OFF
+Tick 2439360 track 5 string 3 fret 0 message F0P50V95D5040
+Tick 2439360 track 5 string 4 message F0P45V95D2520OFF
+Tick 2439360 track 5 string 4 fret 2 message F2P47V95D5040
+Tick 2439360 track 5 string 5 message F0P40V95D2520OFF
+Tick 2439360 track 5 string 5 fret 3 message F3P43V95D5040
+Measure:41 beat:3/4 div:2/4
+Measure:41 beat:3/4 div:3/4
+Tick 2444400 track 3 string 3 message F3P31V95D5040OFF
+Tick 2444400 track 3 string 3 fret 3 message F3P31V95D5040
+Tick 2444400 track 4 string 3 message F0P50V95D5040OFF
+Tick 2444400 track 4 string 3 fret 0 message F0P50V95D5040
+Tick 2444400 track 4 string 4 message F2P47V95D5040OFF
+Tick 2444400 track 4 string 4 fret 2 message F2P47V95D5040
+Tick 2444400 track 4 string 5 message F3P43V95D5040OFF
+Tick 2444400 track 4 string 5 fret 3 message F3P43V95D5040
+Tick 2444400 track 5 string 3 message F0P50V95D5040OFF
+Tick 2444400 track 5 string 3 fret 0 message F0P50V95D5040
+Tick 2444400 track 5 string 4 message F2P47V95D5040OFF
+Tick 2444400 track 5 string 4 fret 2 message F2P47V95D5040
+Tick 2444400 track 5 string 5 message F3P43V95D5040OFF
+Tick 2444400 track 5 string 5 fret 3 message F3P43V95D5040
+Measure:41 beat:3/4 div:4/4
+Measure:41 beat:4/4 div:1/4
+Tick 2449440 track 3 string 3 message F3P31V95D5040OFF
+Tick 2449440 track 3 string 3 fret 3 message F3P31V95D5040
+Tick 2449440 track 4 string 0 fret 3 message F3P67V95D5040
+Tick 2449440 track 4 string 1 fret 0 message F0P59V95D5040
+Tick 2449440 track 4 string 2 fret 0 message F0P55V95D5040
+Tick 2449440 track 4 string 3 message F0P50V95D5040OFF
+Tick 2449440 track 4 string 4 message F2P47V95D5040OFF
+Tick 2449440 track 4 string 5 message F3P43V95D5040OFF
+Tick 2449440 track 5 string 0 fret 3 message F3P67V95D5040
+Tick 2449440 track 5 string 1 fret 0 message F0P59V95D5040
+Tick 2449440 track 5 string 2 fret 0 message F0P55V95D5040
+Tick 2449440 track 5 string 3 message F0P50V95D5040OFF
+Tick 2449440 track 5 string 4 message F2P47V95D5040OFF
+Tick 2449440 track 5 string 5 message F3P43V95D5040OFF
+Measure:41 beat:4/4 div:2/4
+Measure:41 beat:4/4 div:3/4
+Tick 2454480 track 3 string 3 message F3P31V95D5040OFF
+Tick 2454480 track 3 string 3 fret 3 message F3P31V95D5040
+Tick 2454480 track 4 string 0 message F3P67V95D5040OFF
+Tick 2454480 track 4 string 1 message F0P59V95D5040OFF
+Tick 2454480 track 4 string 2 message F0P55V95D5040OFF
+Tick 2454480 track 4 string 3 fret 0 message F0P50V95D2520
+Tick 2454480 track 4 string 4 fret 0 message F0P45V95D2520
+Tick 2454480 track 4 string 5 fret 0 message F0P40V95D2520
+Tick 2454480 track 5 string 0 message F3P67V95D5040OFF
+Tick 2454480 track 5 string 1 message F0P59V95D5040OFF
+Tick 2454480 track 5 string 2 message F0P55V95D5040OFF
+Tick 2454480 track 5 string 3 fret 0 message F0P50V95D2520
+Tick 2454480 track 5 string 4 fret 0 message F0P45V95D2520
+Tick 2454480 track 5 string 5 fret 0 message F0P40V95D2520
+Measure:41 beat:4/4 div:4/4
+Tick 2457000 track 4 string 3 message F0P50V95D2520OFF
+Tick 2457000 track 4 string 3 fret 0 message F0P50V95D2520
+Tick 2457000 track 4 string 4 message F0P45V95D2520OFF
+Tick 2457000 track 4 string 4 fret 0 message F0P45V95D2520
+Tick 2457000 track 4 string 5 message F0P40V95D2520OFF
+Tick 2457000 track 4 string 5 fret 0 message F0P40V95D2520
+Tick 2457000 track 5 string 3 message F0P50V95D2520OFF
+Tick 2457000 track 5 string 3 fret 0 message F0P50V95D2520
+Tick 2457000 track 5 string 4 message F0P45V95D2520OFF
+Tick 2457000 track 5 string 4 fret 0 message F0P45V95D2520
+Tick 2457000 track 5 string 5 message F0P40V95D2520OFF
+Tick 2457000 track 5 string 5 fret 0 message F0P40V95D2520
+Measure:42 beat:1/4 div:1/4
+Tick 2459520 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 2459520 track 3 string 3 message F3P31V95D5040OFF
+Tick 2459520 track 4 string 3 message F0P50V95D2520OFF
+Tick 2459520 track 4 string 3 fret 2 message F2P52V95D5040
+Tick 2459520 track 4 string 4 message F0P45V95D2520OFF
+Tick 2459520 track 4 string 4 fret 0 message F0P45V95D5040
+Tick 2459520 track 4 string 5 message F0P40V95D2520OFF
+Tick 2459520 track 5 string 3 message F0P50V95D2520OFF
+Tick 2459520 track 5 string 3 fret 2 message F2P52V95D5040
+Tick 2459520 track 5 string 4 message F0P45V95D2520OFF
+Tick 2459520 track 5 string 4 fret 0 message F0P45V95D5040
+Tick 2459520 track 5 string 5 message F0P40V95D2520OFF
+Measure:42 beat:1/4 div:2/4
+Measure:42 beat:1/4 div:3/4
+Tick 2464560 track 3 string 2 message F0P33V95D5040OFF
+Tick 2464560 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 2464560 track 4 string 2 fret 2 message F2P57V95D5040
+Tick 2464560 track 4 string 3 message F2P52V95D5040OFF
+Tick 2464560 track 4 string 3 fret 2 message F2P52V95D5040
+Tick 2464560 track 4 string 4 message F0P45V95D5040OFF
+Tick 2464560 track 5 string 2 fret 2 message F2P57V95D5040
+Tick 2464560 track 5 string 3 message F2P52V95D5040OFF
+Tick 2464560 track 5 string 3 fret 2 message F2P52V95D5040
+Tick 2464560 track 5 string 4 message F0P45V95D5040OFF
+Measure:42 beat:1/4 div:4/4
+Measure:42 beat:2/4 div:1/4
+Tick 2469600 track 3 string 2 message F0P33V95D5040OFF
+Tick 2469600 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 2469600 track 4 string 0 fret 0 message F0P64V95D5040
+Tick 2469600 track 4 string 1 fret 2 message F2P61V95D5040
+Tick 2469600 track 4 string 2 message F2P57V95D5040OFF
+Tick 2469600 track 4 string 2 fret 2 message F2P57V95D5040
+Tick 2469600 track 4 string 3 message F2P52V95D5040OFF
+Tick 2469600 track 5 string 0 fret 0 message F0P64V95D5040
+Tick 2469600 track 5 string 1 fret 2 message F2P61V95D5040
+Tick 2469600 track 5 string 2 message F2P57V95D5040OFF
+Tick 2469600 track 5 string 2 fret 2 message F2P57V95D5040
+Tick 2469600 track 5 string 3 message F2P52V95D5040OFF
+Measure:42 beat:2/4 div:2/4
+Measure:42 beat:2/4 div:3/4
+Tick 2474640 track 3 string 2 message F0P33V95D5040OFF
+Tick 2474640 track 3 string 2 fret 3 message F3P36V95D5040
+Tick 2474640 track 4 string 0 message F0P64V95D5040OFF
+Tick 2474640 track 4 string 1 message F2P61V95D5040OFF
+Tick 2474640 track 4 string 1 fret 0 message F0P59V95D2520
+Tick 2474640 track 4 string 2 message F2P57V95D5040OFF
+Tick 2474640 track 4 string 2 fret 0 message F0P55V95D2520
+Tick 2474640 track 4 string 3 fret 0 message F0P50V95D2520
+Tick 2474640 track 5 string 0 message F0P64V95D5040OFF
+Tick 2474640 track 5 string 1 message F2P61V95D5040OFF
+Tick 2474640 track 5 string 1 fret 0 message F0P59V95D2520
+Tick 2474640 track 5 string 2 message F2P57V95D5040OFF
+Tick 2474640 track 5 string 2 fret 0 message F0P55V95D2520
+Tick 2474640 track 5 string 3 fret 0 message F0P50V95D2520
+Measure:42 beat:2/4 div:4/4
+Tick 2477160 track 4 string 1 message F0P59V95D2520OFF
+Tick 2477160 track 4 string 1 fret 0 message F0P59V95D2520
+Tick 2477160 track 4 string 2 message F0P55V95D2520OFF
+Tick 2477160 track 4 string 2 fret 0 message F0P55V95D2520
+Tick 2477160 track 4 string 3 message F0P50V95D2520OFF
+Tick 2477160 track 4 string 3 fret 0 message F0P50V95D2520
+Tick 2477160 track 5 string 1 message F0P59V95D2520OFF
+Tick 2477160 track 5 string 1 fret 0 message F0P59V95D2520
+Tick 2477160 track 5 string 2 message F0P55V95D2520OFF
+Tick 2477160 track 5 string 2 fret 0 message F0P55V95D2520
+Tick 2477160 track 5 string 3 message F0P50V95D2520OFF
+Tick 2477160 track 5 string 3 fret 0 message F0P50V95D2520
+Measure:42 beat:3/4 div:1/4
+Tick 2479680 track 3 string 2 message F3P36V95D5040OFF
+Tick 2479680 track 3 string 2 fret 3 message F3P36V95D5040
+Tick 2479680 track 4 string 1 message F0P59V95D2520OFF
+Tick 2479680 track 4 string 1 fret 1 message F1P60V95D2520
+Tick 2479680 track 4 string 2 message F0P55V95D2520OFF
+Tick 2479680 track 4 string 2 fret 0 message F0P55V95D2520
+Tick 2479680 track 4 string 3 message F0P50V95D2520OFF
+Tick 2479680 track 4 string 3 fret 2 message F2P52V95D2520
+Tick 2479680 track 4 string 4 fret 3 message F3P48V95D2520
+Tick 2479680 track 5 string 1 message F0P59V95D2520OFF
+Tick 2479680 track 5 string 1 fret 1 message F1P60V95D2520
+Tick 2479680 track 5 string 2 message F0P55V95D2520OFF
+Tick 2479680 track 5 string 2 fret 0 message F0P55V95D2520
+Tick 2479680 track 5 string 3 message F0P50V95D2520OFF
+Tick 2479680 track 5 string 3 fret 2 message F2P52V95D2520
+Tick 2479680 track 5 string 4 fret 3 message F3P48V95D2520
+Measure:42 beat:3/4 div:2/4
+Tick 2482200 track 4 string 1 message F1P60V95D2520OFF
+Tick 2482200 track 4 string 1 fret 1 message F1P60V95D2520
+Tick 2482200 track 4 string 2 message F0P55V95D2520OFF
+Tick 2482200 track 4 string 2 fret 0 message F0P55V95D2520
+Tick 2482200 track 4 string 3 message F2P52V95D2520OFF
+Tick 2482200 track 4 string 3 fret 2 message F2P52V95D2520
+Tick 2482200 track 4 string 4 message F3P48V95D2520OFF
+Tick 2482200 track 4 string 4 fret 3 message F3P48V95D2520
+Tick 2482200 track 5 string 1 message F1P60V95D2520OFF
+Tick 2482200 track 5 string 1 fret 1 message F1P60V95D2520
+Tick 2482200 track 5 string 2 message F0P55V95D2520OFF
+Tick 2482200 track 5 string 2 fret 0 message F0P55V95D2520
+Tick 2482200 track 5 string 3 message F2P52V95D2520OFF
+Tick 2482200 track 5 string 3 fret 2 message F2P52V95D2520
+Tick 2482200 track 5 string 4 message F3P48V95D2520OFF
+Tick 2482200 track 5 string 4 fret 3 message F3P48V95D2520
+Measure:42 beat:3/4 div:3/4
+Tick 2484720 track 3 string 2 message F3P36V95D5040OFF
+Tick 2484720 track 3 string 2 fret 3 message F3P36V95D2520
+Tick 2484720 track 4 string 1 message F1P60V95D2520OFF
+Tick 2484720 track 4 string 1 fret 1 message F1P60V95D5040
+Tick 2484720 track 4 string 2 message F0P55V95D2520OFF
+Tick 2484720 track 4 string 2 fret 0 message F0P55V95D5040
+Tick 2484720 track 4 string 3 message F2P52V95D2520OFF
+Tick 2484720 track 4 string 3 fret 2 message F2P52V95D5040
+Tick 2484720 track 4 string 4 message F3P48V95D2520OFF
+Tick 2484720 track 4 string 4 fret 3 message F3P48V95D5040
+Tick 2484720 track 5 string 1 message F1P60V95D2520OFF
+Tick 2484720 track 5 string 1 fret 1 message F1P60V95D5040
+Tick 2484720 track 5 string 2 message F0P55V95D2520OFF
+Tick 2484720 track 5 string 2 fret 0 message F0P55V95D5040
+Tick 2484720 track 5 string 3 message F2P52V95D2520OFF
+Tick 2484720 track 5 string 3 fret 2 message F2P52V95D5040
+Tick 2484720 track 5 string 4 message F3P48V95D2520OFF
+Tick 2484720 track 5 string 4 fret 3 message F3P48V95D5040
+Measure:42 beat:3/4 div:4/4
+Tick 2487240 track 3 string 2 message F3P36V95D2520OFF
+Tick 2487240 track 3 string 2 fret 3 message F3P36V95D2520
+Measure:42 beat:4/4 div:1/4
+Tick 2489760 track 3 string 2 message F3P36V95D2520OFF
+Tick 2489760 track 3 string 2 fret 3 message F3P36V95D5040
+Tick 2489760 track 4 string 1 message F1P60V95D5040OFF
+Tick 2489760 track 4 string 1 fret 1 message F1P60V95D5040
+Tick 2489760 track 4 string 2 message F0P55V95D5040OFF
+Tick 2489760 track 4 string 2 fret 0 message F0P55V95D5040
+Tick 2489760 track 4 string 3 message F2P52V95D5040OFF
+Tick 2489760 track 4 string 3 fret 2 message F2P52V95D5040
+Tick 2489760 track 4 string 4 message F3P48V95D5040OFF
+Tick 2489760 track 4 string 4 fret 3 message F3P48V95D5040
+Tick 2489760 track 5 string 1 message F1P60V95D5040OFF
+Tick 2489760 track 5 string 1 fret 1 message F1P60V95D5040
+Tick 2489760 track 5 string 2 message F0P55V95D5040OFF
+Tick 2489760 track 5 string 2 fret 0 message F0P55V95D5040
+Tick 2489760 track 5 string 3 message F2P52V95D5040OFF
+Tick 2489760 track 5 string 3 fret 2 message F2P52V95D5040
+Tick 2489760 track 5 string 4 message F3P48V95D5040OFF
+Tick 2489760 track 5 string 4 fret 3 message F3P48V95D5040
+Measure:42 beat:4/4 div:2/4
+Measure:42 beat:4/4 div:3/4
+Tick 2494800 track 3 string 2 message F3P36V95D5040OFF
+Tick 2494800 track 3 string 2 fret 3 message F3P36V95D2520
+Tick 2494800 track 4 string 1 message F1P60V95D5040OFF
+Tick 2494800 track 4 string 1 fret 0 message F0P59V95D2520
+Tick 2494800 track 4 string 2 message F0P55V95D5040OFF
+Tick 2494800 track 4 string 2 fret 0 message F0P55V95D2520
+Tick 2494800 track 4 string 3 message F2P52V95D5040OFF
+Tick 2494800 track 4 string 3 fret 0 message F0P50V95D2520
+Tick 2494800 track 4 string 4 message F3P48V95D5040OFF
+Tick 2494800 track 4 string 4 fret 0 message F0P45V95D2520
+Tick 2494800 track 5 string 1 message F1P60V95D5040OFF
+Tick 2494800 track 5 string 1 fret 0 message F0P59V95D2520
+Tick 2494800 track 5 string 2 message F0P55V95D5040OFF
+Tick 2494800 track 5 string 2 fret 0 message F0P55V95D2520
+Tick 2494800 track 5 string 3 message F2P52V95D5040OFF
+Tick 2494800 track 5 string 3 fret 0 message F0P50V95D2520
+Tick 2494800 track 5 string 4 message F3P48V95D5040OFF
+Tick 2494800 track 5 string 4 fret 0 message F0P45V95D2520
+Measure:42 beat:4/4 div:4/4
+Tick 2497320 track 3 string 2 message F3P36V95D2520OFF
+Tick 2497320 track 3 string 2 fret 3 message F3P36V95D2520
+Tick 2497320 track 4 string 1 message F0P59V95D2520OFF
+Tick 2497320 track 4 string 1 fret 0 message F0P59V95D2520
+Tick 2497320 track 4 string 2 message F0P55V95D2520OFF
+Tick 2497320 track 4 string 2 fret 0 message F0P55V95D2520
+Tick 2497320 track 4 string 3 message F0P50V95D2520OFF
+Tick 2497320 track 4 string 3 fret 0 message F0P50V95D2520
+Tick 2497320 track 4 string 4 message F0P45V95D2520OFF
+Tick 2497320 track 4 string 4 fret 0 message F0P45V95D2520
+Tick 2497320 track 5 string 1 message F0P59V95D2520OFF
+Tick 2497320 track 5 string 1 fret 0 message F0P59V95D2520
+Tick 2497320 track 5 string 2 message F0P55V95D2520OFF
+Tick 2497320 track 5 string 2 fret 0 message F0P55V95D2520
+Tick 2497320 track 5 string 3 message F0P50V95D2520OFF
+Tick 2497320 track 5 string 3 fret 0 message F0P50V95D2520
+Tick 2497320 track 5 string 4 message F0P45V95D2520OFF
+Tick 2497320 track 5 string 4 fret 0 message F0P45V95D2520
+Measure:41 beat:1/4 div:1/4
+Tick 2499840 track 3 string 2 message F3P36V95D2520OFF
+Tick 2499840 track 3 string 3 fret 0 message F0P28V95D5040
+Tick 2499840 track 4 string 1 message F0P59V95D2520OFF
+Tick 2499840 track 4 string 2 message F0P55V95D2520OFF
+Tick 2499840 track 4 string 2 fret 1 message F1P56V95D5040
+Tick 2499840 track 4 string 3 message F0P50V95D2520OFF
+Tick 2499840 track 4 string 3 fret 2 message F2P52V95D5040
+Tick 2499840 track 4 string 4 message F0P45V95D2520OFF
+Tick 2499840 track 4 string 4 fret 2 message F2P47V95D5040
+Tick 2499840 track 4 string 5 fret 0 message F0P40V95D5040
+Tick 2499840 track 5 string 1 message F0P59V95D2520OFF
+Tick 2499840 track 5 string 2 message F0P55V95D2520OFF
+Tick 2499840 track 5 string 2 fret 1 message F1P56V95D5040
+Tick 2499840 track 5 string 3 message F0P50V95D2520OFF
+Tick 2499840 track 5 string 3 fret 2 message F2P52V95D5040
+Tick 2499840 track 5 string 4 message F0P45V95D2520OFF
+Tick 2499840 track 5 string 4 fret 2 message F2P47V95D5040
+Tick 2499840 track 5 string 5 fret 0 message F0P40V95D5040
+Measure:41 beat:1/4 div:2/4
+Measure:41 beat:1/4 div:3/4
+Tick 2504880 track 3 string 3 message F0P28V95D5040OFF
+Tick 2504880 track 3 string 3 fret 0 message F0P28V95D5040
+Tick 2504880 track 4 string 2 message F1P56V95D5040OFF
+Tick 2504880 track 4 string 3 message F2P52V95D5040OFF
+Tick 2504880 track 4 string 3 fret 2 message F2P52V95D5040
+Tick 2504880 track 4 string 4 message F2P47V95D5040OFF
+Tick 2504880 track 4 string 4 fret 2 message F2P47V95D5040
+Tick 2504880 track 4 string 5 message F0P40V95D5040OFF
+Tick 2504880 track 5 string 2 message F1P56V95D5040OFF
+Tick 2504880 track 5 string 3 message F2P52V95D5040OFF
+Tick 2504880 track 5 string 3 fret 2 message F2P52V95D5040
+Tick 2504880 track 5 string 4 message F2P47V95D5040OFF
+Tick 2504880 track 5 string 4 fret 2 message F2P47V95D5040
+Tick 2504880 track 5 string 5 message F0P40V95D5040OFF
+Measure:41 beat:1/4 div:4/4
+Measure:41 beat:2/4 div:1/4
+Tick 2509920 track 3 string 3 message F0P28V95D5040OFF
+Tick 2509920 track 3 string 3 fret 0 message F0P28V95D5040
+Tick 2509920 track 4 string 0 fret 0 message F0P64V95D5040
+Tick 2509920 track 4 string 1 fret 0 message F0P59V95D5040
+Tick 2509920 track 4 string 2 fret 1 message F1P56V95D5040
+Tick 2509920 track 4 string 3 message F2P52V95D5040OFF
+Tick 2509920 track 4 string 4 message F2P47V95D5040OFF
+Tick 2509920 track 5 string 0 fret 0 message F0P64V95D5040
+Tick 2509920 track 5 string 1 fret 0 message F0P59V95D5040
+Tick 2509920 track 5 string 2 fret 1 message F1P56V95D5040
+Tick 2509920 track 5 string 3 message F2P52V95D5040OFF
+Tick 2509920 track 5 string 4 message F2P47V95D5040OFF
+Measure:41 beat:2/4 div:2/4
+Measure:41 beat:2/4 div:3/4
+Tick 2514960 track 3 string 3 message F0P28V95D5040OFF
+Tick 2514960 track 3 string 3 fret 0 message F0P28V95D5040
+Tick 2514960 track 4 string 0 message F0P64V95D5040OFF
+Tick 2514960 track 4 string 1 message F0P59V95D5040OFF
+Tick 2514960 track 4 string 2 message F1P56V95D5040OFF
+Tick 2514960 track 4 string 3 fret 0 message F0P50V95D2520
+Tick 2514960 track 4 string 4 fret 0 message F0P45V95D2520
+Tick 2514960 track 4 string 5 fret 0 message F0P40V95D2520
+Tick 2514960 track 5 string 0 message F0P64V95D5040OFF
+Tick 2514960 track 5 string 1 message F0P59V95D5040OFF
+Tick 2514960 track 5 string 2 message F1P56V95D5040OFF
+Tick 2514960 track 5 string 3 fret 0 message F0P50V95D2520
+Tick 2514960 track 5 string 4 fret 0 message F0P45V95D2520
+Tick 2514960 track 5 string 5 fret 0 message F0P40V95D2520
+Measure:41 beat:2/4 div:4/4
+Tick 2517480 track 4 string 3 message F0P50V95D2520OFF
+Tick 2517480 track 4 string 3 fret 0 message F0P50V95D2520
+Tick 2517480 track 4 string 4 message F0P45V95D2520OFF
+Tick 2517480 track 4 string 4 fret 0 message F0P45V95D2520
+Tick 2517480 track 4 string 5 message F0P40V95D2520OFF
+Tick 2517480 track 4 string 5 fret 0 message F0P40V95D2520
+Tick 2517480 track 5 string 3 message F0P50V95D2520OFF
+Tick 2517480 track 5 string 3 fret 0 message F0P50V95D2520
+Tick 2517480 track 5 string 4 message F0P45V95D2520OFF
+Tick 2517480 track 5 string 4 fret 0 message F0P45V95D2520
+Tick 2517480 track 5 string 5 message F0P40V95D2520OFF
+Tick 2517480 track 5 string 5 fret 0 message F0P40V95D2520
+Measure:41 beat:3/4 div:1/4
+Tick 2520000 track 3 string 3 message F0P28V95D5040OFF
+Tick 2520000 track 3 string 3 fret 3 message F3P31V95D5040
+Tick 2520000 track 4 string 3 message F0P50V95D2520OFF
+Tick 2520000 track 4 string 3 fret 0 message F0P50V95D5040
+Tick 2520000 track 4 string 4 message F0P45V95D2520OFF
+Tick 2520000 track 4 string 4 fret 2 message F2P47V95D5040
+Tick 2520000 track 4 string 5 message F0P40V95D2520OFF
+Tick 2520000 track 4 string 5 fret 3 message F3P43V95D5040
+Tick 2520000 track 5 string 3 message F0P50V95D2520OFF
+Tick 2520000 track 5 string 3 fret 0 message F0P50V95D5040
+Tick 2520000 track 5 string 4 message F0P45V95D2520OFF
+Tick 2520000 track 5 string 4 fret 2 message F2P47V95D5040
+Tick 2520000 track 5 string 5 message F0P40V95D2520OFF
+Tick 2520000 track 5 string 5 fret 3 message F3P43V95D5040
+Measure:41 beat:3/4 div:2/4
+Measure:41 beat:3/4 div:3/4
+Tick 2525040 track 3 string 3 message F3P31V95D5040OFF
+Tick 2525040 track 3 string 3 fret 3 message F3P31V95D5040
+Tick 2525040 track 4 string 3 message F0P50V95D5040OFF
+Tick 2525040 track 4 string 3 fret 0 message F0P50V95D5040
+Tick 2525040 track 4 string 4 message F2P47V95D5040OFF
+Tick 2525040 track 4 string 4 fret 2 message F2P47V95D5040
+Tick 2525040 track 4 string 5 message F3P43V95D5040OFF
+Tick 2525040 track 4 string 5 fret 3 message F3P43V95D5040
+Tick 2525040 track 5 string 3 message F0P50V95D5040OFF
+Tick 2525040 track 5 string 3 fret 0 message F0P50V95D5040
+Tick 2525040 track 5 string 4 message F2P47V95D5040OFF
+Tick 2525040 track 5 string 4 fret 2 message F2P47V95D5040
+Tick 2525040 track 5 string 5 message F3P43V95D5040OFF
+Tick 2525040 track 5 string 5 fret 3 message F3P43V95D5040
+Measure:41 beat:3/4 div:4/4
+Measure:41 beat:4/4 div:1/4
+Tick 2530080 track 3 string 3 message F3P31V95D5040OFF
+Tick 2530080 track 3 string 3 fret 3 message F3P31V95D5040
+Tick 2530080 track 4 string 0 fret 3 message F3P67V95D5040
+Tick 2530080 track 4 string 1 fret 0 message F0P59V95D5040
+Tick 2530080 track 4 string 2 fret 0 message F0P55V95D5040
+Tick 2530080 track 4 string 3 message F0P50V95D5040OFF
+Tick 2530080 track 4 string 4 message F2P47V95D5040OFF
+Tick 2530080 track 4 string 5 message F3P43V95D5040OFF
+Tick 2530080 track 5 string 0 fret 3 message F3P67V95D5040
+Tick 2530080 track 5 string 1 fret 0 message F0P59V95D5040
+Tick 2530080 track 5 string 2 fret 0 message F0P55V95D5040
+Tick 2530080 track 5 string 3 message F0P50V95D5040OFF
+Tick 2530080 track 5 string 4 message F2P47V95D5040OFF
+Tick 2530080 track 5 string 5 message F3P43V95D5040OFF
+Measure:41 beat:4/4 div:2/4
+Measure:41 beat:4/4 div:3/4
+Tick 2535120 track 3 string 3 message F3P31V95D5040OFF
+Tick 2535120 track 3 string 3 fret 3 message F3P31V95D5040
+Tick 2535120 track 4 string 0 message F3P67V95D5040OFF
+Tick 2535120 track 4 string 1 message F0P59V95D5040OFF
+Tick 2535120 track 4 string 2 message F0P55V95D5040OFF
+Tick 2535120 track 4 string 3 fret 0 message F0P50V95D2520
+Tick 2535120 track 4 string 4 fret 0 message F0P45V95D2520
+Tick 2535120 track 4 string 5 fret 0 message F0P40V95D2520
+Tick 2535120 track 5 string 0 message F3P67V95D5040OFF
+Tick 2535120 track 5 string 1 message F0P59V95D5040OFF
+Tick 2535120 track 5 string 2 message F0P55V95D5040OFF
+Tick 2535120 track 5 string 3 fret 0 message F0P50V95D2520
+Tick 2535120 track 5 string 4 fret 0 message F0P45V95D2520
+Tick 2535120 track 5 string 5 fret 0 message F0P40V95D2520
+Measure:41 beat:4/4 div:4/4
+Tick 2537640 track 4 string 3 message F0P50V95D2520OFF
+Tick 2537640 track 4 string 3 fret 0 message F0P50V95D2520
+Tick 2537640 track 4 string 4 message F0P45V95D2520OFF
+Tick 2537640 track 4 string 4 fret 0 message F0P45V95D2520
+Tick 2537640 track 4 string 5 message F0P40V95D2520OFF
+Tick 2537640 track 4 string 5 fret 0 message F0P40V95D2520
+Tick 2537640 track 5 string 3 message F0P50V95D2520OFF
+Tick 2537640 track 5 string 3 fret 0 message F0P50V95D2520
+Tick 2537640 track 5 string 4 message F0P45V95D2520OFF
+Tick 2537640 track 5 string 4 fret 0 message F0P45V95D2520
+Tick 2537640 track 5 string 5 message F0P40V95D2520OFF
+Tick 2537640 track 5 string 5 fret 0 message F0P40V95D2520
+Measure:42 beat:1/4 div:1/4
+Tick 2540160 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 2540160 track 3 string 3 message F3P31V95D5040OFF
+Tick 2540160 track 4 string 3 message F0P50V95D2520OFF
+Tick 2540160 track 4 string 3 fret 2 message F2P52V95D5040
+Tick 2540160 track 4 string 4 message F0P45V95D2520OFF
+Tick 2540160 track 4 string 4 fret 0 message F0P45V95D5040
+Tick 2540160 track 4 string 5 message F0P40V95D2520OFF
+Tick 2540160 track 5 string 3 message F0P50V95D2520OFF
+Tick 2540160 track 5 string 3 fret 2 message F2P52V95D5040
+Tick 2540160 track 5 string 4 message F0P45V95D2520OFF
+Tick 2540160 track 5 string 4 fret 0 message F0P45V95D5040
+Tick 2540160 track 5 string 5 message F0P40V95D2520OFF
+Measure:42 beat:1/4 div:2/4
+Measure:42 beat:1/4 div:3/4
+Tick 2545200 track 3 string 2 message F0P33V95D5040OFF
+Tick 2545200 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 2545200 track 4 string 2 fret 2 message F2P57V95D5040
+Tick 2545200 track 4 string 3 message F2P52V95D5040OFF
+Tick 2545200 track 4 string 3 fret 2 message F2P52V95D5040
+Tick 2545200 track 4 string 4 message F0P45V95D5040OFF
+Tick 2545200 track 5 string 2 fret 2 message F2P57V95D5040
+Tick 2545200 track 5 string 3 message F2P52V95D5040OFF
+Tick 2545200 track 5 string 3 fret 2 message F2P52V95D5040
+Tick 2545200 track 5 string 4 message F0P45V95D5040OFF
+Measure:42 beat:1/4 div:4/4
+Measure:42 beat:2/4 div:1/4
+Tick 2550240 track 3 string 2 message F0P33V95D5040OFF
+Tick 2550240 track 3 string 2 fret 0 message F0P33V95D5040
+Tick 2550240 track 4 string 0 fret 0 message F0P64V95D5040
+Tick 2550240 track 4 string 1 fret 2 message F2P61V95D5040
+Tick 2550240 track 4 string 2 message F2P57V95D5040OFF
+Tick 2550240 track 4 string 2 fret 2 message F2P57V95D5040
+Tick 2550240 track 4 string 3 message F2P52V95D5040OFF
+Tick 2550240 track 5 string 0 fret 0 message F0P64V95D5040
+Tick 2550240 track 5 string 1 fret 2 message F2P61V95D5040
+Tick 2550240 track 5 string 2 message F2P57V95D5040OFF
+Tick 2550240 track 5 string 2 fret 2 message F2P57V95D5040
+Tick 2550240 track 5 string 3 message F2P52V95D5040OFF
+Measure:42 beat:2/4 div:2/4
+Measure:42 beat:2/4 div:3/4
+Tick 2555280 track 3 string 2 message F0P33V95D5040OFF
+Tick 2555280 track 3 string 2 fret 3 message F3P36V95D5040
+Tick 2555280 track 4 string 0 message F0P64V95D5040OFF
+Tick 2555280 track 4 string 1 message F2P61V95D5040OFF
+Tick 2555280 track 4 string 1 fret 0 message F0P59V95D2520
+Tick 2555280 track 4 string 2 message F2P57V95D5040OFF
+Tick 2555280 track 4 string 2 fret 0 message F0P55V95D2520
+Tick 2555280 track 4 string 3 fret 0 message F0P50V95D2520
+Tick 2555280 track 5 string 0 message F0P64V95D5040OFF
+Tick 2555280 track 5 string 1 message F2P61V95D5040OFF
+Tick 2555280 track 5 string 1 fret 0 message F0P59V95D2520
+Tick 2555280 track 5 string 2 message F2P57V95D5040OFF
+Tick 2555280 track 5 string 2 fret 0 message F0P55V95D2520
+Tick 2555280 track 5 string 3 fret 0 message F0P50V95D2520
+Measure:42 beat:2/4 div:4/4
+Tick 2557800 track 4 string 1 message F0P59V95D2520OFF
+Tick 2557800 track 4 string 1 fret 0 message F0P59V95D2520
+Tick 2557800 track 4 string 2 message F0P55V95D2520OFF
+Tick 2557800 track 4 string 2 fret 0 message F0P55V95D2520
+Tick 2557800 track 4 string 3 message F0P50V95D2520OFF
+Tick 2557800 track 4 string 3 fret 0 message F0P50V95D2520
+Tick 2557800 track 5 string 1 message F0P59V95D2520OFF
+Tick 2557800 track 5 string 1 fret 0 message F0P59V95D2520
+Tick 2557800 track 5 string 2 message F0P55V95D2520OFF
+Tick 2557800 track 5 string 2 fret 0 message F0P55V95D2520
+Tick 2557800 track 5 string 3 message F0P50V95D2520OFF
+Tick 2557800 track 5 string 3 fret 0 message F0P50V95D2520
+Measure:42 beat:3/4 div:1/4
+Tick 2560320 track 3 string 2 message F3P36V95D5040OFF
+Tick 2560320 track 3 string 2 fret 3 message F3P36V95D5040
+Tick 2560320 track 4 string 1 message F0P59V95D2520OFF
+Tick 2560320 track 4 string 1 fret 1 message F1P60V95D2520
+Tick 2560320 track 4 string 2 message F0P55V95D2520OFF
+Tick 2560320 track 4 string 2 fret 0 message F0P55V95D2520
+Tick 2560320 track 4 string 3 message F0P50V95D2520OFF
+Tick 2560320 track 4 string 3 fret 2 message F2P52V95D2520
+Tick 2560320 track 4 string 4 fret 3 message F3P48V95D2520
+Tick 2560320 track 5 string 1 message F0P59V95D2520OFF
+Tick 2560320 track 5 string 1 fret 1 message F1P60V95D2520
+Tick 2560320 track 5 string 2 message F0P55V95D2520OFF
+Tick 2560320 track 5 string 2 fret 0 message F0P55V95D2520
+Tick 2560320 track 5 string 3 message F0P50V95D2520OFF
+Tick 2560320 track 5 string 3 fret 2 message F2P52V95D2520
+Tick 2560320 track 5 string 4 fret 3 message F3P48V95D2520
+Measure:42 beat:3/4 div:2/4
+Tick 2562840 track 4 string 1 message F1P60V95D2520OFF
+Tick 2562840 track 4 string 1 fret 1 message F1P60V95D2520
+Tick 2562840 track 4 string 2 message F0P55V95D2520OFF
+Tick 2562840 track 4 string 2 fret 0 message F0P55V95D2520
+Tick 2562840 track 4 string 3 message F2P52V95D2520OFF
+Tick 2562840 track 4 string 3 fret 2 message F2P52V95D2520
+Tick 2562840 track 4 string 4 message F3P48V95D2520OFF
+Tick 2562840 track 4 string 4 fret 3 message F3P48V95D2520
+Tick 2562840 track 5 string 1 message F1P60V95D2520OFF
+Tick 2562840 track 5 string 1 fret 1 message F1P60V95D2520
+Tick 2562840 track 5 string 2 message F0P55V95D2520OFF
+Tick 2562840 track 5 string 2 fret 0 message F0P55V95D2520
+Tick 2562840 track 5 string 3 message F2P52V95D2520OFF
+Tick 2562840 track 5 string 3 fret 2 message F2P52V95D2520
+Tick 2562840 track 5 string 4 message F3P48V95D2520OFF
+Tick 2562840 track 5 string 4 fret 3 message F3P48V95D2520
+Measure:42 beat:3/4 div:3/4
+Tick 2565360 track 3 string 2 message F3P36V95D5040OFF
+Tick 2565360 track 3 string 2 fret 3 message F3P36V95D2520
+Tick 2565360 track 4 string 1 message F1P60V95D2520OFF
+Tick 2565360 track 4 string 1 fret 1 message F1P60V95D5040
+Tick 2565360 track 4 string 2 message F0P55V95D2520OFF
+Tick 2565360 track 4 string 2 fret 0 message F0P55V95D5040
+Tick 2565360 track 4 string 3 message F2P52V95D2520OFF
+Tick 2565360 track 4 string 3 fret 2 message F2P52V95D5040
+Tick 2565360 track 4 string 4 message F3P48V95D2520OFF
+Tick 2565360 track 4 string 4 fret 3 message F3P48V95D5040
+Tick 2565360 track 5 string 1 message F1P60V95D2520OFF
+Tick 2565360 track 5 string 1 fret 1 message F1P60V95D5040
+Tick 2565360 track 5 string 2 message F0P55V95D2520OFF
+Tick 2565360 track 5 string 2 fret 0 message F0P55V95D5040
+Tick 2565360 track 5 string 3 message F2P52V95D2520OFF
+Tick 2565360 track 5 string 3 fret 2 message F2P52V95D5040
+Tick 2565360 track 5 string 4 message F3P48V95D2520OFF
+Tick 2565360 track 5 string 4 fret 3 message F3P48V95D5040
+Measure:42 beat:3/4 div:4/4
+Tick 2567880 track 3 string 2 message F3P36V95D2520OFF
+Tick 2567880 track 3 string 2 fret 3 message F3P36V95D2520
+Measure:42 beat:4/4 div:1/4
+Tick 2570400 track 3 string 2 message F3P36V95D2520OFF
+Tick 2570400 track 3 string 2 fret 3 message F3P36V95D5040
+Tick 2570400 track 4 string 1 message F1P60V95D5040OFF
+Tick 2570400 track 4 string 1 fret 1 message F1P60V95D5040
+Tick 2570400 track 4 string 2 message F0P55V95D5040OFF
+Tick 2570400 track 4 string 2 fret 0 message F0P55V95D5040
+Tick 2570400 track 4 string 3 message F2P52V95D5040OFF
+Tick 2570400 track 4 string 3 fret 2 message F2P52V95D5040
+Tick 2570400 track 4 string 4 message F3P48V95D5040OFF
+Tick 2570400 track 4 string 4 fret 3 message F3P48V95D5040
+Tick 2570400 track 5 string 1 message F1P60V95D5040OFF
+Tick 2570400 track 5 string 1 fret 1 message F1P60V95D5040
+Tick 2570400 track 5 string 2 message F0P55V95D5040OFF
+Tick 2570400 track 5 string 2 fret 0 message F0P55V95D5040
+Tick 2570400 track 5 string 3 message F2P52V95D5040OFF
+Tick 2570400 track 5 string 3 fret 2 message F2P52V95D5040
+Tick 2570400 track 5 string 4 message F3P48V95D5040OFF
+Tick 2570400 track 5 string 4 fret 3 message F3P48V95D5040
+Measure:42 beat:4/4 div:2/4
+Measure:42 beat:4/4 div:3/4
+Tick 2575440 track 3 string 2 message F3P36V95D5040OFF
+Tick 2575440 track 3 string 2 fret 3 message F3P36V95D2520
+Tick 2575440 track 4 string 1 message F1P60V95D5040OFF
+Tick 2575440 track 4 string 1 fret 0 message F0P59V95D2520
+Tick 2575440 track 4 string 2 message F0P55V95D5040OFF
+Tick 2575440 track 4 string 2 fret 0 message F0P55V95D2520
+Tick 2575440 track 4 string 3 message F2P52V95D5040OFF
+Tick 2575440 track 4 string 3 fret 0 message F0P50V95D2520
+Tick 2575440 track 4 string 4 message F3P48V95D5040OFF
+Tick 2575440 track 4 string 4 fret 0 message F0P45V95D2520
+Tick 2575440 track 5 string 1 message F1P60V95D5040OFF
+Tick 2575440 track 5 string 1 fret 0 message F0P59V95D2520
+Tick 2575440 track 5 string 2 message F0P55V95D5040OFF
+Tick 2575440 track 5 string 2 fret 0 message F0P55V95D2520
+Tick 2575440 track 5 string 3 message F2P52V95D5040OFF
+Tick 2575440 track 5 string 3 fret 0 message F0P50V95D2520
+Tick 2575440 track 5 string 4 message F3P48V95D5040OFF
+Tick 2575440 track 5 string 4 fret 0 message F0P45V95D2520
+Measure:42 beat:4/4 div:4/4
+Tick 2577960 track 3 string 2 message F3P36V95D2520OFF
+Tick 2577960 track 3 string 2 fret 3 message F3P36V95D2520
+Tick 2577960 track 4 string 1 message F0P59V95D2520OFF
+Tick 2577960 track 4 string 1 fret 0 message F0P59V95D2520
+Tick 2577960 track 4 string 2 message F0P55V95D2520OFF
+Tick 2577960 track 4 string 2 fret 0 message F0P55V95D2520
+Tick 2577960 track 4 string 3 message F0P50V95D2520OFF
+Tick 2577960 track 4 string 3 fret 0 message F0P50V95D2520
+Tick 2577960 track 4 string 4 message F0P45V95D2520OFF
+Tick 2577960 track 4 string 4 fret 0 message F0P45V95D2520
+Tick 2577960 track 5 string 1 message F0P59V95D2520OFF
+Tick 2577960 track 5 string 1 fret 0 message F0P59V95D2520
+Tick 2577960 track 5 string 2 message F0P55V95D2520OFF
+Tick 2577960 track 5 string 2 fret 0 message F0P55V95D2520
+Tick 2577960 track 5 string 3 message F0P50V95D2520OFF
+Tick 2577960 track 5 string 3 fret 0 message F0P50V95D2520
+Tick 2577960 track 5 string 4 message F0P45V95D2520OFF
+Tick 2577960 track 5 string 4 fret 0 message F0P45V95D2520
+Measure:43 beat:1/4 div:1/4
+Tick 2580480 track 3 string 2 message F3P36V95D2520OFF
+Tick 2580480 track 4 string 1 message F0P59V95D2520OFF
+Tick 2580480 track 4 string 2 message F0P55V95D2520OFF
+Tick 2580480 track 4 string 3 message F0P50V95D2520OFF
+Tick 2580480 track 4 string 4 message F0P45V95D2520OFF
+Tick 2580480 track 5 string 1 message F0P59V95D2520OFF
+Tick 2580480 track 5 string 2 message F0P55V95D2520OFF
+Tick 2580480 track 5 string 3 message F0P50V95D2520OFF
+Tick 2580480 track 5 string 4 message F0P45V95D2520OFF
+Measure:43 beat:1/4 div:2/4
+Measure:43 beat:1/4 div:3/4
+Measure:43 beat:1/4 div:4/4
+Measure:43 beat:2/4 div:1/4
+Measure:43 beat:2/4 div:2/4
+Measure:43 beat:2/4 div:3/4
+Measure:43 beat:2/4 div:4/4
+Measure:43 beat:3/4 div:1/4
+Measure:43 beat:3/4 div:2/4
+Measure:43 beat:3/4 div:3/4
+Measure:43 beat:3/4 div:4/4
+Measure:43 beat:4/4 div:1/4
+Measure:43 beat:4/4 div:2/4
+Measure:43 beat:4/4 div:3/4
+Measure:43 beat:4/4 div:4/4

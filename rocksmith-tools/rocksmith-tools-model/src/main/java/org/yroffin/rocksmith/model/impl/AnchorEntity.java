@@ -15,34 +15,27 @@
  */
 package org.yroffin.rocksmith.model.impl;
 
-import java.text.DecimalFormat;
-import java.util.Locale;
-
+import org.yroffin.rocksmith.model.ConvertTools;
 import org.yroffin.rocksmith.model.IAnchor;
 
 public class AnchorEntity implements IAnchor {
 
-	private final float time;
+	private final double time;
 	private final int fret;
 
-	public static IAnchor factory(float time, int fret) {
+	public static IAnchor factory(double time, int fret) {
 		AnchorEntity entity = new AnchorEntity(time, fret);
 		return entity;
 	}
 
-	private AnchorEntity(float time, int fret) {
+	private AnchorEntity(double time, int fret) {
 		this.time = time;
 		this.fret = fret;
 	}
 
 	public StringBuilder asXml(StringBuilder xml) {
-		DecimalFormat df = (DecimalFormat) DecimalFormat
-				.getNumberInstance(Locale.ENGLISH);
-		df.setMaximumFractionDigits(3);
-		df.setMinimumFractionDigits(3);
-		df.setDecimalSeparatorAlwaysShown(true);
-		xml.append("\n<anchor time=\"" + df.format(time) + "\" fret=\"" + fret
-				+ "\" />");
+		xml.append("\n<anchor time=\"" + ConvertTools.format(time)
+				+ "\" fret=\"" + fret + "\" />");
 		return xml;
 	}
 }

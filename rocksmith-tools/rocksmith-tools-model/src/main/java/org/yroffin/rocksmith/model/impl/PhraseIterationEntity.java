@@ -15,6 +15,7 @@
  */
 package org.yroffin.rocksmith.model.impl;
 
+import org.yroffin.rocksmith.model.ConvertTools;
 import org.yroffin.rocksmith.model.IPhraseEntity;
 import org.yroffin.rocksmith.model.IPhraseIterationEntity;
 
@@ -23,19 +24,25 @@ public class PhraseIterationEntity implements IPhraseIterationEntity {
 	private final double time;
 	private final IPhraseEntity phrase;
 
-	public static PhraseIterationEntity factory(int time, int id) {
+	public static PhraseIterationEntity factory(double time, int id) {
 		PhraseIterationEntity entity = new PhraseIterationEntity(time, id);
 		return entity;
 	}
 
-	private PhraseIterationEntity(int time, int id) {
+	private PhraseIterationEntity(double time, int id) {
 		this.time = time;
 		this.phrase = PhraseEntity.getById(id);
 	}
 
 	public StringBuilder asXml(StringBuilder xml) {
-		xml.append("\n<phraseIteration time=\"" + time + "\" phraseId=\""
-				+ phrase.getId() + "\"/>");
+		xml.append("\n    <phraseIteration time=\"" + ConvertTools.format(time)
+				+ "\" phraseId=\"" + phrase.getId() + "\"/>");
 		return xml;
+	}
+
+	@Override
+	public String toString() {
+		return "PhraseIterationEntity [time=" + ConvertTools.format(time)
+				+ ", phrase=" + phrase + "]";
 	}
 }

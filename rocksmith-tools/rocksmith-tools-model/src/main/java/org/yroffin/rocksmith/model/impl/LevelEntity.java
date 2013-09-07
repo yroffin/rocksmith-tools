@@ -29,6 +29,9 @@ public class LevelEntity implements ILevel {
 
 	private final List<IXmlEntity> xmlNotes = new ArrayList<IXmlEntity>();
 	private final List<IXmlEntity> xmlAnchors = new ArrayList<IXmlEntity>();
+	private final List<IXmlEntity> xmlChords = new ArrayList<IXmlEntity>();
+	private final List<IXmlEntity> xmlFretHandMutes = new ArrayList<IXmlEntity>();
+	private final List<IXmlEntity> xmlHandShapes = new ArrayList<IXmlEntity>();
 
 	private final List<INote> notes = new ArrayList<INote>();
 	private final List<IAnchor> anchors = new ArrayList<IAnchor>();
@@ -53,9 +56,12 @@ public class LevelEntity implements ILevel {
 	}
 
 	public StringBuilder asXml(StringBuilder xml) {
-		xml.append("\n<level difficulty=\"" + difficulty + " >");
+		xml.append("\n    <level difficulty=\"" + difficulty + ">");
 		EntitiesAsXml(xml, "notes", xmlNotes);
+		EntitiesAsXml(xml, "chords", xmlChords);
+		EntitiesAsXml(xml, "fretHandMutes", xmlFretHandMutes);
 		EntitiesAsXml(xml, "anchors", xmlAnchors);
+		EntitiesAsXml(xml, "handShapes", xmlHandShapes);
 		xml.append("\n</level>");
 		return xml;
 	}
@@ -63,13 +69,14 @@ public class LevelEntity implements ILevel {
 	private StringBuilder EntitiesAsXml(StringBuilder xml, String balise,
 			List<IXmlEntity> entities) {
 		if (entities.size() > 0) {
-			xml.append("\n<" + balise + " count = \"" + entities.size() + "\">");
+			xml.append("\n      <" + balise + " count=\"" + entities.size()
+					+ "\">");
 			for (IXmlEntity entity : entities) {
 				entity.asXml(xml);
 			}
-			xml.append("\n</" + balise + ">");
+			xml.append("\n      </" + balise + ">");
 		} else {
-			xml.append("\n<" + balise + " count = \"0\"/>");
+			xml.append("\n      <" + balise + " count=\"0\"/>");
 		}
 		return xml;
 	}

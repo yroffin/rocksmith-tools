@@ -16,19 +16,19 @@
 package org.yroffin.rocksmith.model.impl;
 
 import java.text.DateFormat;
-import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-import java.util.Locale;
 
+import org.yroffin.rocksmith.model.ConvertTools;
 import org.yroffin.rocksmith.model.IChordTemplate;
 import org.yroffin.rocksmith.model.IEbeat;
 import org.yroffin.rocksmith.model.IEvent;
 import org.yroffin.rocksmith.model.IFretHandMuteTemplate;
 import org.yroffin.rocksmith.model.ILevel;
 import org.yroffin.rocksmith.model.ILinkedDiff;
+import org.yroffin.rocksmith.model.IMeasure;
 import org.yroffin.rocksmith.model.IPhraseEntity;
 import org.yroffin.rocksmith.model.IPhraseIterationEntity;
 import org.yroffin.rocksmith.model.IPhraseProperty;
@@ -74,6 +74,10 @@ public class SongEntity implements ISongEntity {
 	private final List<ISection> sections = new ArrayList<ISection>();
 	private final List<IEvent> events = new ArrayList<IEvent>();
 	private final List<ILevel> levels = new ArrayList<ILevel>();
+	private final List<IMeasure> measures = new ArrayList<IMeasure>();
+	private String artistName;
+	private String albumName;
+	private String albumYear;
 
 	public static ISongEntity factory() {
 		return new SongEntity();
@@ -82,12 +86,6 @@ public class SongEntity implements ISongEntity {
 	static DateFormat dateFormat = new SimpleDateFormat("dd-MM-yyyy H:m");
 
 	public StringBuilder asXml(StringBuilder xml) {
-		DecimalFormat df = (DecimalFormat) DecimalFormat
-				.getNumberInstance(Locale.ENGLISH);
-		df.setMaximumFractionDigits(3);
-		df.setMinimumFractionDigits(3);
-		df.setDecimalSeparatorAlwaysShown(true);
-
 		xml.append("<?xml version='1.0' encoding='UTF-8'?>");
 		/**
 		 * dump song level
@@ -97,28 +95,29 @@ public class SongEntity implements ISongEntity {
 		 * title
 		 */
 		if (title != null) {
-			xml.append("\n<title>" + title + "</title>");
+			xml.append("\n  <title>" + title + "</title>");
 		}
 		/**
 		 * arrangement
 		 */
 		if (arrangement != null) {
-			xml.append("\n<arrangement>" + arrangement + "</arrangement>");
+			xml.append("\n  <arrangement>" + arrangement + "</arrangement>");
 		}
 		/**
 		 * part
 		 */
 		if (part != -1) {
-			xml.append("\n<part>" + part + "</part>");
+			xml.append("\n  <part>" + part + "</part>");
 		}
 		/**
 		 * part
 		 */
 		if (offset != -1.0) {
-			xml.append("\n<offset>" + df.format(offset) + "</offset>");
+			xml.append("\n  <offset>" + ConvertTools.format(offset)
+					+ "</offset>");
 		}
 		if (songLength != -1.0) {
-			xml.append("\n<songLength>" + df.format(songLength)
+			xml.append("\n  <songLength>" + ConvertTools.format(songLength)
 					+ "</songLength>");
 		}
 		if (lastConversionDateTime != null) {
@@ -126,6 +125,30 @@ public class SongEntity implements ISongEntity {
 					+ dateFormat.format(lastConversionDateTime)
 					+ "</lastConversionDateTime>");
 		}
+		/**
+		 * TODO declare members
+		 */
+		xml.append("\n  <startBeat>0.000</startBeat>");
+		xml.append("\n  <averageTempo>125.231</averageTempo>");
+		xml.append("\n  <tuning string0=\"" + 0 + "\" string1=\"" + 0
+				+ "\" string2=\"" + 0 + "\" string3=\"" + 0 + "\" string4=\""
+				+ 0 + "\" string5=\"" + 0 + "\" />");
+		xml.append("\n  <artistName>" + artistName + "</artistName>");
+		xml.append("\n  <albumName>" + albumName + "</albumName>");
+		xml.append("\n  <albumYear>" + albumYear + "</albumYear>");
+		xml.append("\n  <arrangementProperties represent=\"" + 1
+				+ "\" standardTuning=\"" + 1 + "\" nonStandardChords=\"" + 1
+				+ "\" barreChords=\"" + 0 + "\" powerChords=\"" + 1
+				+ "\" dropDPower=\"" + 0 + "\" openChords=\"" + 1
+				+ "\" fingerPicking=\"" + 0 + "\" pickDirection=\"" + 0
+				+ "\" doubleStops=\"" + 1 + "\" palmMutes=\"" + 0
+				+ "\" harmonics=\"" + 1 + "\" pinchHarmonics=\"" + 0
+				+ "\" hopo=\"" + 1 + "\" tremolo=\"" + 0 + "\" slides=\"" + 1
+				+ "\" unpitchedSlides=\"" + 0 + "\" bends=\"" + 1
+				+ "\" tapping=\"" + 0 + "\" vibrato=\"" + 1
+				+ "\" fretHandMutes=\"" + 0 + "\" slapPop=\"" + 0
+				+ "\" twoFingerPicking=\"" + 0 + "\" fifthsAndOctaves=\"" + 0
+				+ "\" syncopation=\"" + 0 + "\" bassPick=\"" + 0 + "\" />");
 		EntitiesAsXml(xml, "phrases", xmlPhrases);
 		EntitiesAsXml(xml, "phraseIterations", xmlPhraseIterations);
 		EntitiesAsXml(xml, "linkedDiffs", xmlLinkedDiffs);
@@ -143,13 +166,13 @@ public class SongEntity implements ISongEntity {
 	private StringBuilder EntitiesAsXml(StringBuilder xml, String balise,
 			List<IXmlEntity> entities) {
 		if (entities.size() > 0) {
-			xml.append("\n<" + balise + " count = \"" + entities.size() + "\">");
+			xml.append("\n  <" + balise + " count=\"" + entities.size() + "\">");
 			for (IXmlEntity entity : entities) {
 				entity.asXml(xml);
 			}
-			xml.append("\n</" + balise + ">");
+			xml.append("\n  </" + balise + ">");
 		} else {
-			xml.append("\n<" + balise + " count = \"0\"/>");
+			xml.append("\n  <" + balise + " count=\"0\"/>");
 		}
 		return xml;
 	}
@@ -174,9 +197,10 @@ public class SongEntity implements ISongEntity {
 		phraseProperties.add(phraseProperty);
 	}
 
-	public void add(IChordTemplate chordTemplate) {
+	public IChordTemplate add(IChordTemplate chordTemplate) {
 		xmlChordTemplates.add(chordTemplate);
 		chordTemplates.add(chordTemplate);
+		return chordTemplate;
 	}
 
 	public void add(IFretHandMuteTemplate fretHandMuteTemplate) {
@@ -184,24 +208,33 @@ public class SongEntity implements ISongEntity {
 		fretHandMuteTemplates.add(fretHandMuteTemplate);
 	}
 
-	public void add(IEbeat ebeat) {
+	public IEbeat add(IEbeat ebeat) {
 		xmlEbeats.add(ebeat);
 		ebeats.add(ebeat);
+		return ebeat;
 	}
 
-	public void add(ISection section) {
+	public ISection add(ISection section) {
 		xmlSections.add(section);
 		sections.add(section);
+		return section;
 	}
 
-	public void add(IEvent event) {
+	public IEvent add(IEvent event) {
 		xmlEvents.add(event);
 		events.add(event);
+		return event;
 	}
 
-	public void add(ILevel level) {
+	public ILevel add(ILevel level) {
 		xmlLevels.add(level);
 		levels.add(level);
+		return level;
+	}
+
+	public IMeasure add(IMeasure measure) {
+		measures.add(measure);
+		return measure;
 	}
 
 	public String getTitle() {
@@ -236,7 +269,7 @@ public class SongEntity implements ISongEntity {
 		this.offset = offset;
 	}
 
-	public Double getSongLength() {
+	public double getSongLength() {
 		return songLength;
 	}
 
@@ -254,5 +287,25 @@ public class SongEntity implements ISongEntity {
 
 	public List<IPhraseEntity> getPhrases() {
 		return phrases;
+	}
+
+	public List<IMeasure> getMeasures() {
+		return measures;
+	}
+
+	public List<IEbeat> getEbeats() {
+		return ebeats;
+	}
+
+	public void setArtistName(String artistName) {
+		this.artistName = artistName;
+	}
+
+	public void setAlbum(String albumName) {
+		this.albumName = albumName;
+	}
+
+	public void setAlbumYear(String albumYear) {
+		this.albumYear = albumYear;
 	}
 }

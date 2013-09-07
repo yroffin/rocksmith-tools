@@ -15,36 +15,30 @@
  */
 package org.yroffin.rocksmith.model.impl;
 
-import java.text.DecimalFormat;
-import java.util.Locale;
-
+import org.yroffin.rocksmith.model.ConvertTools;
 import org.yroffin.rocksmith.model.ISection;
 
 public class SectionEntity implements ISection {
 
 	private final String name;
 	private final int number;
-	private final float startTime;
+	private final double startTime;
 
-	public static SectionEntity factory(String name, int number, float startTime) {
+	public static SectionEntity factory(String name, int number,
+			double startTime) {
 		SectionEntity entity = new SectionEntity(name, number, startTime);
 		return entity;
 	}
 
-	private SectionEntity(String name, int number, float startTime) {
+	private SectionEntity(String name, int number, double startTime) {
 		this.name = name;
 		this.number = number;
 		this.startTime = startTime;
 	}
 
 	public StringBuilder asXml(StringBuilder xml) {
-		DecimalFormat df = (DecimalFormat) DecimalFormat
-				.getNumberInstance(Locale.ENGLISH);
-		df.setMaximumFractionDigits(3);
-		df.setMinimumFractionDigits(3);
-		df.setDecimalSeparatorAlwaysShown(true);
-		xml.append("\n<section name=\"" + name + "\" number=\"" + number
-				+ "\" startTime=\"" + df.format(startTime) + "\"/>");
+		xml.append("\n    <section name=\"" + name + "\" number=\"" + number
+				+ "\" startTime=\"" + ConvertTools.format(startTime) + "\"/>");
 		return xml;
 	}
 }

@@ -15,34 +15,35 @@
  */
 package org.yroffin.rocksmith.model.impl;
 
-import java.text.DecimalFormat;
-import java.util.Locale;
-
+import org.yroffin.rocksmith.model.ConvertTools;
 import org.yroffin.rocksmith.model.IEbeat;
 
 public class EbeatEntity implements IEbeat {
 
-	private final float time;
+	private final double time;
 	private final int measure;
 
-	public static EbeatEntity factory(float time, int measure) {
+	public static EbeatEntity factory(double time, int measure) {
 		EbeatEntity entity = new EbeatEntity(time, measure);
 		return entity;
 	}
 
-	private EbeatEntity(float time, int measure) {
+	private EbeatEntity(double time, int measure) {
 		this.time = time;
 		this.measure = measure;
 	}
 
+	public int getMeasureId() {
+		return measure;
+	}
+
+	public double getTime() {
+		return time;
+	}
+
 	public StringBuilder asXml(StringBuilder xml) {
-		DecimalFormat df = (DecimalFormat) DecimalFormat
-				.getNumberInstance(Locale.ENGLISH);
-		df.setMaximumFractionDigits(3);
-		df.setMinimumFractionDigits(3);
-		df.setDecimalSeparatorAlwaysShown(true);
-		xml.append("\n<ebeat time=\"" + df.format(time) + "\" measure=\""
-				+ measure + "\"/>");
+		xml.append("\n    <ebeat time=\"" + ConvertTools.format(time)
+				+ "\" measure=\"" + measure + "\"/>");
 		return xml;
 	}
 }

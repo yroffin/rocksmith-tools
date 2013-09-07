@@ -7,6 +7,9 @@
   <modules>
   	<module>rocksmith-tools-model</module>
   	<module>rocksmith-tools-core</module>
+  	<module>rocksmith-gpro</module>
+  	<module>rocksmith-tools-gpro</module>
+  	<module>rocksmith-tools-tuxguitar</module>
   </modules>
   <dependencies>
   	<dependency>

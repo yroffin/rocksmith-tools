@@ -49,4 +49,6 @@ public interface IPhraseEntity extends IXmlEntity {
 	public void setId(int size);
 
 	public int getId();
+
+	public int getMeasureId();
 }

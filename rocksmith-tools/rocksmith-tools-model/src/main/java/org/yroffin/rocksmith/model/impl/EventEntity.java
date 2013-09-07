@@ -15,34 +15,27 @@
  */
 package org.yroffin.rocksmith.model.impl;
 
-import java.text.DecimalFormat;
-import java.util.Locale;
-
+import org.yroffin.rocksmith.model.ConvertTools;
 import org.yroffin.rocksmith.model.IEvent;
 
 public class EventEntity implements IEvent {
 
-	private final float time;
+	private final double time;
 	private final String code;
 
-	public static EventEntity factory(float time, String code) {
+	public static EventEntity factory(double time, String code) {
 		EventEntity entity = new EventEntity(time, code);
 		return entity;
 	}
 
-	private EventEntity(float time, String code) {
+	private EventEntity(double time, String code) {
 		this.time = time;
 		this.code = code;
 	}
 
 	public StringBuilder asXml(StringBuilder xml) {
-		DecimalFormat df = (DecimalFormat) DecimalFormat
-				.getNumberInstance(Locale.ENGLISH);
-		df.setMaximumFractionDigits(3);
-		df.setMinimumFractionDigits(3);
-		df.setDecimalSeparatorAlwaysShown(true);
-		xml.append("\n<event time=\"" + df.format(time) + "\" number=\"" + code
-				+ "\"/>");
+		xml.append("\n<event time=\"" + ConvertTools.format(time)
+				+ "\" number=\"" + code + "\"/>");
 		return xml;
 	}
 }

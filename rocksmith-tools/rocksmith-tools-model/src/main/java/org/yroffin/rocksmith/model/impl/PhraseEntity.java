@@ -28,29 +28,31 @@ public class PhraseEntity implements IPhraseEntity {
 	private final int solo;
 	private final String name;
 	private int id;
+	private final int measure;
 
 	private static List<IPhraseEntity> phrases = new ArrayList<IPhraseEntity>();
 
 	public static IPhraseEntity factory(int disparity, int ignore,
-			int maxDifficulty, String name, int solo) {
+			int maxDifficulty, String name, int solo, int measure) {
 		IPhraseEntity entity = new PhraseEntity(disparity, ignore,
-				maxDifficulty, name, solo);
+				maxDifficulty, name, solo, measure);
 		entity.setId(phrases.size());
 		phrases.add(entity);
 		return entity;
 	}
 
 	private PhraseEntity(int disparity, int ignore, int maxDifficulty,
-			String name, int solo) {
+			String name, int solo, int measure) {
 		this.disparity = disparity;
 		this.ignore = ignore;
 		this.maxDifficulty = maxDifficulty;
 		this.solo = solo;
 		this.name = name;
+		this.measure = measure;
 	}
 
 	public StringBuilder asXml(StringBuilder xml) {
-		xml.append("\n<phrase disparity=\"" + disparity + "\" ignore=\""
+		xml.append("\n    <phrase disparity=\"" + disparity + "\" ignore=\""
 				+ ignore + "\" maxDifficulty=\"" + maxDifficulty + "\" name=\""
 				+ name + "\" solo=\"" + solo + "\"/>");
 		return xml;
@@ -66,5 +68,25 @@ public class PhraseEntity implements IPhraseEntity {
 
 	public int getId() {
 		return id;
+	}
+
+	public int getMeasureId() {
+		return measure;
+	}
+
+	@Override
+	public String toString() {
+		return "PhraseEntity [disparity=" + disparity + ", ignore=" + ignore
+				+ ", maxDifficulty=" + maxDifficulty + ", solo=" + solo
+				+ ", name=" + name + ", id=" + id + ", measure=" + measure
+				+ "]";
+	}
+
+	public boolean isFirst() {
+		return id == 0;
+	}
+
+	public boolean isLast() {
+		return id == (phrases.size() - 1);
 	}
 }

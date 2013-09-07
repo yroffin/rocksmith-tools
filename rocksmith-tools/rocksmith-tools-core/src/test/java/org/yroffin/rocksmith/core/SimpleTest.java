@@ -35,10 +35,10 @@ public class SimpleTest {
 		/**
 		 * phrases
 		 */
-		root.add(PhraseEntity.factory(0, 0, 0, "COUNT", 0));
-		root.add(PhraseEntity.factory(0, 0, 3, "Verse", 0));
-		root.add(PhraseEntity.factory(0, 0, 4, "Chorus", 0));
-		root.add(PhraseEntity.factory(0, 0, 0, "END", 0));
+		root.add(PhraseEntity.factory(0, 0, 0, "COUNT", 0, -1));
+		root.add(PhraseEntity.factory(0, 0, 3, "Verse", 0, -1));
+		root.add(PhraseEntity.factory(0, 0, 4, "Chorus", 0, -1));
+		root.add(PhraseEntity.factory(0, 0, 0, "END", 0, -1));
 		/**
 		 * phraseIterations
 		 */
@@ -85,8 +85,10 @@ public class SimpleTest {
 		 */
 		ILevel level = null;
 		level = LevelEntity.factory(1);
-		level.add(NoteEntity.factory(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12));
-		level.add(NoteEntity.factory(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12));
+		level.add(NoteEntity.factory(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12,
+				-1, -1, false));
+		level.add(NoteEntity.factory(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12,
+				-1, -1, false));
 		level.add(AnchorEntity.factory(0, 1));
 		level.add(AnchorEntity.factory(0, 1));
 		root.add(level);

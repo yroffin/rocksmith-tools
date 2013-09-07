@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song>
+  <part>0</part>
+  <offset>0.000</offset>
+  <songLength>0.000</songLength>
+  <startBeat>0.000</startBeat>
+  <averageTempo>125.231</averageTempo>
+  <tuning string0="0" string1="0" string2="0" string3="0" string4="0" string5="0" />
+  <artistName>null</artistName>
+  <albumName>null</albumName>
+  <albumYear>null</albumYear>
+  <arrangementProperties represent="1" standardTuning="1" nonStandardChords="1" barreChords="0" powerChords="1" dropDPower="0" openChords="1" fingerPicking="0" pickDirection="0" doubleStops="1" palmMutes="0" harmonics="1" pinchHarmonics="0" hopo="1" tremolo="0" slides="1" unpitchedSlides="0" bends="1" tapping="0" vibrato="1" fretHandMutes="0" slapPop="0" twoFingerPicking="0" fifthsAndOctaves="0" syncopation="0" bassPick="0" />
+  <phrases count="0"/>
+  <phraseIterations count="0"/>
+  <linkedDiffs count="0"/>
+  <phraseProperties count="0"/>
+  <chordTemplates count="0"/>
+  <fretHandMuteTemplates count="0"/>
+  <ebeats count="0"/>
+  <sections count="0"/>
+  <events count="0"/>
+  <levels count="0"/>
+</song>

@@ -15,14 +15,14 @@
  */
 package org.yroffin.rocksmith.model.impl;
 
-import java.text.DecimalFormat;
-import java.util.Locale;
-
+import org.yroffin.rocksmith.model.ConvertTools;
 import org.yroffin.rocksmith.model.INote;
 
 public class NoteEntity implements INote {
 
-	private float time;
+	private final long time;
+	private final int slap;
+	private final int pluck;
 	private final int bend;
 	private final int fret;
 	private final int hammerOn;
@@ -31,23 +31,30 @@ public class NoteEntity implements INote {
 	private final int ignore;
 	private final int palmMute;
 	private final int pullOff;
-	private final int slideTo;
+	private int slideTo;
 	private final int string;
-	private final int sustain;
-	private final int tremolo;
+	private long sustain;
 
-	public static INote factory(float time, int bend, int fret, int hammerOn,
+	private final int tremolo;
+	private final boolean tied;
+
+	public static INote factory(long time, int bend, int fret, int hammerOn,
 			int harmonic, int hopo, int ignore, int palmMute, int pullOff,
-			int slideTo, int string, int sustain, int tremolo) {
+			int slideTo, int string, long sustain, int tremolo, int slap,
+			int pluck, boolean tied) {
 		NoteEntity entity = new NoteEntity(time, bend, fret, hammerOn,
 				harmonic, hopo, ignore, palmMute, pullOff, slideTo, string,
-				sustain, tremolo);
+				sustain, tremolo, slap, pluck, tied);
 		return entity;
 	}
 
-	private NoteEntity(float time, int bend, int fret, int hammerOn,
+	private NoteEntity(long time, int bend, int fret, int hammerOn,
 			int harmonic, int hopo, int ignore, int palmMute, int pullOff,
-			int slideTo, int string, int sustain, int tremolo) {
+			int slideTo, int string, long sustain, int tremolo, int slap,
+			int pluck, boolean tied) {
+		this.slap = slap;
+		this.pluck = pluck;
+		this.time = time;
 		this.bend = bend;
 		this.fret = fret;
 		this.hammerOn = hammerOn;
@@ -60,21 +67,49 @@ public class NoteEntity implements INote {
 		this.string = string;
 		this.sustain = sustain;
 		this.tremolo = tremolo;
+		this.tied = tied;
+	}
+
+	public boolean isTied() {
+		return tied;
+	}
+
+	public void addSustain(long sustain) {
+		this.sustain += sustain;
+	}
+
+	public long getTime() {
+		return time;
+	}
+
+	public void setSlideTo(int value) {
+		this.slideTo = value;
+	}
+
+	public int getFret() {
+		return fret;
+	}
+
+	public boolean isSlide() {
+		return slideTo == 1;
+	}
+
+	@Override
+	public String toString() {
+		return "NoteEntity [time=" + time + ", fret=" + fret + ", string="
+				+ string + "]";
 	}
 
 	public StringBuilder asXml(StringBuilder xml) {
-		DecimalFormat df = (DecimalFormat) DecimalFormat
-				.getNumberInstance(Locale.ENGLISH);
-		df.setMaximumFractionDigits(3);
-		df.setMinimumFractionDigits(3);
-		df.setDecimalSeparatorAlwaysShown(true);
-		xml.append("\n<note time=\"" + df.format(time) + "\" bend=\"" + bend
-				+ "\" fret=\"" + fret + "\" hammerOn=\"" + hammerOn
-				+ "\" harmonic=\"" + harmonic + "\" hopo=\"" + hopo
-				+ ", ignore=\"" + ignore + "\" palmMute=\"" + palmMute
-				+ "\" pullOff=\"" + pullOff + "\" slideTo=\"" + slideTo
-				+ "\" string=\"" + string + "\" sustain=\"" + sustain
-				+ "\" tremolo=\"" + tremolo + "\" />");
+		xml.append("\n        <note time=\"" + ConvertTools.format(time)
+				+ "\" bend=\"" + bend + "\" fret=\"" + fret + "\" hammerOn=\""
+				+ hammerOn + "\" harmonic=\"" + harmonic + "\" hopo=\"" + hopo
+				+ "\" ignore=\"" + ignore + "\" palmMute=\"" + palmMute
+				+ "\" pluck=\"" + pluck + "\" pullOff=\"" + pullOff
+				+ "\" slap=\"" + slap + "\" slideTo=\"" + slideTo
+				+ "\" string=\"" + string + "\" sustain=\""
+				+ ConvertTools.format(sustain) + "\" tremolo=\"" + tremolo
+				+ "\"/>");
 		return xml;
 	}
 }

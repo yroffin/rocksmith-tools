@@ -16,6 +16,7 @@
 package org.yroffin.rocksmith.model;
 
 import java.util.Date;
+import java.util.List;
 
 /**
  * SongEntity model based on
@@ -90,6 +91,8 @@ public interface ISongEntity extends IXmlEntity {
 	 */
 	void setSongLength(double d);
 
+	double getSongLength();
+
 	/**
 	 * LastConversionDateTime
 	 * 
@@ -104,7 +107,7 @@ public interface ISongEntity extends IXmlEntity {
 	 */
 	void setLastConversionDateTime(Date date);
 
-	void add(IEbeat phrase);
+	IEbeat add(IEbeat phrase);
 
 	void add(IPhraseEntity phrase);
 
@@ -114,11 +117,25 @@ public interface ISongEntity extends IXmlEntity {
 
 	void add(IPhraseProperty phraseProperty);
 
-	void add(IChordTemplate chordTemplate);
+	IChordTemplate add(IChordTemplate chordTemplate);
 
-	void add(ISection section);
+	ISection add(ISection section);
 
-	void add(IEvent event);
+	IEvent add(IEvent event);
 
-	void add(ILevel level);
+	ILevel add(ILevel level);
+
+	List<IPhraseEntity> getPhrases();
+
+	IMeasure add(IMeasure factory);
+
+	List<IMeasure> getMeasures();
+
+	List<IEbeat> getEbeats();
+
+	void setArtistName(String artist);
+
+	void setAlbum(String album);
+
+	void setAlbumYear(String date);
 }

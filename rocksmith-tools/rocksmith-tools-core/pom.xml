@@ -12,5 +12,25 @@
   		<artifactId>rocksmith-tools-model</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
+  	<dependency>
+  		<groupId>org.yroffin.rocksmith</groupId>
+  		<artifactId>rocksmith-tools-gpro</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.slf4j</groupId>
+  		<artifactId>slf4j-api</artifactId>
+  		<version>1.7.5</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>ch.qos.logback</groupId>
+  		<artifactId>logback-classic</artifactId>
+  		<version>1.0.13</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.yroffin.rocksmith</groupId>
+  		<artifactId>rocksmith-tools-tuxguitar</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
 </project>
